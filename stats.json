@@ -1,1 +1,4582 @@
-{}
+{
+  "fighter": {
+    "id": "1122738358",
+    "name": "かぱめ。",
+    "mainCharacterId": 9,
+    "mainCharacter": "Cammy",
+    "mostPlayedCharacterId": 9,
+    "mostPlayedCharacter": "Cammy",
+    "favoriteCharacterId": 9,
+    "synchronizedAt": "2026-09-08T19:39:48.827Z",
+    "leagues": [
+      {
+        "characterId": 9,
+        "character": "Cammy",
+        "lp": -1,
+        "mr": 0
+      },
+      {
+        "characterId": 18,
+        "character": "Guile",
+        "lp": -1,
+        "mr": 0
+      }
+    ]
+  },
+  "summary": {
+    "wins": 3,
+    "losses": 54,
+    "draws": 0,
+    "total": 57,
+    "diff": -51,
+    "winRate": 5.263157894736842
+  },
+  "matchCount": 57,
+  "matchups": [
+    {
+      "homeCharacterId": 9,
+      "homeCharacter": "Cammy",
+      "characterId": 31,
+      "character": "Alex",
+      "inputTypeId": 0,
+      "inputType": "Classic",
+      "score": {
+        "wins": 0,
+        "losses": 18,
+        "draws": 0,
+        "total": 18,
+        "diff": -18,
+        "winRate": 0
+      },
+      "communityWinRate": 42.9
+    },
+    {
+      "homeCharacterId": 9,
+      "homeCharacter": "Cammy",
+      "characterId": 9,
+      "character": "Cammy",
+      "inputTypeId": 0,
+      "inputType": "Classic",
+      "score": {
+        "wins": 0,
+        "losses": 11,
+        "draws": 0,
+        "total": 11,
+        "diff": -11,
+        "winRate": 0
+      },
+      "communityWinRate": null
+    },
+    {
+      "homeCharacterId": 9,
+      "homeCharacter": "Cammy",
+      "characterId": 21,
+      "character": "Jamie",
+      "inputTypeId": 0,
+      "inputType": "Classic",
+      "score": {
+        "wins": 0,
+        "losses": 7,
+        "draws": 0,
+        "total": 7,
+        "diff": -7,
+        "winRate": 0
+      },
+      "communityWinRate": 57.7
+    },
+    {
+      "homeCharacterId": 9,
+      "homeCharacter": "Cammy",
+      "characterId": 21,
+      "character": "Jamie",
+      "inputTypeId": 1,
+      "inputType": "Modern",
+      "score": {
+        "wins": 3,
+        "losses": 3,
+        "draws": 0,
+        "total": 6,
+        "diff": 0,
+        "winRate": 50
+      },
+      "communityWinRate": 57.7
+    },
+    {
+      "homeCharacterId": 9,
+      "homeCharacter": "Cammy",
+      "characterId": 6,
+      "character": "Zangief",
+      "inputTypeId": 1,
+      "inputType": "Modern",
+      "score": {
+        "wins": 0,
+        "losses": 4,
+        "draws": 0,
+        "total": 4,
+        "diff": -4,
+        "winRate": 0
+      },
+      "communityWinRate": 35.8
+    },
+    {
+      "homeCharacterId": 9,
+      "homeCharacter": "Cammy",
+      "characterId": 32,
+      "character": "Ingrid",
+      "inputTypeId": 1,
+      "inputType": "Modern",
+      "score": {
+        "wins": 0,
+        "losses": 2,
+        "draws": 0,
+        "total": 2,
+        "diff": -2,
+        "winRate": 0
+      },
+      "communityWinRate": 49.7
+    },
+    {
+      "homeCharacterId": 9,
+      "homeCharacter": "Cammy",
+      "characterId": 7,
+      "character": "JP",
+      "inputTypeId": 0,
+      "inputType": "Classic",
+      "score": {
+        "wins": 0,
+        "losses": 2,
+        "draws": 0,
+        "total": 2,
+        "diff": -2,
+        "winRate": 0
+      },
+      "communityWinRate": 48.3
+    },
+    {
+      "homeCharacterId": 9,
+      "homeCharacter": "Cammy",
+      "characterId": 28,
+      "character": "Mai",
+      "inputTypeId": 0,
+      "inputType": "Classic",
+      "score": {
+        "wins": 0,
+        "losses": 2,
+        "draws": 0,
+        "total": 2,
+        "diff": -2,
+        "winRate": 0
+      },
+      "communityWinRate": 46.8
+    },
+    {
+      "homeCharacterId": 9,
+      "homeCharacter": "Cammy",
+      "characterId": 1,
+      "character": "Ryu",
+      "inputTypeId": 0,
+      "inputType": "Classic",
+      "score": {
+        "wins": 0,
+        "losses": 2,
+        "draws": 0,
+        "total": 2,
+        "diff": -2,
+        "winRate": 0
+      },
+      "communityWinRate": 44
+    },
+    {
+      "homeCharacterId": 9,
+      "homeCharacter": "Cammy",
+      "characterId": 9,
+      "character": "Cammy",
+      "inputTypeId": 1,
+      "inputType": "Modern",
+      "score": {
+        "wins": 0,
+        "losses": 2,
+        "draws": 0,
+        "total": 2,
+        "diff": -2,
+        "winRate": 0
+      },
+      "communityWinRate": null
+    },
+    {
+      "homeCharacterId": 9,
+      "homeCharacter": "Cammy",
+      "characterId": 33,
+      "character": "Yasmine",
+      "inputTypeId": 0,
+      "inputType": "Classic",
+      "score": {
+        "wins": 0,
+        "losses": 1,
+        "draws": 0,
+        "total": 1,
+        "diff": -1,
+        "winRate": 0
+      },
+      "communityWinRate": null
+    }
+  ],
+  "communityMatchupsMonth": "202607",
+  "playedCharacters": [
+    {
+      "characterId": 9,
+      "character": "Cammy",
+      "games": 57
+    }
+  ],
+  "rivals": {
+    "favorites": [
+      {
+        "fighterId": "3008680823",
+        "name": "Naporitan",
+        "characterId": 31,
+        "character": "Alex",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 0,
+          "losses": 18,
+          "draws": 0,
+          "total": 18,
+          "diff": -18,
+          "winRate": 0
+        },
+        "synced": true
+      },
+      {
+        "fighterId": "1611650307",
+        "name": "すなぎも",
+        "characterId": 21,
+        "character": "Jamie",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 0,
+          "losses": 7,
+          "draws": 0,
+          "total": 7,
+          "diff": -7,
+          "winRate": 0
+        },
+        "synced": true
+      },
+      {
+        "fighterId": "3434421732",
+        "name": "ルチパー",
+        "characterId": 9,
+        "character": "Cammy",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 0,
+          "losses": 7,
+          "draws": 0,
+          "total": 7,
+          "diff": -7,
+          "winRate": 0
+        },
+        "synced": true
+      },
+      {
+        "fighterId": "2072169222",
+        "name": "屁神屁霸屁屁酱",
+        "characterId": 21,
+        "character": "Jamie",
+        "inputTypeId": 1,
+        "inputType": "Modern",
+        "score": {
+          "wins": 3,
+          "losses": 3,
+          "draws": 0,
+          "total": 6,
+          "diff": 0,
+          "winRate": 50
+        },
+        "synced": true
+      },
+      {
+        "fighterId": "3990114445",
+        "name": "✿ⓃⒺⓄ✿",
+        "characterId": 6,
+        "character": "Zangief",
+        "inputTypeId": 1,
+        "inputType": "Modern",
+        "score": {
+          "wins": 0,
+          "losses": 4,
+          "draws": 0,
+          "total": 4,
+          "diff": -4,
+          "winRate": 0
+        },
+        "synced": true
+      },
+      {
+        "fighterId": "3452764755",
+        "name": "シマ横浜　十字キー死亡ヤニ猫",
+        "characterId": 32,
+        "character": "Ingrid",
+        "inputTypeId": 1,
+        "inputType": "Modern",
+        "score": {
+          "wins": 0,
+          "losses": 2,
+          "draws": 0,
+          "total": 2,
+          "diff": -2,
+          "winRate": 0
+        },
+        "synced": true
+      },
+      {
+        "fighterId": "2885052114",
+        "name": "きんのたまく",
+        "characterId": 7,
+        "character": "JP",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 0,
+          "losses": 2,
+          "draws": 0,
+          "total": 2,
+          "diff": -2,
+          "winRate": 0
+        },
+        "synced": false
+      },
+      {
+        "fighterId": "3085672272",
+        "name": "きるずゆご",
+        "characterId": 28,
+        "character": "Mai",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 0,
+          "losses": 2,
+          "draws": 0,
+          "total": 2,
+          "diff": -2,
+          "winRate": 0
+        },
+        "synced": true
+      },
+      {
+        "fighterId": "3787922592",
+        "name": "いけち。",
+        "characterId": 9,
+        "character": "Cammy",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 0,
+          "losses": 2,
+          "draws": 0,
+          "total": 2,
+          "diff": -2,
+          "winRate": 0
+        },
+        "synced": false
+      },
+      {
+        "fighterId": "2252442802",
+        "name": "ぼこら　レ　バンナ",
+        "characterId": 1,
+        "character": "Ryu",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 0,
+          "losses": 2,
+          "draws": 0,
+          "total": 2,
+          "diff": -2,
+          "winRate": 0
+        },
+        "synced": false
+      },
+      {
+        "fighterId": "3990114445",
+        "name": "✿ⓃⒺⓄ✿",
+        "characterId": 9,
+        "character": "Cammy",
+        "inputTypeId": 1,
+        "inputType": "Modern",
+        "score": {
+          "wins": 0,
+          "losses": 2,
+          "draws": 0,
+          "total": 2,
+          "diff": -2,
+          "winRate": 0
+        },
+        "synced": true
+      },
+      {
+        "fighterId": "3672801202",
+        "name": "エル・プサイ・うそぴルゥ_pc",
+        "characterId": 9,
+        "character": "Cammy",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 0,
+          "losses": 2,
+          "draws": 0,
+          "total": 2,
+          "diff": -2,
+          "winRate": 0
+        },
+        "synced": false
+      },
+      {
+        "fighterId": "3857916400",
+        "name": "unkonow",
+        "characterId": 33,
+        "character": "Yasmine",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 0,
+          "losses": 1,
+          "draws": 0,
+          "total": 1,
+          "diff": -1,
+          "winRate": 0
+        },
+        "synced": true
+      }
+    ],
+    "victims": [
+      {
+        "fighterId": "2072169222",
+        "name": "屁神屁霸屁屁酱",
+        "characterId": 21,
+        "character": "Jamie",
+        "inputTypeId": 1,
+        "inputType": "Modern",
+        "score": {
+          "wins": 3,
+          "losses": 3,
+          "draws": 0,
+          "total": 6,
+          "diff": 0,
+          "winRate": 50
+        },
+        "synced": true
+      },
+      {
+        "fighterId": "3857916400",
+        "name": "unkonow",
+        "characterId": 33,
+        "character": "Yasmine",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 0,
+          "losses": 1,
+          "draws": 0,
+          "total": 1,
+          "diff": -1,
+          "winRate": 0
+        },
+        "synced": true
+      },
+      {
+        "fighterId": "3452764755",
+        "name": "シマ横浜　十字キー死亡ヤニ猫",
+        "characterId": 32,
+        "character": "Ingrid",
+        "inputTypeId": 1,
+        "inputType": "Modern",
+        "score": {
+          "wins": 0,
+          "losses": 2,
+          "draws": 0,
+          "total": 2,
+          "diff": -2,
+          "winRate": 0
+        },
+        "synced": true
+      },
+      {
+        "fighterId": "2885052114",
+        "name": "きんのたまく",
+        "characterId": 7,
+        "character": "JP",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 0,
+          "losses": 2,
+          "draws": 0,
+          "total": 2,
+          "diff": -2,
+          "winRate": 0
+        },
+        "synced": false
+      },
+      {
+        "fighterId": "3085672272",
+        "name": "きるずゆご",
+        "characterId": 28,
+        "character": "Mai",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 0,
+          "losses": 2,
+          "draws": 0,
+          "total": 2,
+          "diff": -2,
+          "winRate": 0
+        },
+        "synced": true
+      },
+      {
+        "fighterId": "3787922592",
+        "name": "いけち。",
+        "characterId": 9,
+        "character": "Cammy",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 0,
+          "losses": 2,
+          "draws": 0,
+          "total": 2,
+          "diff": -2,
+          "winRate": 0
+        },
+        "synced": false
+      },
+      {
+        "fighterId": "2252442802",
+        "name": "ぼこら　レ　バンナ",
+        "characterId": 1,
+        "character": "Ryu",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 0,
+          "losses": 2,
+          "draws": 0,
+          "total": 2,
+          "diff": -2,
+          "winRate": 0
+        },
+        "synced": false
+      },
+      {
+        "fighterId": "3990114445",
+        "name": "✿ⓃⒺⓄ✿",
+        "characterId": 9,
+        "character": "Cammy",
+        "inputTypeId": 1,
+        "inputType": "Modern",
+        "score": {
+          "wins": 0,
+          "losses": 2,
+          "draws": 0,
+          "total": 2,
+          "diff": -2,
+          "winRate": 0
+        },
+        "synced": true
+      },
+      {
+        "fighterId": "3672801202",
+        "name": "エル・プサイ・うそぴルゥ_pc",
+        "characterId": 9,
+        "character": "Cammy",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 0,
+          "losses": 2,
+          "draws": 0,
+          "total": 2,
+          "diff": -2,
+          "winRate": 0
+        },
+        "synced": false
+      },
+      {
+        "fighterId": "3990114445",
+        "name": "✿ⓃⒺⓄ✿",
+        "characterId": 6,
+        "character": "Zangief",
+        "inputTypeId": 1,
+        "inputType": "Modern",
+        "score": {
+          "wins": 0,
+          "losses": 4,
+          "draws": 0,
+          "total": 4,
+          "diff": -4,
+          "winRate": 0
+        },
+        "synced": true
+      },
+      {
+        "fighterId": "1611650307",
+        "name": "すなぎも",
+        "characterId": 21,
+        "character": "Jamie",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 0,
+          "losses": 7,
+          "draws": 0,
+          "total": 7,
+          "diff": -7,
+          "winRate": 0
+        },
+        "synced": true
+      },
+      {
+        "fighterId": "3434421732",
+        "name": "ルチパー",
+        "characterId": 9,
+        "character": "Cammy",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 0,
+          "losses": 7,
+          "draws": 0,
+          "total": 7,
+          "diff": -7,
+          "winRate": 0
+        },
+        "synced": true
+      },
+      {
+        "fighterId": "3008680823",
+        "name": "Naporitan",
+        "characterId": 31,
+        "character": "Alex",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 0,
+          "losses": 18,
+          "draws": 0,
+          "total": 18,
+          "diff": -18,
+          "winRate": 0
+        },
+        "synced": true
+      }
+    ],
+    "tormentors": [
+      {
+        "fighterId": "3008680823",
+        "name": "Naporitan",
+        "characterId": 31,
+        "character": "Alex",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 0,
+          "losses": 18,
+          "draws": 0,
+          "total": 18,
+          "diff": -18,
+          "winRate": 0
+        },
+        "synced": true
+      },
+      {
+        "fighterId": "1611650307",
+        "name": "すなぎも",
+        "characterId": 21,
+        "character": "Jamie",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 0,
+          "losses": 7,
+          "draws": 0,
+          "total": 7,
+          "diff": -7,
+          "winRate": 0
+        },
+        "synced": true
+      },
+      {
+        "fighterId": "3434421732",
+        "name": "ルチパー",
+        "characterId": 9,
+        "character": "Cammy",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 0,
+          "losses": 7,
+          "draws": 0,
+          "total": 7,
+          "diff": -7,
+          "winRate": 0
+        },
+        "synced": true
+      },
+      {
+        "fighterId": "3990114445",
+        "name": "✿ⓃⒺⓄ✿",
+        "characterId": 6,
+        "character": "Zangief",
+        "inputTypeId": 1,
+        "inputType": "Modern",
+        "score": {
+          "wins": 0,
+          "losses": 4,
+          "draws": 0,
+          "total": 4,
+          "diff": -4,
+          "winRate": 0
+        },
+        "synced": true
+      },
+      {
+        "fighterId": "3452764755",
+        "name": "シマ横浜　十字キー死亡ヤニ猫",
+        "characterId": 32,
+        "character": "Ingrid",
+        "inputTypeId": 1,
+        "inputType": "Modern",
+        "score": {
+          "wins": 0,
+          "losses": 2,
+          "draws": 0,
+          "total": 2,
+          "diff": -2,
+          "winRate": 0
+        },
+        "synced": true
+      },
+      {
+        "fighterId": "2885052114",
+        "name": "きんのたまく",
+        "characterId": 7,
+        "character": "JP",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 0,
+          "losses": 2,
+          "draws": 0,
+          "total": 2,
+          "diff": -2,
+          "winRate": 0
+        },
+        "synced": false
+      },
+      {
+        "fighterId": "3085672272",
+        "name": "きるずゆご",
+        "characterId": 28,
+        "character": "Mai",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 0,
+          "losses": 2,
+          "draws": 0,
+          "total": 2,
+          "diff": -2,
+          "winRate": 0
+        },
+        "synced": true
+      },
+      {
+        "fighterId": "3787922592",
+        "name": "いけち。",
+        "characterId": 9,
+        "character": "Cammy",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 0,
+          "losses": 2,
+          "draws": 0,
+          "total": 2,
+          "diff": -2,
+          "winRate": 0
+        },
+        "synced": false
+      },
+      {
+        "fighterId": "2252442802",
+        "name": "ぼこら　レ　バンナ",
+        "characterId": 1,
+        "character": "Ryu",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 0,
+          "losses": 2,
+          "draws": 0,
+          "total": 2,
+          "diff": -2,
+          "winRate": 0
+        },
+        "synced": false
+      },
+      {
+        "fighterId": "3990114445",
+        "name": "✿ⓃⒺⓄ✿",
+        "characterId": 9,
+        "character": "Cammy",
+        "inputTypeId": 1,
+        "inputType": "Modern",
+        "score": {
+          "wins": 0,
+          "losses": 2,
+          "draws": 0,
+          "total": 2,
+          "diff": -2,
+          "winRate": 0
+        },
+        "synced": true
+      },
+      {
+        "fighterId": "3672801202",
+        "name": "エル・プサイ・うそぴルゥ_pc",
+        "characterId": 9,
+        "character": "Cammy",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 0,
+          "losses": 2,
+          "draws": 0,
+          "total": 2,
+          "diff": -2,
+          "winRate": 0
+        },
+        "synced": false
+      },
+      {
+        "fighterId": "3857916400",
+        "name": "unkonow",
+        "characterId": 33,
+        "character": "Yasmine",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 0,
+          "losses": 1,
+          "draws": 0,
+          "total": 1,
+          "diff": -1,
+          "winRate": 0
+        },
+        "synced": true
+      },
+      {
+        "fighterId": "2072169222",
+        "name": "屁神屁霸屁屁酱",
+        "characterId": 21,
+        "character": "Jamie",
+        "inputTypeId": 1,
+        "inputType": "Modern",
+        "score": {
+          "wins": 3,
+          "losses": 3,
+          "draws": 0,
+          "total": 6,
+          "diff": 0,
+          "winRate": 50
+        },
+        "synced": true
+      }
+    ]
+  },
+  "rankedHistory": [],
+  "rankedHistoryMeta": {
+    "localPoints": 0,
+    "importedPoints": 0,
+    "mergedPoints": 0,
+    "storedBattles": 57,
+    "sfbuff": {
+      "pointCount": 0,
+      "lastScrapedAt": null,
+      "fresh": false,
+      "cooldownDays": 7
+    }
+  },
+  "daily": [
+    {
+      "date": "2026-09-08",
+      "score": {
+        "wins": 3,
+        "losses": 54,
+        "draws": 0,
+        "total": 57,
+        "diff": -51,
+        "winRate": 5.263157894736842
+      }
+    }
+  ],
+  "matches": [
+    {
+      "replayId": "UHWPJAAYP",
+      "playedAt": "2026-09-08T18:10:02.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3452764755",
+        "name": "シマ横浜　十字キー死亡ヤニ猫",
+        "character": "Ingrid",
+        "characterId": 32,
+        "inputTypeId": 1,
+        "inputType": "Modern",
+        "mr": 1487,
+        "lp": 52271,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        6,
+        5
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "4GC6DEPLA",
+      "playedAt": "2026-09-08T18:08:02.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3452764755",
+        "name": "シマ横浜　十字キー死亡ヤニ猫",
+        "character": "Ingrid",
+        "characterId": 32,
+        "inputTypeId": 1,
+        "inputType": "Modern",
+        "mr": 1487,
+        "lp": 52271,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        6
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "D5X353DPX",
+      "playedAt": "2026-09-08T18:04:28.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "2885052114",
+        "name": "きんのたまく",
+        "character": "JP",
+        "characterId": 7,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 24438,
+        "synced": false
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        8
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "LDU7G8TKY",
+      "playedAt": "2026-09-08T18:02:57.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "2885052114",
+        "name": "きんのたまく",
+        "character": "JP",
+        "characterId": 7,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 24438,
+        "synced": false
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "9TUGSLWB5",
+      "playedAt": "2026-09-08T17:58:14.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3857916400",
+        "name": "unkonow",
+        "character": "Yasmine",
+        "characterId": 33,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 1500,
+        "lp": 25046,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        5,
+        5
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "S545AJRPR",
+      "playedAt": "2026-09-08T17:52:52.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3085672272",
+        "name": "きるずゆご",
+        "character": "Mai",
+        "characterId": 28,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 1909,
+        "lp": 345696,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        8,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "38QDRTMF8",
+      "playedAt": "2026-09-08T17:51:15.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3085672272",
+        "name": "きるずゆご",
+        "character": "Mai",
+        "characterId": 28,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 1909,
+        "lp": 345696,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        6
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "AJJWW9Q4G",
+      "playedAt": "2026-09-08T17:48:33.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "1611650307",
+        "name": "すなぎも",
+        "character": "Jamie",
+        "characterId": 21,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 15965,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "8WP6HEXRK",
+      "playedAt": "2026-09-08T17:46:27.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "1611650307",
+        "name": "すなぎも",
+        "character": "Jamie",
+        "characterId": 21,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 15965,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        5
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "F3VJQ3T5T",
+      "playedAt": "2026-09-08T17:44:40.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "1611650307",
+        "name": "すなぎも",
+        "character": "Jamie",
+        "characterId": 21,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 15965,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "G8UKF7TH7",
+      "playedAt": "2026-09-08T17:42:57.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "1611650307",
+        "name": "すなぎも",
+        "character": "Jamie",
+        "characterId": 21,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 15965,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "P8RC5QBDF",
+      "playedAt": "2026-09-08T17:40:58.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "1611650307",
+        "name": "すなぎも",
+        "character": "Jamie",
+        "characterId": 21,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 15965,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "6TXYFSGTA",
+      "playedAt": "2026-09-08T17:38:46.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "1611650307",
+        "name": "すなぎも",
+        "character": "Jamie",
+        "characterId": 21,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 15965,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "MJ5B8BUSQ",
+      "playedAt": "2026-09-08T17:37:11.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "1611650307",
+        "name": "すなぎも",
+        "character": "Jamie",
+        "characterId": 21,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 15965,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "ERHQD6T3K",
+      "playedAt": "2026-09-08T17:33:18.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3787922592",
+        "name": "いけち。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 25015,
+        "synced": false
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "35P3WE8EA",
+      "playedAt": "2026-09-08T17:32:07.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3787922592",
+        "name": "いけち。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 25015,
+        "synced": false
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "CWFACD7AN",
+      "playedAt": "2026-09-08T17:19:30.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "2072169222",
+        "name": "屁神屁霸屁屁酱",
+        "character": "Jamie",
+        "characterId": 21,
+        "inputTypeId": 1,
+        "inputType": "Modern",
+        "mr": 0,
+        "lp": 19000,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "YQHGMRKLK",
+      "playedAt": "2026-09-08T17:17:41.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "2072169222",
+        "name": "屁神屁霸屁屁酱",
+        "character": "Jamie",
+        "characterId": 21,
+        "inputTypeId": 1,
+        "inputType": "Modern",
+        "mr": 0,
+        "lp": 19000,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        6,
+        0,
+        0
+      ],
+      "awayRounds": [
+        0,
+        1,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "QF9XJ3RQB",
+      "playedAt": "2026-09-08T17:15:03.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "2072169222",
+        "name": "屁神屁霸屁屁酱",
+        "character": "Jamie",
+        "characterId": 21,
+        "inputTypeId": 1,
+        "inputType": "Modern",
+        "mr": 0,
+        "lp": 19000,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "X8A5CEVKG",
+      "playedAt": "2026-09-08T17:13:07.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "2072169222",
+        "name": "屁神屁霸屁屁酱",
+        "character": "Jamie",
+        "characterId": 21,
+        "inputTypeId": 1,
+        "inputType": "Modern",
+        "mr": 0,
+        "lp": 19000,
+        "synced": true
+      },
+      "result": 1,
+      "resultLabel": "W",
+      "homeRounds": [
+        6,
+        1
+      ],
+      "awayRounds": [
+        0,
+        0
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "PVSJHM9N6",
+      "playedAt": "2026-09-08T17:11:28.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "2072169222",
+        "name": "屁神屁霸屁屁酱",
+        "character": "Jamie",
+        "characterId": 21,
+        "inputTypeId": 1,
+        "inputType": "Modern",
+        "mr": 0,
+        "lp": 19000,
+        "synced": true
+      },
+      "result": 1,
+      "resultLabel": "W",
+      "homeRounds": [
+        1,
+        0,
+        1
+      ],
+      "awayRounds": [
+        0,
+        1,
+        0
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "RVYVW4LGU",
+      "playedAt": "2026-09-08T17:08:46.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "2072169222",
+        "name": "屁神屁霸屁屁酱",
+        "character": "Jamie",
+        "characterId": 21,
+        "inputTypeId": 1,
+        "inputType": "Modern",
+        "mr": 0,
+        "lp": 19000,
+        "synced": true
+      },
+      "result": 1,
+      "resultLabel": "W",
+      "homeRounds": [
+        1,
+        1
+      ],
+      "awayRounds": [
+        0,
+        0
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "LXAGSVABQ",
+      "playedAt": "2026-09-08T16:48:15.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "2252442802",
+        "name": "ぼこら　レ　バンナ",
+        "character": "Ryu",
+        "characterId": 1,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 1500,
+        "lp": 43110,
+        "synced": false
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        6,
+        5
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "4SF3QUHKG",
+      "playedAt": "2026-09-08T16:46:26.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "2252442802",
+        "name": "ぼこら　レ　バンナ",
+        "character": "Ryu",
+        "characterId": 1,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 1500,
+        "lp": 43110,
+        "synced": false
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        6
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "FE7JFRSWF",
+      "playedAt": "2026-09-08T16:31:22.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3990114445",
+        "name": "✿ⓃⒺⓄ✿",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 1,
+        "inputType": "Modern",
+        "mr": 0,
+        "lp": 6626,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "DXGB756CV",
+      "playedAt": "2026-09-08T16:29:17.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3990114445",
+        "name": "✿ⓃⒺⓄ✿",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 1,
+        "inputType": "Modern",
+        "mr": 0,
+        "lp": 6626,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        1,
+        0,
+        0
+      ],
+      "awayRounds": [
+        0,
+        8,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "9CT7P7RVV",
+      "playedAt": "2026-09-08T16:18:38.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3008680823",
+        "name": "Naporitan",
+        "character": "Alex",
+        "characterId": 31,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 1608,
+        "lp": 105254,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "4DUAXEBA4",
+      "playedAt": "2026-09-08T16:17:32.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3008680823",
+        "name": "Naporitan",
+        "character": "Alex",
+        "characterId": 31,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 1608,
+        "lp": 105254,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "SDYU33BCY",
+      "playedAt": "2026-09-08T16:16:16.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3008680823",
+        "name": "Naporitan",
+        "character": "Alex",
+        "characterId": 31,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 1608,
+        "lp": 105254,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "3YKFCG79B",
+      "playedAt": "2026-09-08T16:15:13.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3008680823",
+        "name": "Naporitan",
+        "character": "Alex",
+        "characterId": 31,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 1608,
+        "lp": 105254,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "4MY5BG55K",
+      "playedAt": "2026-09-08T16:13:56.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3008680823",
+        "name": "Naporitan",
+        "character": "Alex",
+        "characterId": 31,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 1608,
+        "lp": 105254,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "H5WXRLH4U",
+      "playedAt": "2026-09-08T16:12:30.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3008680823",
+        "name": "Naporitan",
+        "character": "Alex",
+        "characterId": 31,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 1608,
+        "lp": 105254,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        5,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "X8MEHRHAH",
+      "playedAt": "2026-09-08T16:10:54.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3008680823",
+        "name": "Naporitan",
+        "character": "Alex",
+        "characterId": 31,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 1608,
+        "lp": 105254,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        5,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "GHEBD767H",
+      "playedAt": "2026-09-08T16:09:32.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3008680823",
+        "name": "Naporitan",
+        "character": "Alex",
+        "characterId": 31,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 1608,
+        "lp": 105254,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "DATJPXDPF",
+      "playedAt": "2026-09-08T16:08:33.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3008680823",
+        "name": "Naporitan",
+        "character": "Alex",
+        "characterId": 31,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 1608,
+        "lp": 105254,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        6
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "HFCDLTYA6",
+      "playedAt": "2026-09-08T16:07:27.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3008680823",
+        "name": "Naporitan",
+        "character": "Alex",
+        "characterId": 31,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 1608,
+        "lp": 105254,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "H56TF3SVV",
+      "playedAt": "2026-09-08T16:06:24.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3008680823",
+        "name": "Naporitan",
+        "character": "Alex",
+        "characterId": 31,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 1608,
+        "lp": 105254,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "VS8SSAMAX",
+      "playedAt": "2026-09-08T16:05:00.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3008680823",
+        "name": "Naporitan",
+        "character": "Alex",
+        "characterId": 31,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 1608,
+        "lp": 105254,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "7C8HWUC3G",
+      "playedAt": "2026-09-08T16:03:54.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3008680823",
+        "name": "Naporitan",
+        "character": "Alex",
+        "characterId": 31,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 1608,
+        "lp": 105254,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        1,
+        0
+      ],
+      "awayRounds": [
+        1,
+        0,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "QR7S47TAW",
+      "playedAt": "2026-09-08T16:01:29.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3008680823",
+        "name": "Naporitan",
+        "character": "Alex",
+        "characterId": 31,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 1608,
+        "lp": 105254,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        2
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "E64UCYU9G",
+      "playedAt": "2026-09-08T15:59:51.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3008680823",
+        "name": "Naporitan",
+        "character": "Alex",
+        "characterId": 31,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 1608,
+        "lp": 105254,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "P7RFJ9U6Q",
+      "playedAt": "2026-09-08T15:58:01.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3008680823",
+        "name": "Naporitan",
+        "character": "Alex",
+        "characterId": 31,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 1608,
+        "lp": 105254,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "KP8QH57HS",
+      "playedAt": "2026-09-08T15:56:19.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3008680823",
+        "name": "Naporitan",
+        "character": "Alex",
+        "characterId": 31,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 1608,
+        "lp": 105254,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        5
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "GAFXE558H",
+      "playedAt": "2026-09-08T15:55:11.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3008680823",
+        "name": "Naporitan",
+        "character": "Alex",
+        "characterId": 31,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 1608,
+        "lp": 105254,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "QBCS6F63Q",
+      "playedAt": "2026-09-08T15:29:30.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3990114445",
+        "name": "✿ⓃⒺⓄ✿",
+        "character": "Zangief",
+        "characterId": 6,
+        "inputTypeId": 1,
+        "inputType": "Modern",
+        "mr": 0,
+        "lp": 21926,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        8,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "JT7YA55PC",
+      "playedAt": "2026-09-08T15:28:19.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3990114445",
+        "name": "✿ⓃⒺⓄ✿",
+        "character": "Zangief",
+        "characterId": 6,
+        "inputTypeId": 1,
+        "inputType": "Modern",
+        "mr": 0,
+        "lp": 21926,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        6
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "NFPE57VXA",
+      "playedAt": "2026-09-08T15:26:56.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3990114445",
+        "name": "✿ⓃⒺⓄ✿",
+        "character": "Zangief",
+        "characterId": 6,
+        "inputTypeId": 1,
+        "inputType": "Modern",
+        "mr": 0,
+        "lp": 21926,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        5,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "TWCSS65BQ",
+      "playedAt": "2026-09-08T15:25:13.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3990114445",
+        "name": "✿ⓃⒺⓄ✿",
+        "character": "Zangief",
+        "characterId": 6,
+        "inputTypeId": 1,
+        "inputType": "Modern",
+        "mr": 0,
+        "lp": 21926,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        5,
+        5
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "CPU8WCRF7",
+      "playedAt": "2026-09-08T15:11:52.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3672801202",
+        "name": "エル・プサイ・うそぴルゥ_pc",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 13053,
+        "synced": false
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        6,
+        0
+      ],
+      "awayRounds": [
+        1,
+        0,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "H46GKJXTP",
+      "playedAt": "2026-09-08T15:08:52.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3672801202",
+        "name": "エル・プサイ・うそぴルゥ_pc",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 13053,
+        "synced": false
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "SWL6XFCVE",
+      "playedAt": "2026-09-08T14:59:58.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3434421732",
+        "name": "ルチパー",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 13043,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        1,
+        0,
+        0
+      ],
+      "awayRounds": [
+        0,
+        6,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "REBWLRXAP",
+      "playedAt": "2026-09-08T14:57:27.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3434421732",
+        "name": "ルチパー",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 13043,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        6
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "6TEVLU7HR",
+      "playedAt": "2026-09-08T14:56:09.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3434421732",
+        "name": "ルチパー",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 13043,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "LACMRV4D5",
+      "playedAt": "2026-09-08T14:54:09.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3434421732",
+        "name": "ルチパー",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 13043,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        6,
+        0,
+        0
+      ],
+      "awayRounds": [
+        0,
+        5,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "L93QX74YE",
+      "playedAt": "2026-09-08T14:52:05.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3434421732",
+        "name": "ルチパー",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 13043,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "AXN7L9UYD",
+      "playedAt": "2026-09-08T14:50:13.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3434421732",
+        "name": "ルチパー",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 13043,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "XPGHLG9QX",
+      "playedAt": "2026-09-08T14:48:41.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3434421732",
+        "name": "ルチパー",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 13043,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    }
+  ],
+  "capcom": {
+    "seasonId": 13,
+    "seasons": [
+      13,
+      12,
+      11,
+      10,
+      9,
+      8,
+      7,
+      6,
+      5,
+      4,
+      3,
+      2,
+      1,
+      0
+    ],
+    "banner": {
+      "name": "かぱめ。",
+      "shortId": "1122738358",
+      "platform": "CrossPlatform",
+      "platformTool": "cross",
+      "platformIconUrl": "https://www.streetfighter.com/6/buckler/assets/images/common/icon_cross.png",
+      "favoriteCharacterId": 9,
+      "favoriteCharacter": "Cammy",
+      "mostPlayedCharacterId": 9,
+      "mostPlayedCharacter": "Cammy",
+      "mainCharacterId": 9,
+      "mainCharacter": "Cammy",
+      "mr": 0,
+      "lp": 2286,
+      "leagueRank": 9,
+      "masterLeague": 0,
+      "mrRanking": 0,
+      "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank9_s.png",
+      "homeId": 85,
+      "homeName": "Japan",
+      "flagUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/national_frag/frag085.png",
+      "lastPlayAt": "2026-09-08T18:12:59.000Z",
+      "title": "Out-mash Their DP by One",
+      "titlePlateName": "459-e143e641a66ad8e6079daab2f899cbc1",
+      "titlePlateUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/title/459-e143e641a66ad8e6079daab2f899cbc1.png",
+      "comment": "I'm a Beginner",
+      "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_cammy.jpg",
+      "mainCircle": {
+        "id": "47a50a3665b743c0b538d7e3474779e1",
+        "name": "GreenKappaers"
+      },
+      "inputType": 0,
+      "enjoyFightPoint": 31,
+      "enjoyTotalPoint": 83,
+      "enjoyUserPoint": 52
+    },
+    "playTime": [
+      {
+        "name": "Battle Hub",
+        "seconds": 1433014,
+        "hours": 398.1
+      },
+      {
+        "name": "Practice",
+        "seconds": 673879,
+        "hours": 187.2
+      },
+      {
+        "name": "World Tour",
+        "seconds": 495062,
+        "hours": 137.5
+      },
+      {
+        "name": "Offline Matches",
+        "seconds": 275786,
+        "hours": 76.6
+      },
+      {
+        "name": "Arcade",
+        "seconds": 133835,
+        "hours": 37.2
+      },
+      {
+        "name": "Avatar Room",
+        "seconds": 35300,
+        "hours": 9.8
+      },
+      {
+        "name": "Ranked Matches",
+        "seconds": 7398,
+        "hours": 2.1
+      },
+      {
+        "name": "Casual Matches",
+        "seconds": 1408,
+        "hours": 0.4
+      },
+      {
+        "name": "Special Matches",
+        "seconds": 1314,
+        "hours": 0.4
+      },
+      {
+        "name": "Custom Room Matches",
+        "seconds": 558,
+        "hours": 0.2
+      }
+    ],
+    "battleStats": {
+      "rankedGames": 61,
+      "casualGames": 11,
+      "hubGames": 264,
+      "customGames": 0,
+      "habits": [
+        {
+          "key": "drive_impact",
+          "label": "Drive Impact / game",
+          "value": 0.2,
+          "format": "rate"
+        },
+        {
+          "key": "drive_parry",
+          "label": "Drive Parry / game",
+          "value": 0.8,
+          "format": "rate"
+        },
+        {
+          "key": "just_parry",
+          "label": "Perfect Parry / game",
+          "value": 0,
+          "format": "rate"
+        },
+        {
+          "key": "drive_reversal",
+          "label": "Drive Reversal / game",
+          "value": 0.5,
+          "format": "rate"
+        },
+        {
+          "key": "punish_counter",
+          "label": "Punish Counter / game",
+          "value": 0.1,
+          "format": "rate"
+        },
+        {
+          "key": "received_punish_counter",
+          "label": "Got PC'd / game",
+          "value": 0.6,
+          "format": "rate"
+        },
+        {
+          "key": "throw_count",
+          "label": "Throws / game",
+          "value": 1.1,
+          "format": "rate"
+        },
+        {
+          "key": "throw_tech",
+          "label": "Throw techs / game",
+          "value": 0.1,
+          "format": "rate"
+        },
+        {
+          "key": "throw_drive_parry",
+          "label": "Throw parries / game",
+          "value": 0.1,
+          "format": "rate"
+        },
+        {
+          "key": "received_throw_count",
+          "label": "Got thrown / game",
+          "value": 2.1,
+          "format": "rate"
+        },
+        {
+          "key": "stun",
+          "label": "Stuns / game",
+          "value": 0,
+          "format": "rate"
+        },
+        {
+          "key": "received_stun",
+          "label": "Got stunned / game",
+          "value": 0,
+          "format": "rate"
+        },
+        {
+          "key": "corner_time",
+          "label": "Corner pressure time",
+          "value": 3.3,
+          "format": "rate"
+        },
+        {
+          "key": "cornered_time",
+          "label": "Time cornered",
+          "value": 9,
+          "format": "rate"
+        },
+        {
+          "key": "gauge_rate_drive_rush_from_cancel",
+          "label": "Drive Rush (cancel) share",
+          "value": 0.138,
+          "format": "rate"
+        },
+        {
+          "key": "gauge_rate_drive_rush_from_parry",
+          "label": "Drive Rush (parry) share",
+          "value": 0.0024,
+          "format": "rate"
+        },
+        {
+          "key": "gauge_rate_drive_arts",
+          "label": "Drive Arts share",
+          "value": 0.4096,
+          "format": "rate"
+        },
+        {
+          "key": "gauge_rate_drive_impact",
+          "label": "Drive Impact gauge share",
+          "value": 0.0306,
+          "format": "rate"
+        },
+        {
+          "key": "gauge_rate_drive_guard",
+          "label": "Drive Guard share",
+          "value": 0.0387,
+          "format": "rate"
+        },
+        {
+          "key": "gauge_rate_sa_lv1",
+          "label": "SA1 usage share",
+          "value": 0.8189,
+          "format": "rate"
+        },
+        {
+          "key": "gauge_rate_sa_lv2",
+          "label": "SA2 usage share",
+          "value": 0.0344,
+          "format": "rate"
+        },
+        {
+          "key": "gauge_rate_sa_lv3",
+          "label": "SA3 usage share",
+          "value": 0.0862,
+          "format": "rate"
+        },
+        {
+          "key": "gauge_rate_ca",
+          "label": "CA usage share",
+          "value": 0.0603,
+          "format": "rate"
+        }
+      ]
+    },
+    "characterWinRates": [
+      {
+        "characterId": 9,
+        "character": "Cammy",
+        "wins": 3,
+        "games": 60,
+        "winRate": 5
+      }
+    ],
+    "characterLeagues": [
+      {
+        "characterId": 9,
+        "character": "Cammy",
+        "lp": null,
+        "mr": null,
+        "leagueRank": 39,
+        "masterLeague": 0,
+        "mrRanking": 0,
+        "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+        "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_cammy_l.png",
+        "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_cammy.jpg"
+      },
+      {
+        "characterId": 18,
+        "character": "Guile",
+        "lp": null,
+        "mr": null,
+        "leagueRank": 39,
+        "masterLeague": 0,
+        "mrRanking": 0,
+        "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+        "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_guile_l.png",
+        "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_guile.jpg"
+      }
+    ],
+    "officialMatchups": [
+      {
+        "characterId": 9,
+        "character": "Cammy",
+        "vs": [
+          {
+            "characterId": 253,
+            "character": "Any",
+            "wins": 3,
+            "games": 60,
+            "winRate": 5
+          },
+          {
+            "characterId": 31,
+            "character": "Alex",
+            "wins": 0,
+            "games": 18,
+            "winRate": 0
+          },
+          {
+            "characterId": 9,
+            "character": "Cammy",
+            "wins": 0,
+            "games": 13,
+            "winRate": 0
+          },
+          {
+            "characterId": 21,
+            "character": "Jamie",
+            "wins": 3,
+            "games": 13,
+            "winRate": 23.076923076923077
+          },
+          {
+            "characterId": 6,
+            "character": "Zangief",
+            "wins": 0,
+            "games": 4,
+            "winRate": 0
+          },
+          {
+            "characterId": 5,
+            "character": "Manon",
+            "wins": 0,
+            "games": 3,
+            "winRate": 0
+          },
+          {
+            "characterId": 1,
+            "character": "Ryu",
+            "wins": 0,
+            "games": 2,
+            "winRate": 0
+          },
+          {
+            "characterId": 7,
+            "character": "JP",
+            "wins": 0,
+            "games": 2,
+            "winRate": 0
+          },
+          {
+            "characterId": 28,
+            "character": "Mai",
+            "wins": 0,
+            "games": 2,
+            "winRate": 0
+          },
+          {
+            "characterId": 32,
+            "character": "Ingrid",
+            "wins": 0,
+            "games": 2,
+            "winRate": 0
+          },
+          {
+            "characterId": 33,
+            "character": "Yasmine",
+            "wins": 0,
+            "games": 1,
+            "winRate": 0
+          }
+        ]
+      }
+    ],
+    "playPoints": [
+      {
+        "characterId": 9,
+        "character": "Cammy",
+        "fightingGround": 24033,
+        "battleHub": 108384,
+        "worldTour": 49170,
+        "total": 181587
+      },
+      {
+        "characterId": 18,
+        "character": "Guile",
+        "fightingGround": 511,
+        "battleHub": 4420,
+        "worldTour": 0,
+        "total": 4931
+      },
+      {
+        "characterId": 2,
+        "character": "Luke",
+        "fightingGround": 50,
+        "battleHub": 1440,
+        "worldTour": 3000,
+        "total": 4490
+      },
+      {
+        "characterId": 29,
+        "character": "Elena",
+        "fightingGround": 0,
+        "battleHub": 1000,
+        "worldTour": 10,
+        "total": 1010
+      },
+      {
+        "characterId": 10,
+        "character": "Ken",
+        "fightingGround": 0,
+        "battleHub": 960,
+        "worldTour": 20,
+        "total": 980
+      },
+      {
+        "characterId": 22,
+        "character": "Akuma",
+        "fightingGround": 0,
+        "battleHub": 0,
+        "worldTour": 890,
+        "total": 890
+      },
+      {
+        "characterId": 15,
+        "character": "Blanka",
+        "fightingGround": 0,
+        "battleHub": 0,
+        "worldTour": 410,
+        "total": 410
+      },
+      {
+        "characterId": 17,
+        "character": "Marisa",
+        "fightingGround": 0,
+        "battleHub": 0,
+        "worldTour": 20,
+        "total": 20
+      },
+      {
+        "characterId": 27,
+        "character": "Terry",
+        "fightingGround": 0,
+        "battleHub": 0,
+        "worldTour": 20,
+        "total": 20
+      },
+      {
+        "characterId": 3,
+        "character": "Kimberly",
+        "fightingGround": 1,
+        "battleHub": 0,
+        "worldTour": 10,
+        "total": 11
+      },
+      {
+        "characterId": 4,
+        "character": "Chun-Li",
+        "fightingGround": 1,
+        "battleHub": 0,
+        "worldTour": 10,
+        "total": 11
+      },
+      {
+        "characterId": 11,
+        "character": "Dee Jay",
+        "fightingGround": 0,
+        "battleHub": 0,
+        "worldTour": 11,
+        "total": 11
+      },
+      {
+        "characterId": 1,
+        "character": "Ryu",
+        "fightingGround": 0,
+        "battleHub": 0,
+        "worldTour": 10,
+        "total": 10
+      },
+      {
+        "characterId": 5,
+        "character": "Manon",
+        "fightingGround": 0,
+        "battleHub": 0,
+        "worldTour": 10,
+        "total": 10
+      },
+      {
+        "characterId": 12,
+        "character": "Lily",
+        "fightingGround": 6,
+        "battleHub": 0,
+        "worldTour": 0,
+        "total": 6
+      },
+      {
+        "characterId": 33,
+        "character": "Yasmine",
+        "fightingGround": 5,
+        "battleHub": 0,
+        "worldTour": 0,
+        "total": 5
+      }
+    ],
+    "avatar": null,
+    "clubs": null
+  },
+  "habitsCompare": {
+    "characterId": 9,
+    "character": "Cammy",
+    "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_cammy_l.png",
+    "you": {
+      "shortId": "1122738358",
+      "name": "かぱめ。",
+      "rankedGames": 61
+    },
+    "elite": [
+      {
+        "shortId": "3623007729",
+        "name": "2BASSA",
+        "mr": 2205,
+        "lp": 927439,
+        "characterId": 9,
+        "habits": [
+          {
+            "key": "drive_impact",
+            "label": "Drive Impact / game",
+            "value": 0.1
+          },
+          {
+            "key": "drive_parry",
+            "label": "Drive Parry / game",
+            "value": 2.5
+          },
+          {
+            "key": "just_parry",
+            "label": "Perfect Parry / game",
+            "value": 1.1
+          },
+          {
+            "key": "drive_reversal",
+            "label": "Drive Reversal / game",
+            "value": 0.2
+          },
+          {
+            "key": "punish_counter",
+            "label": "Punish Counter / game",
+            "value": 0
+          },
+          {
+            "key": "received_punish_counter",
+            "label": "Got PC'd / game",
+            "value": 0
+          },
+          {
+            "key": "throw_count",
+            "label": "Throws / game",
+            "value": 2.7
+          },
+          {
+            "key": "throw_tech",
+            "label": "Throw techs / game",
+            "value": 0.5
+          },
+          {
+            "key": "throw_drive_parry",
+            "label": "Throw parries / game",
+            "value": 0.3
+          },
+          {
+            "key": "received_throw_count",
+            "label": "Got thrown / game",
+            "value": 2.1
+          },
+          {
+            "key": "stun",
+            "label": "Stuns / game",
+            "value": 0
+          },
+          {
+            "key": "received_stun",
+            "label": "Got stunned / game",
+            "value": 0
+          },
+          {
+            "key": "corner_time",
+            "label": "Corner pressure time",
+            "value": 12.9
+          },
+          {
+            "key": "cornered_time",
+            "label": "Time cornered",
+            "value": 8.8
+          },
+          {
+            "key": "gauge_rate_drive_rush_from_cancel",
+            "label": "Drive Rush (cancel) share",
+            "value": 0.4057
+          },
+          {
+            "key": "gauge_rate_drive_rush_from_parry",
+            "label": "Drive Rush (parry) share",
+            "value": 0.0467
+          },
+          {
+            "key": "gauge_rate_drive_arts",
+            "label": "Drive Arts share",
+            "value": 0.1419
+          },
+          {
+            "key": "gauge_rate_drive_impact",
+            "label": "Drive Impact gauge share",
+            "value": 0.0074
+          },
+          {
+            "key": "gauge_rate_drive_guard",
+            "label": "Drive Guard share",
+            "value": 0.1194
+          },
+          {
+            "key": "gauge_rate_sa_lv1",
+            "label": "SA1 usage share",
+            "value": 0.4951
+          },
+          {
+            "key": "gauge_rate_sa_lv2",
+            "label": "SA2 usage share",
+            "value": 0.1359
+          },
+          {
+            "key": "gauge_rate_sa_lv3",
+            "label": "SA3 usage share",
+            "value": 0.2815
+          },
+          {
+            "key": "gauge_rate_ca",
+            "label": "CA usage share",
+            "value": 0.0873
+          }
+        ],
+        "rankedGames": 73236
+      },
+      {
+        "shortId": "1380930836",
+        "name": "infimum00",
+        "mr": 2161,
+        "lp": 912499,
+        "characterId": 9,
+        "habits": [
+          {
+            "key": "drive_impact",
+            "label": "Drive Impact / game",
+            "value": 0.2
+          },
+          {
+            "key": "drive_parry",
+            "label": "Drive Parry / game",
+            "value": 1.3
+          },
+          {
+            "key": "just_parry",
+            "label": "Perfect Parry / game",
+            "value": 0.5
+          },
+          {
+            "key": "drive_reversal",
+            "label": "Drive Reversal / game",
+            "value": 0.3
+          },
+          {
+            "key": "punish_counter",
+            "label": "Punish Counter / game",
+            "value": 0.1
+          },
+          {
+            "key": "received_punish_counter",
+            "label": "Got PC'd / game",
+            "value": 0.1
+          },
+          {
+            "key": "throw_count",
+            "label": "Throws / game",
+            "value": 3.3
+          },
+          {
+            "key": "throw_tech",
+            "label": "Throw techs / game",
+            "value": 0.2
+          },
+          {
+            "key": "throw_drive_parry",
+            "label": "Throw parries / game",
+            "value": 0.2
+          },
+          {
+            "key": "received_throw_count",
+            "label": "Got thrown / game",
+            "value": 1.9
+          },
+          {
+            "key": "stun",
+            "label": "Stuns / game",
+            "value": 0.2
+          },
+          {
+            "key": "received_stun",
+            "label": "Got stunned / game",
+            "value": 0
+          },
+          {
+            "key": "corner_time",
+            "label": "Corner pressure time",
+            "value": 15.5
+          },
+          {
+            "key": "cornered_time",
+            "label": "Time cornered",
+            "value": 8
+          },
+          {
+            "key": "gauge_rate_drive_rush_from_cancel",
+            "label": "Drive Rush (cancel) share",
+            "value": 0.4237
+          },
+          {
+            "key": "gauge_rate_drive_rush_from_parry",
+            "label": "Drive Rush (parry) share",
+            "value": 0.0636
+          },
+          {
+            "key": "gauge_rate_drive_arts",
+            "label": "Drive Arts share",
+            "value": 0.1448
+          },
+          {
+            "key": "gauge_rate_drive_impact",
+            "label": "Drive Impact gauge share",
+            "value": 0.0248
+          },
+          {
+            "key": "gauge_rate_drive_guard",
+            "label": "Drive Guard share",
+            "value": 0.12
+          },
+          {
+            "key": "gauge_rate_sa_lv1",
+            "label": "SA1 usage share",
+            "value": 0.4677
+          },
+          {
+            "key": "gauge_rate_sa_lv2",
+            "label": "SA2 usage share",
+            "value": 0.3225
+          },
+          {
+            "key": "gauge_rate_sa_lv3",
+            "label": "SA3 usage share",
+            "value": 0.1854
+          },
+          {
+            "key": "gauge_rate_ca",
+            "label": "CA usage share",
+            "value": 0.0241
+          }
+        ],
+        "rankedGames": 22351
+      },
+      {
+        "shortId": "2151647534",
+        "name": "Popin",
+        "mr": 2145,
+        "lp": 936576,
+        "characterId": 9,
+        "habits": [
+          {
+            "key": "drive_impact",
+            "label": "Drive Impact / game",
+            "value": 0.1
+          },
+          {
+            "key": "drive_parry",
+            "label": "Drive Parry / game",
+            "value": 1
+          },
+          {
+            "key": "just_parry",
+            "label": "Perfect Parry / game",
+            "value": 0.5
+          },
+          {
+            "key": "drive_reversal",
+            "label": "Drive Reversal / game",
+            "value": 0.5
+          },
+          {
+            "key": "punish_counter",
+            "label": "Punish Counter / game",
+            "value": 0
+          },
+          {
+            "key": "received_punish_counter",
+            "label": "Got PC'd / game",
+            "value": 0.1
+          },
+          {
+            "key": "throw_count",
+            "label": "Throws / game",
+            "value": 2.7
+          },
+          {
+            "key": "throw_tech",
+            "label": "Throw techs / game",
+            "value": 0.1
+          },
+          {
+            "key": "throw_drive_parry",
+            "label": "Throw parries / game",
+            "value": 0.3
+          },
+          {
+            "key": "received_throw_count",
+            "label": "Got thrown / game",
+            "value": 1.9
+          },
+          {
+            "key": "stun",
+            "label": "Stuns / game",
+            "value": 0
+          },
+          {
+            "key": "received_stun",
+            "label": "Got stunned / game",
+            "value": 0.1
+          },
+          {
+            "key": "corner_time",
+            "label": "Corner pressure time",
+            "value": 11.4
+          },
+          {
+            "key": "cornered_time",
+            "label": "Time cornered",
+            "value": 10.7
+          },
+          {
+            "key": "gauge_rate_drive_rush_from_cancel",
+            "label": "Drive Rush (cancel) share",
+            "value": 0.4675
+          },
+          {
+            "key": "gauge_rate_drive_rush_from_parry",
+            "label": "Drive Rush (parry) share",
+            "value": 0.0575
+          },
+          {
+            "key": "gauge_rate_drive_arts",
+            "label": "Drive Arts share",
+            "value": 0.0904
+          },
+          {
+            "key": "gauge_rate_drive_impact",
+            "label": "Drive Impact gauge share",
+            "value": 0.0074
+          },
+          {
+            "key": "gauge_rate_drive_guard",
+            "label": "Drive Guard share",
+            "value": 0.1035
+          },
+          {
+            "key": "gauge_rate_sa_lv1",
+            "label": "SA1 usage share",
+            "value": 0.4166
+          },
+          {
+            "key": "gauge_rate_sa_lv2",
+            "label": "SA2 usage share",
+            "value": 0.1388
+          },
+          {
+            "key": "gauge_rate_sa_lv3",
+            "label": "SA3 usage share",
+            "value": 0.3472
+          },
+          {
+            "key": "gauge_rate_ca",
+            "label": "CA usage share",
+            "value": 0.0972
+          }
+        ],
+        "rankedGames": 26027
+      },
+      {
+        "shortId": "1529602025",
+        "name": "PC6Akira",
+        "mr": 2138,
+        "lp": 905196,
+        "characterId": 9,
+        "habits": [
+          {
+            "key": "drive_impact",
+            "label": "Drive Impact / game",
+            "value": 0.1
+          },
+          {
+            "key": "drive_parry",
+            "label": "Drive Parry / game",
+            "value": 1.2
+          },
+          {
+            "key": "just_parry",
+            "label": "Perfect Parry / game",
+            "value": 0.5
+          },
+          {
+            "key": "drive_reversal",
+            "label": "Drive Reversal / game",
+            "value": 0.2
+          },
+          {
+            "key": "punish_counter",
+            "label": "Punish Counter / game",
+            "value": 0.1
+          },
+          {
+            "key": "received_punish_counter",
+            "label": "Got PC'd / game",
+            "value": 0
+          },
+          {
+            "key": "throw_count",
+            "label": "Throws / game",
+            "value": 2.2
+          },
+          {
+            "key": "throw_tech",
+            "label": "Throw techs / game",
+            "value": 0.2
+          },
+          {
+            "key": "throw_drive_parry",
+            "label": "Throw parries / game",
+            "value": 0.2
+          },
+          {
+            "key": "received_throw_count",
+            "label": "Got thrown / game",
+            "value": 1.5
+          },
+          {
+            "key": "stun",
+            "label": "Stuns / game",
+            "value": 0.1
+          },
+          {
+            "key": "received_stun",
+            "label": "Got stunned / game",
+            "value": 0
+          },
+          {
+            "key": "corner_time",
+            "label": "Corner pressure time",
+            "value": 14.9
+          },
+          {
+            "key": "cornered_time",
+            "label": "Time cornered",
+            "value": 9
+          },
+          {
+            "key": "gauge_rate_drive_rush_from_cancel",
+            "label": "Drive Rush (cancel) share",
+            "value": 0.4122
+          },
+          {
+            "key": "gauge_rate_drive_rush_from_parry",
+            "label": "Drive Rush (parry) share",
+            "value": 0.075
+          },
+          {
+            "key": "gauge_rate_drive_arts",
+            "label": "Drive Arts share",
+            "value": 0.1166
+          },
+          {
+            "key": "gauge_rate_drive_impact",
+            "label": "Drive Impact gauge share",
+            "value": 0.0107
+          },
+          {
+            "key": "gauge_rate_drive_guard",
+            "label": "Drive Guard share",
+            "value": 0.1151
+          },
+          {
+            "key": "gauge_rate_sa_lv1",
+            "label": "SA1 usage share",
+            "value": 0.4913
+          },
+          {
+            "key": "gauge_rate_sa_lv2",
+            "label": "SA2 usage share",
+            "value": 0.1293
+          },
+          {
+            "key": "gauge_rate_sa_lv3",
+            "label": "SA3 usage share",
+            "value": 0.2844
+          },
+          {
+            "key": "gauge_rate_ca",
+            "label": "CA usage share",
+            "value": 0.0948
+          }
+        ],
+        "rankedGames": 25395
+      },
+      {
+        "shortId": "2797811950",
+        "name": "PhenomTheMoose",
+        "mr": 2129,
+        "lp": 840405,
+        "characterId": 9,
+        "habits": [
+          {
+            "key": "drive_impact",
+            "label": "Drive Impact / game",
+            "value": 0
+          },
+          {
+            "key": "drive_parry",
+            "label": "Drive Parry / game",
+            "value": 2
+          },
+          {
+            "key": "just_parry",
+            "label": "Perfect Parry / game",
+            "value": 0.8
+          },
+          {
+            "key": "drive_reversal",
+            "label": "Drive Reversal / game",
+            "value": 0.1
+          },
+          {
+            "key": "punish_counter",
+            "label": "Punish Counter / game",
+            "value": 0
+          },
+          {
+            "key": "received_punish_counter",
+            "label": "Got PC'd / game",
+            "value": 0
+          },
+          {
+            "key": "throw_count",
+            "label": "Throws / game",
+            "value": 2.4
+          },
+          {
+            "key": "throw_tech",
+            "label": "Throw techs / game",
+            "value": 0.4
+          },
+          {
+            "key": "throw_drive_parry",
+            "label": "Throw parries / game",
+            "value": 0.3
+          },
+          {
+            "key": "received_throw_count",
+            "label": "Got thrown / game",
+            "value": 2.1
+          },
+          {
+            "key": "stun",
+            "label": "Stuns / game",
+            "value": 0
+          },
+          {
+            "key": "received_stun",
+            "label": "Got stunned / game",
+            "value": 0
+          },
+          {
+            "key": "corner_time",
+            "label": "Corner pressure time",
+            "value": 15.3
+          },
+          {
+            "key": "cornered_time",
+            "label": "Time cornered",
+            "value": 7.1
+          },
+          {
+            "key": "gauge_rate_drive_rush_from_cancel",
+            "label": "Drive Rush (cancel) share",
+            "value": 0.5018
+          },
+          {
+            "key": "gauge_rate_drive_rush_from_parry",
+            "label": "Drive Rush (parry) share",
+            "value": 0.0368
+          },
+          {
+            "key": "gauge_rate_drive_arts",
+            "label": "Drive Arts share",
+            "value": 0.0917
+          },
+          {
+            "key": "gauge_rate_drive_impact",
+            "label": "Drive Impact gauge share",
+            "value": 0.005
+          },
+          {
+            "key": "gauge_rate_drive_guard",
+            "label": "Drive Guard share",
+            "value": 0.0934
+          },
+          {
+            "key": "gauge_rate_sa_lv1",
+            "label": "SA1 usage share",
+            "value": 0.3225
+          },
+          {
+            "key": "gauge_rate_sa_lv2",
+            "label": "SA2 usage share",
+            "value": 0.172
+          },
+          {
+            "key": "gauge_rate_sa_lv3",
+            "label": "SA3 usage share",
+            "value": 0.387
+          },
+          {
+            "key": "gauge_rate_ca",
+            "label": "CA usage share",
+            "value": 0.1182
+          }
+        ],
+        "rankedGames": 56449
+      }
+    ],
+    "rows": [
+      {
+        "key": "drive_impact",
+        "label": "Drive Impact",
+        "you": 0.2,
+        "eliteAvg": 0.16000000000000003,
+        "eliteMin": 0,
+        "eliteMax": 0.6,
+        "delta": 0.03999999999999998,
+        "verdict": "higher",
+        "format": "rate"
+      },
+      {
+        "key": "drive_parry",
+        "label": "Drive Parry",
+        "you": 0.8,
+        "eliteAvg": 1.5566666666666669,
+        "eliteMin": 0.8,
+        "eliteMax": 3.3,
+        "delta": -0.7566666666666668,
+        "verdict": "lower",
+        "format": "rate"
+      },
+      {
+        "key": "just_parry",
+        "label": "Perfect Parry",
+        "you": 0,
+        "eliteAvg": 0.5399999999999999,
+        "eliteMin": 0.2,
+        "eliteMax": 1.4,
+        "delta": -0.5399999999999999,
+        "verdict": "lower",
+        "format": "rate"
+      },
+      {
+        "key": "drive_reversal",
+        "label": "Drive Reversal",
+        "you": 0.5,
+        "eliteAvg": 0.18333333333333332,
+        "eliteMin": 0,
+        "eliteMax": 0.7,
+        "delta": 0.31666666666666665,
+        "verdict": "higher",
+        "format": "rate"
+      },
+      {
+        "key": "punish_counter",
+        "label": "Punish Counters landed",
+        "you": 0.1,
+        "eliteAvg": 0.08666666666666668,
+        "eliteMin": 0,
+        "eliteMax": 0.3,
+        "delta": 0.013333333333333322,
+        "verdict": "higher",
+        "format": "rate"
+      },
+      {
+        "key": "received_punish_counter",
+        "label": "Got Punish Countered",
+        "you": 0.6,
+        "eliteAvg": 0.06000000000000001,
+        "eliteMin": 0,
+        "eliteMax": 0.2,
+        "delta": 0.5399999999999999,
+        "verdict": "higher",
+        "format": "rate"
+      },
+      {
+        "key": "throw_count",
+        "label": "Throws",
+        "you": 1.1,
+        "eliteAvg": 2.4299999999999997,
+        "eliteMin": 1.4,
+        "eliteMax": 3.6,
+        "delta": -1.3299999999999996,
+        "verdict": "lower",
+        "format": "rate"
+      },
+      {
+        "key": "throw_tech",
+        "label": "Throw techs",
+        "you": 0.1,
+        "eliteAvg": 0.3533333333333333,
+        "eliteMin": 0,
+        "eliteMax": 0.8,
+        "delta": -0.2533333333333333,
+        "verdict": "lower",
+        "format": "rate"
+      },
+      {
+        "key": "throw_drive_parry",
+        "label": "Throw parries",
+        "you": 0.1,
+        "eliteAvg": 0.2533333333333333,
+        "eliteMin": 0.1,
+        "eliteMax": 0.5,
+        "delta": -0.1533333333333333,
+        "verdict": "lower",
+        "format": "rate"
+      },
+      {
+        "key": "received_throw_count",
+        "label": "Got thrown",
+        "you": 2.1,
+        "eliteAvg": 2.1333333333333333,
+        "eliteMin": 1.4,
+        "eliteMax": 3.3,
+        "delta": -0.033333333333333215,
+        "verdict": "similar",
+        "format": "rate"
+      },
+      {
+        "key": "stun",
+        "label": "Stuns landed",
+        "you": 0,
+        "eliteAvg": 0.07000000000000002,
+        "eliteMin": 0,
+        "eliteMax": 0.2,
+        "delta": -0.07000000000000002,
+        "verdict": "lower",
+        "format": "rate"
+      },
+      {
+        "key": "received_stun",
+        "label": "Got stunned",
+        "you": 0,
+        "eliteAvg": 0.04,
+        "eliteMin": 0,
+        "eliteMax": 0.1,
+        "delta": -0.04,
+        "verdict": "lower",
+        "format": "rate"
+      },
+      {
+        "key": "corner_time",
+        "label": "Corner pressure",
+        "you": 3.3,
+        "eliteAvg": 12.906666666666663,
+        "eliteMin": 10.4,
+        "eliteMax": 17.1,
+        "delta": -9.606666666666662,
+        "verdict": "lower",
+        "format": "rate"
+      },
+      {
+        "key": "cornered_time",
+        "label": "Time cornered",
+        "you": 9,
+        "eliteAvg": 8.803333333333333,
+        "eliteMin": 6.2,
+        "eliteMax": 11.6,
+        "delta": 0.1966666666666672,
+        "verdict": "similar",
+        "format": "rate"
+      },
+      {
+        "key": "gauge_rate_drive_rush_from_cancel",
+        "label": "Drive Rush (cancel)",
+        "you": 0.138,
+        "eliteAvg": 0.4071033333333333,
+        "eliteMin": 0.1629,
+        "eliteMax": 0.553,
+        "delta": -0.2691033333333333,
+        "verdict": "lower",
+        "format": "percent"
+      },
+      {
+        "key": "gauge_rate_drive_rush_from_parry",
+        "label": "Drive Rush (parry)",
+        "you": 0.0024,
+        "eliteAvg": 0.05205000000000002,
+        "eliteMin": 0.0213,
+        "eliteMax": 0.1212,
+        "delta": -0.04965000000000002,
+        "verdict": "lower",
+        "format": "percent"
+      },
+      {
+        "key": "gauge_rate_drive_arts",
+        "label": "Drive Arts",
+        "you": 0.4096,
+        "eliteAvg": 0.16833666666666666,
+        "eliteMin": 0.0735,
+        "eliteMax": 0.3291,
+        "delta": 0.24126333333333336,
+        "verdict": "higher",
+        "format": "percent"
+      },
+      {
+        "key": "gauge_rate_drive_impact",
+        "label": "Drive Impact gauge",
+        "you": 0.0306,
+        "eliteAvg": 0.012599999999999998,
+        "eliteMin": 0.0029,
+        "eliteMax": 0.0384,
+        "delta": 0.018000000000000002,
+        "verdict": "higher",
+        "format": "percent"
+      },
+      {
+        "key": "gauge_rate_sa_lv1",
+        "label": "SA1",
+        "you": 0.8189,
+        "eliteAvg": 0.4356533333333334,
+        "eliteMin": 0.2272,
+        "eliteMax": 0.6294,
+        "delta": 0.38324666666666657,
+        "verdict": "higher",
+        "format": "percent"
+      },
+      {
+        "key": "gauge_rate_sa_lv2",
+        "label": "SA2",
+        "you": 0.0344,
+        "eliteAvg": 0.15959333333333334,
+        "eliteMin": 0.0512,
+        "eliteMax": 0.3716,
+        "delta": -0.12519333333333332,
+        "verdict": "lower",
+        "format": "percent"
+      },
+      {
+        "key": "gauge_rate_sa_lv3",
+        "label": "SA3",
+        "you": 0.0862,
+        "eliteAvg": 0.3117233333333333,
+        "eliteMin": 0.1176,
+        "eliteMax": 0.5106,
+        "delta": -0.2255233333333333,
+        "verdict": "lower",
+        "format": "percent"
+      },
+      {
+        "key": "gauge_rate_ca",
+        "label": "CA",
+        "you": 0.0603,
+        "eliteAvg": 0.09284,
+        "eliteMin": 0.0241,
+        "eliteMax": 0.1904,
+        "delta": -0.032540000000000006,
+        "verdict": "lower",
+        "format": "percent"
+      },
+      {
+        "key": "gauge_rate_drive_guard",
+        "label": "Drive Guard",
+        "you": 0.0387,
+        "eliteAvg": 0.10106666666666668,
+        "eliteMin": 0.0577,
+        "eliteMax": 0.1616,
+        "delta": -0.06236666666666668,
+        "verdict": "lower",
+        "format": "percent"
+      }
+    ],
+    "insights": [
+      "Higher got punish countered than top 30 Cammy avg (+0.54).",
+      "Lower got stunned than top 30 Cammy — solid.",
+      "Lower drive guard than top 30 Cammy — solid."
+    ],
+    "sampleSize": 30,
+    "timeframe": {
+      "range": "all",
+      "label": "Overall",
+      "from": null,
+      "to": "2026-09-08T19:39:48.827Z",
+      "matches": 336,
+      "minimumMatches": 20,
+      "estimated": false
+    }
+  },
+  "habitsComparedAt": "2026-09-03T20:17:46.600Z",
+  "habitsCompareSource": "shared"
+}
