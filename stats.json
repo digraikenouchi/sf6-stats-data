@@ -7,7 +7,7 @@
     "mostPlayedCharacterId": 9,
     "mostPlayedCharacter": "Cammy",
     "favoriteCharacterId": 9,
-    "synchronizedAt": "2026-09-09T08:16:30.172Z",
+    "synchronizedAt": "2026-09-09T14:32:40.656Z",
     "leagues": [
       {
         "characterId": 9,
@@ -24,14 +24,14 @@
     ]
   },
   "summary": {
-    "wins": 5,
-    "losses": 55,
+    "wins": 11,
+    "losses": 65,
     "draws": 0,
-    "total": 60,
-    "diff": -50,
-    "winRate": 8.333333333333332
+    "total": 76,
+    "diff": -54,
+    "winRate": 14.473684210526317
   },
-  "matchCount": 60,
+  "matchCount": 76,
   "matchups": [
     {
       "homeCharacterId": 9,
@@ -41,12 +41,12 @@
       "inputTypeId": 0,
       "inputType": "Classic",
       "score": {
-        "wins": 0,
-        "losses": 18,
+        "wins": 2,
+        "losses": 21,
         "draws": 0,
-        "total": 18,
-        "diff": -18,
-        "winRate": 0
+        "total": 23,
+        "diff": -19,
+        "winRate": 8.695652173913043
       },
       "communityWinRate": 42.9
     },
@@ -58,12 +58,12 @@
       "inputTypeId": 0,
       "inputType": "Classic",
       "score": {
-        "wins": 0,
-        "losses": 11,
+        "wins": 2,
+        "losses": 16,
         "draws": 0,
-        "total": 11,
-        "diff": -11,
-        "winRate": 0
+        "total": 18,
+        "diff": -14,
+        "winRate": 11.11111111111111
       },
       "communityWinRate": null
     },
@@ -100,6 +100,23 @@
         "winRate": 50
       },
       "communityWinRate": 57.7
+    },
+    {
+      "homeCharacterId": 9,
+      "homeCharacter": "Cammy",
+      "characterId": 22,
+      "character": "Akuma",
+      "inputTypeId": 0,
+      "inputType": "Classic",
+      "score": {
+        "wins": 2,
+        "losses": 2,
+        "draws": 0,
+        "total": 4,
+        "diff": 0,
+        "winRate": 50
+      },
+      "communityWinRate": 43.5
     },
     {
       "homeCharacterId": 9,
@@ -243,7 +260,7 @@
     {
       "characterId": 9,
       "character": "Cammy",
-      "games": 60
+      "games": 76
     }
   ],
   "rivals": {
@@ -266,27 +283,27 @@
         "synced": true
       },
       {
-        "fighterId": "1611650307",
-        "name": "すなぎも",
-        "characterId": 21,
-        "character": "Jamie",
-        "inputTypeId": 0,
-        "inputType": "Classic",
-        "score": {
-          "wins": 0,
-          "losses": 7,
-          "draws": 0,
-          "total": 7,
-          "diff": -7,
-          "winRate": 0
-        },
-        "synced": true
-      },
-      {
         "fighterId": "3434421732",
         "name": "ルチパー",
         "characterId": 9,
         "character": "Cammy",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 2,
+          "losses": 12,
+          "draws": 0,
+          "total": 14,
+          "diff": -10,
+          "winRate": 14.285714285714285
+        },
+        "synced": true
+      },
+      {
+        "fighterId": "1611650307",
+        "name": "すなぎも",
+        "characterId": 21,
+        "character": "Jamie",
         "inputTypeId": 0,
         "inputType": "Classic",
         "score": {
@@ -317,6 +334,23 @@
         "synced": true
       },
       {
+        "fighterId": "2624899455",
+        "name": "承諾 只有愛的時候才算數",
+        "characterId": 31,
+        "character": "Alex",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 2,
+          "losses": 3,
+          "draws": 0,
+          "total": 5,
+          "diff": -1,
+          "winRate": 40
+        },
+        "synced": true
+      },
+      {
         "fighterId": "3990114445",
         "name": "✿ⓃⒺⓄ✿",
         "characterId": 6,
@@ -334,6 +368,23 @@
         "synced": true
       },
       {
+        "fighterId": "3115754008",
+        "name": "u-1・psydj",
+        "characterId": 22,
+        "character": "Akuma",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 2,
+          "losses": 0,
+          "draws": 0,
+          "total": 2,
+          "diff": 2,
+          "winRate": 100
+        },
+        "synced": false
+      },
+      {
         "fighterId": "3250938819",
         "name": "nashi",
         "characterId": 5,
@@ -349,6 +400,23 @@
           "winRate": 100
         },
         "synced": true
+      },
+      {
+        "fighterId": "1449301579",
+        "name": "いわし；",
+        "characterId": 22,
+        "character": "Akuma",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 0,
+          "losses": 2,
+          "draws": 0,
+          "total": 2,
+          "diff": -2,
+          "winRate": 0
+        },
+        "synced": false
       },
       {
         "fighterId": "3452764755",
@@ -448,57 +516,6 @@
           "draws": 0,
           "total": 2,
           "diff": -2,
-          "winRate": 0
-        },
-        "synced": true
-      },
-      {
-        "fighterId": "3672801202",
-        "name": "エル・プサイ・うそぴルゥ_pc",
-        "characterId": 9,
-        "character": "Cammy",
-        "inputTypeId": 0,
-        "inputType": "Classic",
-        "score": {
-          "wins": 0,
-          "losses": 2,
-          "draws": 0,
-          "total": 2,
-          "diff": -2,
-          "winRate": 0
-        },
-        "synced": false
-      },
-      {
-        "fighterId": "1811281258",
-        "name": "又断连了！",
-        "characterId": 21,
-        "character": "Jamie",
-        "inputTypeId": 0,
-        "inputType": "Classic",
-        "score": {
-          "wins": 0,
-          "losses": 1,
-          "draws": 0,
-          "total": 1,
-          "diff": -1,
-          "winRate": 0
-        },
-        "synced": true
-      },
-      {
-        "fighterId": "3857916400",
-        "name": "unkonow",
-        "characterId": 33,
-        "character": "Yasmine",
-        "inputTypeId": 0,
-        "inputType": "Classic",
-        "score": {
-          "wins": 0,
-          "losses": 1,
-          "draws": 0,
-          "total": 1,
-          "diff": -1,
           "winRate": 0
         },
         "synced": true
@@ -506,6 +523,23 @@
     ],
     "victims": [
       {
+        "fighterId": "3115754008",
+        "name": "u-1・psydj",
+        "characterId": 22,
+        "character": "Akuma",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 2,
+          "losses": 0,
+          "draws": 0,
+          "total": 2,
+          "diff": 2,
+          "winRate": 100
+        },
+        "synced": false
+      },
+      {
         "fighterId": "3250938819",
         "name": "nashi",
         "characterId": 5,
@@ -572,6 +606,40 @@
           "winRate": 0
         },
         "synced": true
+      },
+      {
+        "fighterId": "2624899455",
+        "name": "承諾 只有愛的時候才算數",
+        "characterId": 31,
+        "character": "Alex",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 2,
+          "losses": 3,
+          "draws": 0,
+          "total": 5,
+          "diff": -1,
+          "winRate": 40
+        },
+        "synced": true
+      },
+      {
+        "fighterId": "1449301579",
+        "name": "いわし；",
+        "characterId": 22,
+        "character": "Akuma",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 0,
+          "losses": 2,
+          "draws": 0,
+          "total": 2,
+          "diff": -2,
+          "winRate": 0
+        },
+        "synced": false
       },
       {
         "fighterId": "3452764755",
@@ -705,57 +773,6 @@
           "draws": 0,
           "total": 4,
           "diff": -4,
-          "winRate": 0
-        },
-        "synced": true
-      },
-      {
-        "fighterId": "1611650307",
-        "name": "すなぎも",
-        "characterId": 21,
-        "character": "Jamie",
-        "inputTypeId": 0,
-        "inputType": "Classic",
-        "score": {
-          "wins": 0,
-          "losses": 7,
-          "draws": 0,
-          "total": 7,
-          "diff": -7,
-          "winRate": 0
-        },
-        "synced": true
-      },
-      {
-        "fighterId": "3434421732",
-        "name": "ルチパー",
-        "characterId": 9,
-        "character": "Cammy",
-        "inputTypeId": 0,
-        "inputType": "Classic",
-        "score": {
-          "wins": 0,
-          "losses": 7,
-          "draws": 0,
-          "total": 7,
-          "diff": -7,
-          "winRate": 0
-        },
-        "synced": true
-      },
-      {
-        "fighterId": "3008680823",
-        "name": "Naporitan",
-        "characterId": 31,
-        "character": "Alex",
-        "inputTypeId": 0,
-        "inputType": "Classic",
-        "score": {
-          "wins": 0,
-          "losses": 18,
-          "draws": 0,
-          "total": 18,
-          "diff": -18,
           "winRate": 0
         },
         "synced": true
@@ -780,27 +797,27 @@
         "synced": true
       },
       {
-        "fighterId": "1611650307",
-        "name": "すなぎも",
-        "characterId": 21,
-        "character": "Jamie",
-        "inputTypeId": 0,
-        "inputType": "Classic",
-        "score": {
-          "wins": 0,
-          "losses": 7,
-          "draws": 0,
-          "total": 7,
-          "diff": -7,
-          "winRate": 0
-        },
-        "synced": true
-      },
-      {
         "fighterId": "3434421732",
         "name": "ルチパー",
         "characterId": 9,
         "character": "Cammy",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 2,
+          "losses": 12,
+          "draws": 0,
+          "total": 14,
+          "diff": -10,
+          "winRate": 14.285714285714285
+        },
+        "synced": true
+      },
+      {
+        "fighterId": "1611650307",
+        "name": "すなぎも",
+        "characterId": 21,
+        "character": "Jamie",
         "inputTypeId": 0,
         "inputType": "Classic",
         "score": {
@@ -829,6 +846,23 @@
           "winRate": 0
         },
         "synced": true
+      },
+      {
+        "fighterId": "1449301579",
+        "name": "いわし；",
+        "characterId": 22,
+        "character": "Akuma",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 0,
+          "losses": 2,
+          "draws": 0,
+          "total": 2,
+          "diff": -2,
+          "winRate": 0
+        },
+        "synced": false
       },
       {
         "fighterId": "3452764755",
@@ -984,36 +1018,19 @@
         "synced": true
       },
       {
-        "fighterId": "2072169222",
-        "name": "屁神屁霸屁屁酱",
-        "characterId": 21,
-        "character": "Jamie",
-        "inputTypeId": 1,
-        "inputType": "Modern",
-        "score": {
-          "wins": 3,
-          "losses": 3,
-          "draws": 0,
-          "total": 6,
-          "diff": 0,
-          "winRate": 50
-        },
-        "synced": true
-      },
-      {
-        "fighterId": "3250938819",
-        "name": "nashi",
-        "characterId": 5,
-        "character": "Manon",
+        "fighterId": "2624899455",
+        "name": "承諾 只有愛的時候才算數",
+        "characterId": 31,
+        "character": "Alex",
         "inputTypeId": 0,
         "inputType": "Classic",
         "score": {
           "wins": 2,
-          "losses": 0,
+          "losses": 3,
           "draws": 0,
-          "total": 2,
-          "diff": 2,
-          "winRate": 100
+          "total": 5,
+          "diff": -1,
+          "winRate": 40
         },
         "synced": true
       }
@@ -1024,7 +1041,7 @@
     "localPoints": 0,
     "importedPoints": 0,
     "mergedPoints": 0,
-    "storedBattles": 60,
+    "storedBattles": 76,
     "sfbuff": {
       "pointCount": 0,
       "lastScrapedAt": null,
@@ -1047,16 +1064,654 @@
     {
       "date": "2026-09-09",
       "score": {
-        "wins": 2,
-        "losses": 1,
+        "wins": 8,
+        "losses": 11,
         "draws": 0,
-        "total": 3,
-        "diff": 1,
-        "winRate": 66.66666666666666
+        "total": 19,
+        "diff": -3,
+        "winRate": 42.10526315789473
       }
     }
   ],
   "matches": [
+    {
+      "replayId": "DPBT7JTYK",
+      "playedAt": "2026-09-09T14:29:26.000Z",
+      "battleType": "Casual",
+      "battleTypeId": 2,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3115754008",
+        "name": "u-1・psydj",
+        "character": "Akuma",
+        "characterId": 22,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 11833,
+        "synced": false
+      },
+      "result": 1,
+      "resultLabel": "W",
+      "homeRounds": [
+        1,
+        5
+      ],
+      "awayRounds": [
+        0,
+        0
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "SGLJCDNVE",
+      "playedAt": "2026-09-09T14:27:41.000Z",
+      "battleType": "Casual",
+      "battleTypeId": 2,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3115754008",
+        "name": "u-1・psydj",
+        "character": "Akuma",
+        "characterId": 22,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 11833,
+        "synced": false
+      },
+      "result": 1,
+      "resultLabel": "W",
+      "homeRounds": [
+        1,
+        6
+      ],
+      "awayRounds": [
+        0,
+        0
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "LQW9TUWC9",
+      "playedAt": "2026-09-09T14:17:34.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3434421732",
+        "name": "ルチパー",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 13043,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "H3BAFVWWM",
+      "playedAt": "2026-09-09T14:16:00.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3434421732",
+        "name": "ルチパー",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 13043,
+        "synced": true
+      },
+      "result": 1,
+      "resultLabel": "W",
+      "homeRounds": [
+        1,
+        1
+      ],
+      "awayRounds": [
+        0,
+        0
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "WN6PFD3EH",
+      "playedAt": "2026-09-09T14:14:20.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3434421732",
+        "name": "ルチパー",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 13043,
+        "synced": true
+      },
+      "result": 1,
+      "resultLabel": "W",
+      "homeRounds": [
+        0,
+        1,
+        1
+      ],
+      "awayRounds": [
+        6,
+        0,
+        0
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "WU75CDURV",
+      "playedAt": "2026-09-09T14:11:52.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3434421732",
+        "name": "ルチパー",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 13043,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        1,
+        0
+      ],
+      "awayRounds": [
+        1,
+        0,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "RBVY3PLPB",
+      "playedAt": "2026-09-09T14:09:34.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3434421732",
+        "name": "ルチパー",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 13043,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "APWGPDGU9",
+      "playedAt": "2026-09-09T14:07:46.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3434421732",
+        "name": "ルチパー",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 13043,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        1,
+        0,
+        0
+      ],
+      "awayRounds": [
+        0,
+        1,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "CV4HXTHQH",
+      "playedAt": "2026-09-09T14:05:11.000Z",
+      "battleType": "Battle Hub",
+      "battleTypeId": 3,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3434421732",
+        "name": "ルチパー",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 13043,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        1,
+        0
+      ],
+      "awayRounds": [
+        1,
+        0,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "QHYUYD8FY",
+      "playedAt": "2026-09-09T13:53:52.000Z",
+      "battleType": "Casual",
+      "battleTypeId": 2,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "1449301579",
+        "name": "いわし；",
+        "character": "Akuma",
+        "characterId": 22,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": -1,
+        "synced": false
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        1,
+        0
+      ],
+      "awayRounds": [
+        1,
+        0,
+        5
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "WK4SQULCH",
+      "playedAt": "2026-09-09T13:51:30.000Z",
+      "battleType": "Casual",
+      "battleTypeId": 2,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "1449301579",
+        "name": "いわし；",
+        "character": "Akuma",
+        "characterId": 22,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": -1,
+        "synced": false
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "B9VREPYEF",
+      "playedAt": "2026-09-09T13:48:24.000Z",
+      "battleType": "Casual",
+      "battleTypeId": 2,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "2624899455",
+        "name": "承諾 只有愛的時候才算數",
+        "character": "Alex",
+        "characterId": 31,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": -1,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "HDC883AQV",
+      "playedAt": "2026-09-09T13:46:46.000Z",
+      "battleType": "Casual",
+      "battleTypeId": 2,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "2624899455",
+        "name": "承諾 只有愛的時候才算數",
+        "character": "Alex",
+        "characterId": 31,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": -1,
+        "synced": true
+      },
+      "result": 1,
+      "resultLabel": "W",
+      "homeRounds": [
+        1,
+        0,
+        1
+      ],
+      "awayRounds": [
+        0,
+        1,
+        0
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "XJEAMAJN4",
+      "playedAt": "2026-09-09T13:43:59.000Z",
+      "battleType": "Casual",
+      "battleTypeId": 2,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "2624899455",
+        "name": "承諾 只有愛的時候才算數",
+        "character": "Alex",
+        "characterId": 31,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": -1,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        7
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "ASQMWFE7H",
+      "playedAt": "2026-09-09T13:42:10.000Z",
+      "battleType": "Casual",
+      "battleTypeId": 2,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "2624899455",
+        "name": "承諾 只有愛的時候才算數",
+        "character": "Alex",
+        "characterId": 31,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": -1,
+        "synced": true
+      },
+      "result": 1,
+      "resultLabel": "W",
+      "homeRounds": [
+        1,
+        0,
+        1
+      ],
+      "awayRounds": [
+        0,
+        5,
+        0
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "5QQPXFC34",
+      "playedAt": "2026-09-09T13:39:25.000Z",
+      "battleType": "Casual",
+      "battleTypeId": 2,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "2624899455",
+        "name": "承諾 只有愛的時候才算數",
+        "character": "Alex",
+        "characterId": 31,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": -1,
+        "synced": true
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        5,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
     {
       "replayId": "69TPCTVN5",
       "playedAt": "2026-09-09T05:04:10.000Z",
@@ -3478,7 +4133,7 @@
       "homeId": 85,
       "homeName": "Japan",
       "flagUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/national_frag/frag085.png",
-      "lastPlayAt": "2026-09-09T05:04:47.000Z",
+      "lastPlayAt": "2026-09-09T14:32:15.000Z",
       "title": "Out-mash Their DP by One",
       "titlePlateName": "459-e143e641a66ad8e6079daab2f899cbc1",
       "titlePlateUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/title/459-e143e641a66ad8e6079daab2f899cbc1.png",
@@ -3496,8 +4151,8 @@
     "playTime": [
       {
         "name": "Battle Hub",
-        "seconds": 1433454,
-        "hours": 398.2
+        "seconds": 1435558,
+        "hours": 398.8
       },
       {
         "name": "Practice",
@@ -3531,8 +4186,8 @@
       },
       {
         "name": "Casual Matches",
-        "seconds": 1682,
-        "hours": 0.5
+        "seconds": 2829,
+        "hours": 0.8
       },
       {
         "name": "Special Matches",
@@ -3547,8 +4202,8 @@
     ],
     "battleStats": {
       "rankedGames": 61,
-      "casualGames": 13,
-      "hubGames": 265,
+      "casualGames": 22,
+      "hubGames": 272,
       "customGames": 0,
       "habits": [
         {
@@ -3560,7 +4215,7 @@
         {
           "key": "drive_parry",
           "label": "Drive Parry / game",
-          "value": 0.8,
+          "value": 0.6,
           "format": "rate"
         },
         {
@@ -3572,7 +4227,7 @@
         {
           "key": "drive_reversal",
           "label": "Drive Reversal / game",
-          "value": 0.5,
+          "value": 0.3,
           "format": "rate"
         },
         {
@@ -3590,13 +4245,13 @@
         {
           "key": "throw_count",
           "label": "Throws / game",
-          "value": 1.2,
+          "value": 1.6,
           "format": "rate"
         },
         {
           "key": "throw_tech",
           "label": "Throw techs / game",
-          "value": 0.1,
+          "value": 0,
           "format": "rate"
         },
         {
@@ -3608,7 +4263,7 @@
         {
           "key": "received_throw_count",
           "label": "Got thrown / game",
-          "value": 2.1,
+          "value": 2.2,
           "format": "rate"
         },
         {
@@ -3626,67 +4281,67 @@
         {
           "key": "corner_time",
           "label": "Corner pressure time",
-          "value": 3.4,
+          "value": 4.2,
           "format": "rate"
         },
         {
           "key": "cornered_time",
           "label": "Time cornered",
-          "value": 8.8,
+          "value": 8.3,
           "format": "rate"
         },
         {
           "key": "gauge_rate_drive_rush_from_cancel",
           "label": "Drive Rush (cancel) share",
-          "value": 0.1411,
+          "value": 0.178,
           "format": "rate"
         },
         {
           "key": "gauge_rate_drive_rush_from_parry",
           "label": "Drive Rush (parry) share",
-          "value": 0.0024,
+          "value": 0.0021,
           "format": "rate"
         },
         {
           "key": "gauge_rate_drive_arts",
           "label": "Drive Arts share",
-          "value": 0.406,
+          "value": 0.3852,
           "format": "rate"
         },
         {
           "key": "gauge_rate_drive_impact",
           "label": "Drive Impact gauge share",
-          "value": 0.0301,
+          "value": 0.0285,
           "format": "rate"
         },
         {
           "key": "gauge_rate_drive_guard",
           "label": "Drive Guard share",
-          "value": 0.0378,
+          "value": 0.0292,
           "format": "rate"
         },
         {
           "key": "gauge_rate_sa_lv1",
           "label": "SA1 usage share",
-          "value": 0.805,
+          "value": 0.7777,
           "format": "rate"
         },
         {
           "key": "gauge_rate_sa_lv2",
           "label": "SA2 usage share",
-          "value": 0.0338,
+          "value": 0.037,
           "format": "rate"
         },
         {
           "key": "gauge_rate_sa_lv3",
           "label": "SA3 usage share",
-          "value": 0.1016,
+          "value": 0.1333,
           "format": "rate"
         },
         {
           "key": "gauge_rate_ca",
           "label": "CA usage share",
-          "value": 0.0593,
+          "value": 0.0518,
           "format": "rate"
         }
       ]
@@ -3695,9 +4350,9 @@
       {
         "characterId": 9,
         "character": "Cammy",
-        "wins": 5,
-        "games": 63,
-        "winRate": 7.936507936507936
+        "wins": 11,
+        "games": 79,
+        "winRate": 13.924050632911392
       }
     ],
     "characterLeagues": [
@@ -3734,16 +4389,23 @@
           {
             "characterId": 253,
             "character": "Any",
-            "wins": 5,
-            "games": 63,
-            "winRate": 7.936507936507936
+            "wins": 11,
+            "games": 79,
+            "winRate": 13.924050632911392
           },
           {
             "characterId": 31,
             "character": "Alex",
-            "wins": 0,
-            "games": 18,
-            "winRate": 0
+            "wins": 2,
+            "games": 23,
+            "winRate": 8.695652173913043
+          },
+          {
+            "characterId": 9,
+            "character": "Cammy",
+            "wins": 2,
+            "games": 20,
+            "winRate": 10
           },
           {
             "characterId": 21,
@@ -3751,13 +4413,6 @@
             "wins": 3,
             "games": 14,
             "winRate": 21.428571428571427
-          },
-          {
-            "characterId": 9,
-            "character": "Cammy",
-            "wins": 0,
-            "games": 13,
-            "winRate": 0
           },
           {
             "characterId": 5,
@@ -3772,6 +4427,13 @@
             "wins": 0,
             "games": 4,
             "winRate": 0
+          },
+          {
+            "characterId": 22,
+            "character": "Akuma",
+            "wins": 2,
+            "games": 4,
+            "winRate": 50
           },
           {
             "characterId": 1,
@@ -3815,10 +4477,10 @@
       {
         "characterId": 9,
         "character": "Cammy",
-        "fightingGround": 24093,
-        "battleHub": 108444,
+        "fightingGround": 24364,
+        "battleHub": 108834,
         "worldTour": 49170,
-        "total": 181707
+        "total": 182368
       },
       {
         "characterId": 18,
@@ -4595,11 +5257,11 @@
       {
         "key": "drive_parry",
         "label": "Drive Parry",
-        "you": 0.8,
+        "you": 0.6,
         "eliteAvg": 1.5566666666666669,
         "eliteMin": 0.8,
         "eliteMax": 3.3,
-        "delta": -0.7566666666666668,
+        "delta": -0.9566666666666669,
         "verdict": "lower",
         "format": "rate"
       },
@@ -4617,11 +5279,11 @@
       {
         "key": "drive_reversal",
         "label": "Drive Reversal",
-        "you": 0.5,
+        "you": 0.3,
         "eliteAvg": 0.18333333333333332,
         "eliteMin": 0,
         "eliteMax": 0.7,
-        "delta": 0.31666666666666665,
+        "delta": 0.11666666666666667,
         "verdict": "higher",
         "format": "rate"
       },
@@ -4650,22 +5312,22 @@
       {
         "key": "throw_count",
         "label": "Throws",
-        "you": 1.2,
+        "you": 1.6,
         "eliteAvg": 2.4299999999999997,
         "eliteMin": 1.4,
         "eliteMax": 3.6,
-        "delta": -1.2299999999999998,
+        "delta": -0.8299999999999996,
         "verdict": "lower",
         "format": "rate"
       },
       {
         "key": "throw_tech",
         "label": "Throw techs",
-        "you": 0.1,
+        "you": 0,
         "eliteAvg": 0.3533333333333333,
         "eliteMin": 0,
         "eliteMax": 0.8,
-        "delta": -0.2533333333333333,
+        "delta": -0.3533333333333333,
         "verdict": "lower",
         "format": "rate"
       },
@@ -4683,11 +5345,11 @@
       {
         "key": "received_throw_count",
         "label": "Got thrown",
-        "you": 2.1,
+        "you": 2.2,
         "eliteAvg": 2.1333333333333333,
         "eliteMin": 1.4,
         "eliteMax": 3.3,
-        "delta": -0.033333333333333215,
+        "delta": 0.06666666666666687,
         "verdict": "similar",
         "format": "rate"
       },
@@ -4716,121 +5378,121 @@
       {
         "key": "corner_time",
         "label": "Corner pressure",
-        "you": 3.4,
+        "you": 4.2,
         "eliteAvg": 12.906666666666663,
         "eliteMin": 10.4,
         "eliteMax": 17.1,
-        "delta": -9.506666666666662,
+        "delta": -8.706666666666663,
         "verdict": "lower",
         "format": "rate"
       },
       {
         "key": "cornered_time",
         "label": "Time cornered",
-        "you": 8.8,
+        "you": 8.3,
         "eliteAvg": 8.803333333333333,
         "eliteMin": 6.2,
         "eliteMax": 11.6,
-        "delta": -0.003333333333332078,
+        "delta": -0.5033333333333321,
         "verdict": "similar",
         "format": "rate"
       },
       {
         "key": "gauge_rate_drive_rush_from_cancel",
         "label": "Drive Rush (cancel)",
-        "you": 0.1411,
+        "you": 0.178,
         "eliteAvg": 0.4071033333333333,
         "eliteMin": 0.1629,
         "eliteMax": 0.553,
-        "delta": -0.2660033333333333,
+        "delta": -0.22910333333333333,
         "verdict": "lower",
         "format": "percent"
       },
       {
         "key": "gauge_rate_drive_rush_from_parry",
         "label": "Drive Rush (parry)",
-        "you": 0.0024,
+        "you": 0.0021,
         "eliteAvg": 0.05205000000000002,
         "eliteMin": 0.0213,
         "eliteMax": 0.1212,
-        "delta": -0.04965000000000002,
+        "delta": -0.04995000000000002,
         "verdict": "lower",
         "format": "percent"
       },
       {
         "key": "gauge_rate_drive_arts",
         "label": "Drive Arts",
-        "you": 0.406,
+        "you": 0.3852,
         "eliteAvg": 0.16833666666666666,
         "eliteMin": 0.0735,
         "eliteMax": 0.3291,
-        "delta": 0.23766333333333337,
+        "delta": 0.21686333333333332,
         "verdict": "higher",
         "format": "percent"
       },
       {
         "key": "gauge_rate_drive_impact",
         "label": "Drive Impact gauge",
-        "you": 0.0301,
+        "you": 0.0285,
         "eliteAvg": 0.012599999999999998,
         "eliteMin": 0.0029,
         "eliteMax": 0.0384,
-        "delta": 0.0175,
+        "delta": 0.015900000000000004,
         "verdict": "higher",
         "format": "percent"
       },
       {
         "key": "gauge_rate_sa_lv1",
         "label": "SA1",
-        "you": 0.805,
+        "you": 0.7777,
         "eliteAvg": 0.4356533333333334,
         "eliteMin": 0.2272,
         "eliteMax": 0.6294,
-        "delta": 0.36934666666666666,
+        "delta": 0.34204666666666655,
         "verdict": "higher",
         "format": "percent"
       },
       {
         "key": "gauge_rate_sa_lv2",
         "label": "SA2",
-        "you": 0.0338,
+        "you": 0.037,
         "eliteAvg": 0.15959333333333334,
         "eliteMin": 0.0512,
         "eliteMax": 0.3716,
-        "delta": -0.12579333333333334,
+        "delta": -0.12259333333333333,
         "verdict": "lower",
         "format": "percent"
       },
       {
         "key": "gauge_rate_sa_lv3",
         "label": "SA3",
-        "you": 0.1016,
+        "you": 0.1333,
         "eliteAvg": 0.3117233333333333,
         "eliteMin": 0.1176,
         "eliteMax": 0.5106,
-        "delta": -0.2101233333333333,
+        "delta": -0.1784233333333333,
         "verdict": "lower",
         "format": "percent"
       },
       {
         "key": "gauge_rate_ca",
         "label": "CA",
-        "you": 0.0593,
+        "you": 0.0518,
         "eliteAvg": 0.09284,
         "eliteMin": 0.0241,
         "eliteMax": 0.1904,
-        "delta": -0.03354000000000001,
+        "delta": -0.04104000000000001,
         "verdict": "lower",
         "format": "percent"
       },
       {
         "key": "gauge_rate_drive_guard",
         "label": "Drive Guard",
-        "you": 0.0378,
+        "you": 0.0292,
         "eliteAvg": 0.10106666666666668,
         "eliteMin": 0.0577,
         "eliteMax": 0.1616,
-        "delta": -0.06326666666666668,
+        "delta": -0.07186666666666668,
         "verdict": "lower",
         "format": "percent"
       }
@@ -4845,8 +5507,8 @@
       "range": "all",
       "label": "Overall",
       "from": null,
-      "to": "2026-09-09T08:16:30.172Z",
-      "matches": 339,
+      "to": "2026-09-09T14:32:40.656Z",
+      "matches": 355,
       "minimumMatches": 20,
       "estimated": false
     }
