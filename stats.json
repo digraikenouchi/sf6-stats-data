@@ -7,7 +7,7 @@
     "mostPlayedCharacterId": 9,
     "mostPlayedCharacter": "Cammy",
     "favoriteCharacterId": 9,
-    "synchronizedAt": "2026-09-09T05:07:06.896Z",
+    "synchronizedAt": "2026-09-09T08:16:30.172Z",
     "leagues": [
       {
         "characterId": 9,
@@ -1133,7 +1133,12 @@
         0
       ],
       "mrDelta": null,
-      "replayCapture": null
+      "replayCapture": {
+        "jobId": "a1cc93cb-afda-4903-b2df-73cf71e49b64",
+        "status": "ready",
+        "hasVideo": true,
+        "expiresAt": "2026-09-16T07:25:11.309Z"
+      }
     },
     {
       "replayId": "LMWCYQDM9",
@@ -1174,7 +1179,12 @@
         0
       ],
       "mrDelta": null,
-      "replayCapture": null
+      "replayCapture": {
+        "jobId": "19aa3deb-7c00-45d1-9f73-a6fcc9007d1c",
+        "status": "ready",
+        "hasVideo": true,
+        "expiresAt": "2026-09-16T06:50:09.084Z"
+      }
     },
     {
       "replayId": "UHWPJAAYP",
@@ -2389,7 +2399,12 @@
         1
       ],
       "mrDelta": null,
-      "replayCapture": null
+      "replayCapture": {
+        "jobId": "9323c86e-7c8d-40f5-9611-8e88a73546f1",
+        "status": "ready",
+        "hasVideo": true,
+        "expiresAt": "2026-09-16T07:45:45.630Z"
+      }
     },
     {
       "replayId": "H5WXRLH4U",
@@ -2898,7 +2913,12 @@
         1
       ],
       "mrDelta": null,
-      "replayCapture": null
+      "replayCapture": {
+        "jobId": "96b4d588-94ee-40c4-8505-6da0120522d1",
+        "status": "ready",
+        "hasVideo": true,
+        "expiresAt": "2026-09-16T08:15:42.606Z"
+      }
     },
     {
       "replayId": "QBCS6F63Q",
@@ -3294,7 +3314,12 @@
         1
       ],
       "mrDelta": null,
-      "replayCapture": null
+      "replayCapture": {
+        "jobId": "0813552e-cccd-41ab-9902-8c992243f206",
+        "status": "failed",
+        "hasVideo": false,
+        "expiresAt": null
+      }
     },
     {
       "replayId": "L93QX74YE",
@@ -4820,7 +4845,7 @@
       "range": "all",
       "label": "Overall",
       "from": null,
-      "to": "2026-09-09T05:07:06.896Z",
+      "to": "2026-09-09T08:16:30.172Z",
       "matches": 339,
       "minimumMatches": 20,
       "estimated": false
