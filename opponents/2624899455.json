@@ -1,0 +1,3443 @@
+{
+  "fighterId": "2624899455",
+  "name": "承諾 只有愛的時候才算數",
+  "lastSeenAt": "2026-09-09T13:48:24.000Z",
+  "fetchedAt": "2026-09-09T14:33:36.283Z",
+  "synchronizedAt": "2026-09-09T14:33:17.887Z",
+  "stats": {
+    "fighter": {
+      "id": "2624899455",
+      "name": "承諾 只有愛的時候才算數",
+      "mainCharacterId": 19,
+      "mainCharacter": "Ed",
+      "mostPlayedCharacterId": 19,
+      "mostPlayedCharacter": "Ed",
+      "favoriteCharacterId": 19,
+      "synchronizedAt": "2026-09-09T14:33:17.887Z",
+      "leagues": [
+        {
+          "characterId": 1,
+          "character": "Ryu",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 2,
+          "character": "Luke",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 4,
+          "character": "Chun-Li",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 6,
+          "character": "Zangief",
+          "lp": 15531,
+          "mr": 0
+        },
+        {
+          "characterId": 7,
+          "character": "JP",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 8,
+          "character": "Dhalsim",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 9,
+          "character": "Cammy",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 10,
+          "character": "Ken",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 11,
+          "character": "Dee Jay",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 15,
+          "character": "Blanka",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 16,
+          "character": "Juri",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 17,
+          "character": "Marisa",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 18,
+          "character": "Guile",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 19,
+          "character": "Ed",
+          "lp": 17860,
+          "mr": 0
+        },
+        {
+          "characterId": 20,
+          "character": "E. Honda",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 21,
+          "character": "Jamie",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 22,
+          "character": "Akuma",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 25,
+          "character": "Sagat",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 26,
+          "character": "M. Bison",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 27,
+          "character": "Terry",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 28,
+          "character": "Mai",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 30,
+          "character": "C. Viper",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 31,
+          "character": "Alex",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 32,
+          "character": "Ingrid",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 254,
+          "character": "Random",
+          "lp": -1,
+          "mr": 0
+        }
+      ]
+    },
+    "summary": {
+      "wins": 8,
+      "losses": 9,
+      "draws": 0,
+      "total": 17,
+      "diff": -1,
+      "winRate": 47.05882352941176
+    },
+    "matchCount": 17,
+    "matchups": [
+      {
+        "homeCharacterId": 31,
+        "homeCharacter": "Alex",
+        "characterId": 9,
+        "character": "Cammy",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 3,
+          "losses": 2,
+          "draws": 0,
+          "total": 5,
+          "diff": 1,
+          "winRate": 60
+        },
+        "communityWinRate": 59.9
+      },
+      {
+        "homeCharacterId": 19,
+        "homeCharacter": "Ed",
+        "characterId": 7,
+        "character": "JP",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 0,
+          "losses": 4,
+          "draws": 0,
+          "total": 4,
+          "diff": -4,
+          "winRate": 0
+        },
+        "communityWinRate": 45.7
+      },
+      {
+        "homeCharacterId": 19,
+        "homeCharacter": "Ed",
+        "characterId": 6,
+        "character": "Zangief",
+        "inputTypeId": 1,
+        "inputType": "Modern",
+        "score": {
+          "wins": 2,
+          "losses": 1,
+          "draws": 0,
+          "total": 3,
+          "diff": 1,
+          "winRate": 66.66666666666666
+        },
+        "communityWinRate": 38.8
+      },
+      {
+        "homeCharacterId": 19,
+        "homeCharacter": "Ed",
+        "characterId": 16,
+        "character": "Juri",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 0,
+          "losses": 2,
+          "draws": 0,
+          "total": 2,
+          "diff": -2,
+          "winRate": 0
+        },
+        "communityWinRate": 57.2
+      },
+      {
+        "homeCharacterId": 6,
+        "homeCharacter": "Zangief",
+        "characterId": 6,
+        "character": "Zangief",
+        "inputTypeId": 1,
+        "inputType": "Modern",
+        "score": {
+          "wins": 2,
+          "losses": 0,
+          "draws": 0,
+          "total": 2,
+          "diff": 2,
+          "winRate": 100
+        },
+        "communityWinRate": null
+      },
+      {
+        "homeCharacterId": 19,
+        "homeCharacter": "Ed",
+        "characterId": 8,
+        "character": "Dhalsim",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0,
+          "total": 1,
+          "diff": 1,
+          "winRate": 100
+        },
+        "communityWinRate": 36.5
+      }
+    ],
+    "communityMatchupsMonth": "202607",
+    "playedCharacters": [
+      {
+        "characterId": 19,
+        "character": "Ed",
+        "games": 10
+      },
+      {
+        "characterId": 31,
+        "character": "Alex",
+        "games": 5
+      },
+      {
+        "characterId": 6,
+        "character": "Zangief",
+        "games": 2
+      }
+    ],
+    "rivals": {
+      "favorites": [
+        {
+          "fighterId": "1122738358",
+          "name": "かぱめ。",
+          "characterId": 9,
+          "character": "Cammy",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 3,
+            "losses": 2,
+            "draws": 0,
+            "total": 5,
+            "diff": 1,
+            "winRate": 60
+          },
+          "synced": true
+        },
+        {
+          "fighterId": "2709181169",
+          "name": "かざはね",
+          "characterId": 7,
+          "character": "JP",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 0,
+            "losses": 4,
+            "draws": 0,
+            "total": 4,
+            "diff": -4,
+            "winRate": 0
+          },
+          "synced": false
+        },
+        {
+          "fighterId": "1268709417",
+          "name": "シュシュっと",
+          "characterId": 6,
+          "character": "Zangief",
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "score": {
+            "wins": 2,
+            "losses": 1,
+            "draws": 0,
+            "total": 3,
+            "diff": 1,
+            "winRate": 66.66666666666666
+          },
+          "synced": false
+        },
+        {
+          "fighterId": "3250738358",
+          "name": "LiesApril",
+          "characterId": 6,
+          "character": "Zangief",
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "score": {
+            "wins": 2,
+            "losses": 0,
+            "draws": 0,
+            "total": 2,
+            "diff": 2,
+            "winRate": 100
+          },
+          "synced": true
+        },
+        {
+          "fighterId": "1023770695",
+          "name": "2윌17돈",
+          "characterId": 16,
+          "character": "Juri",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 0,
+            "losses": 2,
+            "draws": 0,
+            "total": 2,
+            "diff": -2,
+            "winRate": 0
+          },
+          "synced": false
+        },
+        {
+          "fighterId": "2194989577",
+          "name": "kasouya",
+          "characterId": 8,
+          "character": "Dhalsim",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 1,
+            "losses": 0,
+            "draws": 0,
+            "total": 1,
+            "diff": 1,
+            "winRate": 100
+          },
+          "synced": true
+        }
+      ],
+      "victims": [
+        {
+          "fighterId": "3250738358",
+          "name": "LiesApril",
+          "characterId": 6,
+          "character": "Zangief",
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "score": {
+            "wins": 2,
+            "losses": 0,
+            "draws": 0,
+            "total": 2,
+            "diff": 2,
+            "winRate": 100
+          },
+          "synced": true
+        },
+        {
+          "fighterId": "2194989577",
+          "name": "kasouya",
+          "characterId": 8,
+          "character": "Dhalsim",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 1,
+            "losses": 0,
+            "draws": 0,
+            "total": 1,
+            "diff": 1,
+            "winRate": 100
+          },
+          "synced": true
+        },
+        {
+          "fighterId": "1268709417",
+          "name": "シュシュっと",
+          "characterId": 6,
+          "character": "Zangief",
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "score": {
+            "wins": 2,
+            "losses": 1,
+            "draws": 0,
+            "total": 3,
+            "diff": 1,
+            "winRate": 66.66666666666666
+          },
+          "synced": false
+        },
+        {
+          "fighterId": "1122738358",
+          "name": "かぱめ。",
+          "characterId": 9,
+          "character": "Cammy",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 3,
+            "losses": 2,
+            "draws": 0,
+            "total": 5,
+            "diff": 1,
+            "winRate": 60
+          },
+          "synced": true
+        },
+        {
+          "fighterId": "1023770695",
+          "name": "2윌17돈",
+          "characterId": 16,
+          "character": "Juri",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 0,
+            "losses": 2,
+            "draws": 0,
+            "total": 2,
+            "diff": -2,
+            "winRate": 0
+          },
+          "synced": false
+        },
+        {
+          "fighterId": "2709181169",
+          "name": "かざはね",
+          "characterId": 7,
+          "character": "JP",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 0,
+            "losses": 4,
+            "draws": 0,
+            "total": 4,
+            "diff": -4,
+            "winRate": 0
+          },
+          "synced": false
+        }
+      ],
+      "tormentors": [
+        {
+          "fighterId": "2709181169",
+          "name": "かざはね",
+          "characterId": 7,
+          "character": "JP",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 0,
+            "losses": 4,
+            "draws": 0,
+            "total": 4,
+            "diff": -4,
+            "winRate": 0
+          },
+          "synced": false
+        },
+        {
+          "fighterId": "1023770695",
+          "name": "2윌17돈",
+          "characterId": 16,
+          "character": "Juri",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 0,
+            "losses": 2,
+            "draws": 0,
+            "total": 2,
+            "diff": -2,
+            "winRate": 0
+          },
+          "synced": false
+        },
+        {
+          "fighterId": "2194989577",
+          "name": "kasouya",
+          "characterId": 8,
+          "character": "Dhalsim",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 1,
+            "losses": 0,
+            "draws": 0,
+            "total": 1,
+            "diff": 1,
+            "winRate": 100
+          },
+          "synced": true
+        },
+        {
+          "fighterId": "1268709417",
+          "name": "シュシュっと",
+          "characterId": 6,
+          "character": "Zangief",
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "score": {
+            "wins": 2,
+            "losses": 1,
+            "draws": 0,
+            "total": 3,
+            "diff": 1,
+            "winRate": 66.66666666666666
+          },
+          "synced": false
+        },
+        {
+          "fighterId": "1122738358",
+          "name": "かぱめ。",
+          "characterId": 9,
+          "character": "Cammy",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 3,
+            "losses": 2,
+            "draws": 0,
+            "total": 5,
+            "diff": 1,
+            "winRate": 60
+          },
+          "synced": true
+        },
+        {
+          "fighterId": "3250738358",
+          "name": "LiesApril",
+          "characterId": 6,
+          "character": "Zangief",
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "score": {
+            "wins": 2,
+            "losses": 0,
+            "draws": 0,
+            "total": 2,
+            "diff": 2,
+            "winRate": 100
+          },
+          "synced": true
+        }
+      ]
+    },
+    "rankedHistory": [],
+    "rankedHistoryMeta": {
+      "localPoints": 0,
+      "importedPoints": 0,
+      "mergedPoints": 0,
+      "storedBattles": 17,
+      "sfbuff": {
+        "pointCount": 0,
+        "lastScrapedAt": null,
+        "fresh": false,
+        "cooldownDays": 7
+      }
+    },
+    "daily": [
+      {
+        "date": "2026-08-28",
+        "score": {
+          "wins": 2,
+          "losses": 0,
+          "draws": 0,
+          "total": 2,
+          "diff": 2,
+          "winRate": 100
+        }
+      },
+      {
+        "date": "2026-09-09",
+        "score": {
+          "wins": 6,
+          "losses": 9,
+          "draws": 0,
+          "total": 15,
+          "diff": -3,
+          "winRate": 40
+        }
+      }
+    ],
+    "matches": [
+      {
+        "replayId": "NU8EVXFBL",
+        "playedAt": "2026-09-09T14:15:24.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "home": {
+          "fighterId": "2624899455",
+          "name": "承諾 只有愛的時候才算數",
+          "character": "Ed",
+          "characterId": 19,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 17860
+        },
+        "away": {
+          "fighterId": "1023770695",
+          "name": "2윌17돈",
+          "character": "Juri",
+          "characterId": 16,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 19198,
+          "synced": false
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          0,
+          1,
+          0
+        ],
+        "awayRounds": [
+          5,
+          0,
+          1
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "4KKPYS47G",
+        "playedAt": "2026-09-09T14:13:21.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "home": {
+          "fighterId": "2624899455",
+          "name": "承諾 只有愛的時候才算數",
+          "character": "Ed",
+          "characterId": 19,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 17860
+        },
+        "away": {
+          "fighterId": "1023770695",
+          "name": "2윌17돈",
+          "character": "Juri",
+          "characterId": 16,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 19198,
+          "synced": false
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          1,
+          0,
+          0
+        ],
+        "awayRounds": [
+          0,
+          1,
+          1
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "NDE6US6NM",
+        "playedAt": "2026-09-09T14:08:20.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "home": {
+          "fighterId": "2624899455",
+          "name": "承諾 只有愛的時候才算數",
+          "character": "Ed",
+          "characterId": 19,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 17860
+        },
+        "away": {
+          "fighterId": "1268709417",
+          "name": "シュシュっと",
+          "character": "Zangief",
+          "characterId": 6,
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "mr": 1500,
+          "lp": 25961,
+          "synced": false
+        },
+        "result": 1,
+        "resultLabel": "W",
+        "homeRounds": [
+          1,
+          0,
+          7
+        ],
+        "awayRounds": [
+          0,
+          5,
+          0
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "4QLJPNB9M",
+        "playedAt": "2026-09-09T14:06:11.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "home": {
+          "fighterId": "2624899455",
+          "name": "承諾 只有愛的時候才算數",
+          "character": "Ed",
+          "characterId": 19,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 17860
+        },
+        "away": {
+          "fighterId": "1268709417",
+          "name": "シュシュっと",
+          "character": "Zangief",
+          "characterId": 6,
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "mr": 1500,
+          "lp": 25961,
+          "synced": false
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          1,
+          0,
+          0
+        ],
+        "awayRounds": [
+          0,
+          1,
+          6
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "UCHXL5XWH",
+        "playedAt": "2026-09-09T14:04:09.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "home": {
+          "fighterId": "2624899455",
+          "name": "承諾 只有愛的時候才算數",
+          "character": "Ed",
+          "characterId": 19,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 17860
+        },
+        "away": {
+          "fighterId": "1268709417",
+          "name": "シュシュっと",
+          "character": "Zangief",
+          "characterId": 6,
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "mr": 1500,
+          "lp": 25961,
+          "synced": false
+        },
+        "result": 1,
+        "resultLabel": "W",
+        "homeRounds": [
+          1,
+          5
+        ],
+        "awayRounds": [
+          0,
+          0
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "VVC963DVT",
+        "playedAt": "2026-09-09T14:01:07.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "home": {
+          "fighterId": "2624899455",
+          "name": "承諾 只有愛的時候才算數",
+          "character": "Ed",
+          "characterId": 19,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 17860
+        },
+        "away": {
+          "fighterId": "2194989577",
+          "name": "kasouya",
+          "character": "Dhalsim",
+          "characterId": 8,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": -1,
+          "synced": true
+        },
+        "result": 1,
+        "resultLabel": "W",
+        "homeRounds": [
+          1,
+          1
+        ],
+        "awayRounds": [
+          0,
+          0
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "XLGJXK7E5",
+        "playedAt": "2026-09-09T13:59:12.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "home": {
+          "fighterId": "2624899455",
+          "name": "承諾 只有愛的時候才算數",
+          "character": "Ed",
+          "characterId": 19,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 17860
+        },
+        "away": {
+          "fighterId": "2709181169",
+          "name": "かざはね",
+          "character": "JP",
+          "characterId": 7,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 1500,
+          "lp": 25038,
+          "synced": false
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          0,
+          0
+        ],
+        "awayRounds": [
+          1,
+          1
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "NJYQJ7Y9N",
+        "playedAt": "2026-09-09T13:57:20.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "home": {
+          "fighterId": "2624899455",
+          "name": "承諾 只有愛的時候才算數",
+          "character": "Ed",
+          "characterId": 19,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 17860
+        },
+        "away": {
+          "fighterId": "2709181169",
+          "name": "かざはね",
+          "character": "JP",
+          "characterId": 7,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 1500,
+          "lp": 25038,
+          "synced": false
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          0,
+          0
+        ],
+        "awayRounds": [
+          1,
+          1
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "46PCRBH4B",
+        "playedAt": "2026-09-09T13:55:41.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "home": {
+          "fighterId": "2624899455",
+          "name": "承諾 只有愛的時候才算數",
+          "character": "Ed",
+          "characterId": 19,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 17860
+        },
+        "away": {
+          "fighterId": "2709181169",
+          "name": "かざはね",
+          "character": "JP",
+          "characterId": 7,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 1500,
+          "lp": 25038,
+          "synced": false
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          1,
+          0,
+          0
+        ],
+        "awayRounds": [
+          0,
+          1,
+          1
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "C6JTGQVYF",
+        "playedAt": "2026-09-09T13:53:29.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "home": {
+          "fighterId": "2624899455",
+          "name": "承諾 只有愛的時候才算數",
+          "character": "Ed",
+          "characterId": 19,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 17860
+        },
+        "away": {
+          "fighterId": "2709181169",
+          "name": "かざはね",
+          "character": "JP",
+          "characterId": 7,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 1500,
+          "lp": 25038,
+          "synced": false
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          0,
+          0
+        ],
+        "awayRounds": [
+          1,
+          6
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "B9VREPYEF",
+        "playedAt": "2026-09-09T13:48:24.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "home": {
+          "fighterId": "2624899455",
+          "name": "承諾 只有愛的時候才算數",
+          "character": "Alex",
+          "characterId": 31,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": -1
+        },
+        "away": {
+          "fighterId": "1122738358",
+          "name": "かぱめ。",
+          "character": "Cammy",
+          "characterId": 9,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 2286,
+          "synced": true
+        },
+        "result": 1,
+        "resultLabel": "W",
+        "homeRounds": [
+          1,
+          1
+        ],
+        "awayRounds": [
+          0,
+          0
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "HDC883AQV",
+        "playedAt": "2026-09-09T13:46:46.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "home": {
+          "fighterId": "2624899455",
+          "name": "承諾 只有愛的時候才算數",
+          "character": "Alex",
+          "characterId": 31,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": -1
+        },
+        "away": {
+          "fighterId": "1122738358",
+          "name": "かぱめ。",
+          "character": "Cammy",
+          "characterId": 9,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 2286,
+          "synced": true
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          0,
+          1,
+          0
+        ],
+        "awayRounds": [
+          1,
+          0,
+          1
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "XJEAMAJN4",
+        "playedAt": "2026-09-09T13:43:59.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "home": {
+          "fighterId": "2624899455",
+          "name": "承諾 只有愛的時候才算數",
+          "character": "Alex",
+          "characterId": 31,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": -1
+        },
+        "away": {
+          "fighterId": "1122738358",
+          "name": "かぱめ。",
+          "character": "Cammy",
+          "characterId": 9,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 2286,
+          "synced": true
+        },
+        "result": 1,
+        "resultLabel": "W",
+        "homeRounds": [
+          1,
+          7
+        ],
+        "awayRounds": [
+          0,
+          0
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "ASQMWFE7H",
+        "playedAt": "2026-09-09T13:42:10.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "home": {
+          "fighterId": "2624899455",
+          "name": "承諾 只有愛的時候才算數",
+          "character": "Alex",
+          "characterId": 31,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": -1
+        },
+        "away": {
+          "fighterId": "1122738358",
+          "name": "かぱめ。",
+          "character": "Cammy",
+          "characterId": 9,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 2286,
+          "synced": true
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          0,
+          5,
+          0
+        ],
+        "awayRounds": [
+          1,
+          0,
+          1
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "5QQPXFC34",
+        "playedAt": "2026-09-09T13:39:25.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "home": {
+          "fighterId": "2624899455",
+          "name": "承諾 只有愛的時候才算數",
+          "character": "Alex",
+          "characterId": 31,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": -1
+        },
+        "away": {
+          "fighterId": "1122738358",
+          "name": "かぱめ。",
+          "character": "Cammy",
+          "characterId": 9,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 2286,
+          "synced": true
+        },
+        "result": 1,
+        "resultLabel": "W",
+        "homeRounds": [
+          5,
+          1
+        ],
+        "awayRounds": [
+          0,
+          0
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "7MRHEVPMU",
+        "playedAt": "2026-08-28T09:14:44.000Z",
+        "battleType": "Ranked",
+        "battleTypeId": 1,
+        "home": {
+          "fighterId": "2624899455",
+          "name": "承諾 只有愛的時候才算數",
+          "character": "Zangief",
+          "characterId": 6,
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "mr": 0,
+          "lp": 15380
+        },
+        "away": {
+          "fighterId": "3250738358",
+          "name": "LiesApril",
+          "character": "Zangief",
+          "characterId": 6,
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "mr": 0,
+          "lp": 15114,
+          "synced": true
+        },
+        "result": 1,
+        "resultLabel": "W",
+        "homeRounds": [
+          1,
+          1
+        ],
+        "awayRounds": [
+          0,
+          0
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "EJK3C8WAV",
+        "playedAt": "2026-08-28T09:13:26.000Z",
+        "battleType": "Ranked",
+        "battleTypeId": 1,
+        "home": {
+          "fighterId": "2624899455",
+          "name": "承諾 只有愛的時候才算數",
+          "character": "Zangief",
+          "characterId": 6,
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "mr": 0,
+          "lp": 15330
+        },
+        "away": {
+          "fighterId": "3250738358",
+          "name": "LiesApril",
+          "character": "Zangief",
+          "characterId": 6,
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "mr": 0,
+          "lp": 15154,
+          "synced": true
+        },
+        "result": 1,
+        "resultLabel": "W",
+        "homeRounds": [
+          0,
+          1,
+          1
+        ],
+        "awayRounds": [
+          1,
+          0,
+          0
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      }
+    ],
+    "capcom": {
+      "seasonId": 13,
+      "seasons": [
+        13,
+        12,
+        11,
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "banner": {
+        "name": "承諾 只有愛的時候才算數",
+        "shortId": "2624899455",
+        "platform": "Steam",
+        "platformTool": "steam",
+        "platformIconUrl": "https://www.streetfighter.com/6/buckler/assets/images/common/icon_steam.png",
+        "favoriteCharacterId": 19,
+        "favoriteCharacter": "Ed",
+        "mostPlayedCharacterId": 19,
+        "mostPlayedCharacter": "Ed",
+        "mainCharacterId": 19,
+        "mainCharacter": "Ed",
+        "mr": 0,
+        "lp": 17860,
+        "leagueRank": 30,
+        "masterLeague": 0,
+        "mrRanking": 0,
+        "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank30_s.png",
+        "homeId": 999,
+        "homeName": "Other",
+        "flagUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/national_frag/frag999.png",
+        "lastPlayAt": "2026-09-09T13:00:45.000Z",
+        "title": "OGHunt",
+        "titlePlateName": "464-8e59908b1c85b74c2bdbb1adc821de",
+        "titlePlateUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/title/464-8e59908b1c85b74c2bdbb1adc821de.png",
+        "comment": "Good Luck, Have Fun",
+        "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_ed.jpg",
+        "mainCircle": null,
+        "inputType": 0,
+        "enjoyFightPoint": 44,
+        "enjoyTotalPoint": 49,
+        "enjoyUserPoint": 5
+      },
+      "playTime": [
+        {
+          "name": "Custom Room Matches",
+          "seconds": 339082,
+          "hours": 94.2
+        },
+        {
+          "name": "Practice",
+          "seconds": 278581,
+          "hours": 77.4
+        },
+        {
+          "name": "Ranked Matches",
+          "seconds": 126588,
+          "hours": 35.2
+        },
+        {
+          "name": "Casual Matches",
+          "seconds": 93980,
+          "hours": 26.1
+        },
+        {
+          "name": "Battle Hub",
+          "seconds": 18498,
+          "hours": 5.1
+        },
+        {
+          "name": "Offline Matches",
+          "seconds": 8828,
+          "hours": 2.5
+        },
+        {
+          "name": "Arcade",
+          "seconds": 1231,
+          "hours": 0.3
+        },
+        {
+          "name": "Avatar Room",
+          "seconds": 99,
+          "hours": 0
+        },
+        {
+          "name": "Special Matches",
+          "seconds": 3,
+          "hours": 0
+        }
+      ],
+      "battleStats": {
+        "rankedGames": 985,
+        "casualGames": 754,
+        "hubGames": 0,
+        "customGames": 2211,
+        "habits": [
+          {
+            "key": "drive_impact",
+            "label": "Drive Impact / game",
+            "value": 0.8,
+            "format": "rate"
+          },
+          {
+            "key": "drive_parry",
+            "label": "Drive Parry / game",
+            "value": 1.4,
+            "format": "rate"
+          },
+          {
+            "key": "just_parry",
+            "label": "Perfect Parry / game",
+            "value": 0.2,
+            "format": "rate"
+          },
+          {
+            "key": "drive_reversal",
+            "label": "Drive Reversal / game",
+            "value": 0.1,
+            "format": "rate"
+          },
+          {
+            "key": "punish_counter",
+            "label": "Punish Counter / game",
+            "value": 0.4,
+            "format": "rate"
+          },
+          {
+            "key": "received_punish_counter",
+            "label": "Got PC'd / game",
+            "value": 0.3,
+            "format": "rate"
+          },
+          {
+            "key": "throw_count",
+            "label": "Throws / game",
+            "value": 2.6,
+            "format": "rate"
+          },
+          {
+            "key": "throw_tech",
+            "label": "Throw techs / game",
+            "value": 0.5,
+            "format": "rate"
+          },
+          {
+            "key": "throw_drive_parry",
+            "label": "Throw parries / game",
+            "value": 0.1,
+            "format": "rate"
+          },
+          {
+            "key": "received_throw_count",
+            "label": "Got thrown / game",
+            "value": 2.6,
+            "format": "rate"
+          },
+          {
+            "key": "stun",
+            "label": "Stuns / game",
+            "value": 0.1,
+            "format": "rate"
+          },
+          {
+            "key": "received_stun",
+            "label": "Got stunned / game",
+            "value": 0,
+            "format": "rate"
+          },
+          {
+            "key": "corner_time",
+            "label": "Corner pressure time",
+            "value": 7.3,
+            "format": "rate"
+          },
+          {
+            "key": "cornered_time",
+            "label": "Time cornered",
+            "value": 5.8,
+            "format": "rate"
+          },
+          {
+            "key": "gauge_rate_drive_rush_from_cancel",
+            "label": "Drive Rush (cancel) share",
+            "value": 0.2319,
+            "format": "rate"
+          },
+          {
+            "key": "gauge_rate_drive_rush_from_parry",
+            "label": "Drive Rush (parry) share",
+            "value": 0.0554,
+            "format": "rate"
+          },
+          {
+            "key": "gauge_rate_drive_arts",
+            "label": "Drive Arts share",
+            "value": 0.2301,
+            "format": "rate"
+          },
+          {
+            "key": "gauge_rate_drive_impact",
+            "label": "Drive Impact gauge share",
+            "value": 0.0632,
+            "format": "rate"
+          },
+          {
+            "key": "gauge_rate_drive_guard",
+            "label": "Drive Guard share",
+            "value": 0.1153,
+            "format": "rate"
+          },
+          {
+            "key": "gauge_rate_sa_lv1",
+            "label": "SA1 usage share",
+            "value": 0.0857,
+            "format": "rate"
+          },
+          {
+            "key": "gauge_rate_sa_lv2",
+            "label": "SA2 usage share",
+            "value": 0.3714,
+            "format": "rate"
+          },
+          {
+            "key": "gauge_rate_sa_lv3",
+            "label": "SA3 usage share",
+            "value": 0.2857,
+            "format": "rate"
+          },
+          {
+            "key": "gauge_rate_ca",
+            "label": "CA usage share",
+            "value": 0.2571,
+            "format": "rate"
+          }
+        ]
+      },
+      "characterWinRates": [
+        {
+          "characterId": 19,
+          "character": "Ed",
+          "wins": 136,
+          "games": 248,
+          "winRate": 54.83870967741935
+        },
+        {
+          "characterId": 31,
+          "character": "Alex",
+          "wins": 36,
+          "games": 92,
+          "winRate": 39.130434782608695
+        },
+        {
+          "characterId": 22,
+          "character": "Akuma",
+          "wins": 29,
+          "games": 77,
+          "winRate": 37.66233766233766
+        },
+        {
+          "characterId": 6,
+          "character": "Zangief",
+          "wins": 43,
+          "games": 74,
+          "winRate": 58.108108108108105
+        }
+      ],
+      "characterLeagues": [
+        {
+          "characterId": 19,
+          "character": "Ed",
+          "lp": 17860,
+          "mr": null,
+          "leagueRank": 30,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank30_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_ed_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_ed.jpg"
+        },
+        {
+          "characterId": 6,
+          "character": "Zangief",
+          "lp": 15531,
+          "mr": null,
+          "leagueRank": 28,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank28_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_zangief_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_zangief.jpg"
+        },
+        {
+          "characterId": 1,
+          "character": "Ryu",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_ryu_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_ryu.jpg"
+        },
+        {
+          "characterId": 2,
+          "character": "Luke",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_luke_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_luke.jpg"
+        },
+        {
+          "characterId": 4,
+          "character": "Chun-Li",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_chunli_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_chunli.jpg"
+        },
+        {
+          "characterId": 7,
+          "character": "JP",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_jp_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_jp.jpg"
+        },
+        {
+          "characterId": 8,
+          "character": "Dhalsim",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_dhalsim_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_dhalsim.jpg"
+        },
+        {
+          "characterId": 9,
+          "character": "Cammy",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_cammy_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_cammy.jpg"
+        },
+        {
+          "characterId": 10,
+          "character": "Ken",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_ken_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_ken.jpg"
+        },
+        {
+          "characterId": 11,
+          "character": "Dee Jay",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_deejay_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_deejay.jpg"
+        },
+        {
+          "characterId": 15,
+          "character": "Blanka",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_blanka_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_blanka.jpg"
+        },
+        {
+          "characterId": 16,
+          "character": "Juri",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_juri_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_juri.jpg"
+        },
+        {
+          "characterId": 17,
+          "character": "Marisa",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_marisa_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_marisa.jpg"
+        },
+        {
+          "characterId": 18,
+          "character": "Guile",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_guile_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_guile.jpg"
+        },
+        {
+          "characterId": 20,
+          "character": "Edmond Honda",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_honda_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_honda.jpg"
+        },
+        {
+          "characterId": 21,
+          "character": "Jamie",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_jamie_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_jamie.jpg"
+        },
+        {
+          "characterId": 22,
+          "character": "Akuma",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_gouki_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_gouki.jpg"
+        },
+        {
+          "characterId": 25,
+          "character": "Sagat",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_sagat_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_sagat.jpg"
+        },
+        {
+          "characterId": 26,
+          "character": "M. Bison",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_vega_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_vega.jpg"
+        },
+        {
+          "characterId": 27,
+          "character": "Terry",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_terry_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_terry.jpg"
+        },
+        {
+          "characterId": 28,
+          "character": "Mai",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_mai_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_mai.jpg"
+        },
+        {
+          "characterId": 30,
+          "character": "C. Viper",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_cviper_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_cviper.jpg"
+        },
+        {
+          "characterId": 31,
+          "character": "Alex",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_alex_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_alex.jpg"
+        },
+        {
+          "characterId": 32,
+          "character": "Ingrid",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_ingrid_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_ingrid.jpg"
+        }
+      ],
+      "officialMatchups": [
+        {
+          "characterId": 6,
+          "character": "Zangief",
+          "vs": [
+            {
+              "characterId": 253,
+              "character": "Any",
+              "wins": 43,
+              "games": 74,
+              "winRate": 58.108108108108105
+            },
+            {
+              "characterId": 1,
+              "character": "Ryu",
+              "wins": 16,
+              "games": 32,
+              "winRate": 50
+            },
+            {
+              "characterId": 6,
+              "character": "Zangief",
+              "wins": 15,
+              "games": 21,
+              "winRate": 71.42857142857143
+            },
+            {
+              "characterId": 13,
+              "character": "A.K.I.",
+              "wins": 0,
+              "games": 3,
+              "winRate": 0
+            },
+            {
+              "characterId": 25,
+              "character": "Sagat",
+              "wins": 1,
+              "games": 3,
+              "winRate": 33.33333333333333
+            },
+            {
+              "characterId": 28,
+              "character": "Mai",
+              "wins": 2,
+              "games": 3,
+              "winRate": 66.66666666666666
+            },
+            {
+              "characterId": 2,
+              "character": "Luke",
+              "wins": 2,
+              "games": 2,
+              "winRate": 100
+            },
+            {
+              "characterId": 17,
+              "character": "Marisa",
+              "wins": 2,
+              "games": 2,
+              "winRate": 100
+            },
+            {
+              "characterId": 21,
+              "character": "Jamie",
+              "wins": 1,
+              "games": 2,
+              "winRate": 50
+            },
+            {
+              "characterId": 22,
+              "character": "Akuma",
+              "wins": 0,
+              "games": 2,
+              "winRate": 0
+            },
+            {
+              "characterId": 33,
+              "character": "Yasmine",
+              "wins": 2,
+              "games": 2,
+              "winRate": 100
+            },
+            {
+              "characterId": 7,
+              "character": "JP",
+              "wins": 1,
+              "games": 1,
+              "winRate": 100
+            },
+            {
+              "characterId": 9,
+              "character": "Cammy",
+              "wins": 1,
+              "games": 1,
+              "winRate": 100
+            }
+          ]
+        },
+        {
+          "characterId": 19,
+          "character": "Ed",
+          "vs": [
+            {
+              "characterId": 253,
+              "character": "Any",
+              "wins": 136,
+              "games": 248,
+              "winRate": 54.83870967741935
+            },
+            {
+              "characterId": 1,
+              "character": "Ryu",
+              "wins": 19,
+              "games": 42,
+              "winRate": 45.23809523809524
+            },
+            {
+              "characterId": 10,
+              "character": "Ken",
+              "wins": 13,
+              "games": 34,
+              "winRate": 38.23529411764706
+            },
+            {
+              "characterId": 33,
+              "character": "Yasmine",
+              "wins": 16,
+              "games": 29,
+              "winRate": 55.172413793103445
+            },
+            {
+              "characterId": 6,
+              "character": "Zangief",
+              "wins": 20,
+              "games": 26,
+              "winRate": 76.92307692307693
+            },
+            {
+              "characterId": 7,
+              "character": "JP",
+              "wins": 4,
+              "games": 16,
+              "winRate": 25
+            },
+            {
+              "characterId": 28,
+              "character": "Mai",
+              "wins": 10,
+              "games": 16,
+              "winRate": 62.5
+            },
+            {
+              "characterId": 26,
+              "character": "M. Bison",
+              "wins": 10,
+              "games": 14,
+              "winRate": 71.42857142857143
+            },
+            {
+              "characterId": 16,
+              "character": "Juri",
+              "wins": 6,
+              "games": 9,
+              "winRate": 66.66666666666666
+            },
+            {
+              "characterId": 17,
+              "character": "Marisa",
+              "wins": 4,
+              "games": 9,
+              "winRate": 44.44444444444444
+            },
+            {
+              "characterId": 22,
+              "character": "Akuma",
+              "wins": 6,
+              "games": 9,
+              "winRate": 66.66666666666666
+            },
+            {
+              "characterId": 27,
+              "character": "Terry",
+              "wins": 7,
+              "games": 9,
+              "winRate": 77.77777777777779
+            },
+            {
+              "characterId": 19,
+              "character": "Ed",
+              "wins": 6,
+              "games": 8,
+              "winRate": 75
+            },
+            {
+              "characterId": 32,
+              "character": "Ingrid",
+              "wins": 5,
+              "games": 8,
+              "winRate": 62.5
+            },
+            {
+              "characterId": 8,
+              "character": "Dhalsim",
+              "wins": 3,
+              "games": 5,
+              "winRate": 60
+            },
+            {
+              "characterId": 9,
+              "character": "Cammy",
+              "wins": 1,
+              "games": 4,
+              "winRate": 25
+            },
+            {
+              "characterId": 30,
+              "character": "C. Viper",
+              "wins": 2,
+              "games": 3,
+              "winRate": 66.66666666666666
+            },
+            {
+              "characterId": 31,
+              "character": "Alex",
+              "wins": 2,
+              "games": 3,
+              "winRate": 66.66666666666666
+            },
+            {
+              "characterId": 2,
+              "character": "Luke",
+              "wins": 0,
+              "games": 2,
+              "winRate": 0
+            },
+            {
+              "characterId": 21,
+              "character": "Jamie",
+              "wins": 2,
+              "games": 2,
+              "winRate": 100
+            }
+          ]
+        },
+        {
+          "characterId": 22,
+          "character": "Akuma",
+          "vs": [
+            {
+              "characterId": 253,
+              "character": "Any",
+              "wins": 29,
+              "games": 77,
+              "winRate": 37.66233766233766
+            },
+            {
+              "characterId": 10,
+              "character": "Ken",
+              "wins": 6,
+              "games": 32,
+              "winRate": 18.75
+            },
+            {
+              "characterId": 26,
+              "character": "M. Bison",
+              "wins": 14,
+              "games": 21,
+              "winRate": 66.66666666666666
+            },
+            {
+              "characterId": 1,
+              "character": "Ryu",
+              "wins": 4,
+              "games": 17,
+              "winRate": 23.52941176470588
+            },
+            {
+              "characterId": 6,
+              "character": "Zangief",
+              "wins": 4,
+              "games": 5,
+              "winRate": 80
+            },
+            {
+              "characterId": 254,
+              "character": "Random",
+              "wins": 1,
+              "games": 2,
+              "winRate": 50
+            }
+          ]
+        },
+        {
+          "characterId": 31,
+          "character": "Alex",
+          "vs": [
+            {
+              "characterId": 253,
+              "character": "Any",
+              "wins": 36,
+              "games": 92,
+              "winRate": 39.130434782608695
+            },
+            {
+              "characterId": 1,
+              "character": "Ryu",
+              "wins": 12,
+              "games": 33,
+              "winRate": 36.36363636363637
+            },
+            {
+              "characterId": 10,
+              "character": "Ken",
+              "wins": 8,
+              "games": 19,
+              "winRate": 42.10526315789473
+            },
+            {
+              "characterId": 2,
+              "character": "Luke",
+              "wins": 5,
+              "games": 10,
+              "winRate": 50
+            },
+            {
+              "characterId": 17,
+              "character": "Marisa",
+              "wins": 1,
+              "games": 6,
+              "winRate": 16.666666666666664
+            },
+            {
+              "characterId": 9,
+              "character": "Cammy",
+              "wins": 3,
+              "games": 5,
+              "winRate": 60
+            },
+            {
+              "characterId": 3,
+              "character": "Kimberly",
+              "wins": 3,
+              "games": 4,
+              "winRate": 75
+            },
+            {
+              "characterId": 26,
+              "character": "M. Bison",
+              "wins": 1,
+              "games": 4,
+              "winRate": 25
+            },
+            {
+              "characterId": 29,
+              "character": "Elena",
+              "wins": 1,
+              "games": 4,
+              "winRate": 25
+            },
+            {
+              "characterId": 5,
+              "character": "Manon",
+              "wins": 0,
+              "games": 3,
+              "winRate": 0
+            },
+            {
+              "characterId": 33,
+              "character": "Yasmine",
+              "wins": 1,
+              "games": 2,
+              "winRate": 50
+            },
+            {
+              "characterId": 6,
+              "character": "Zangief",
+              "wins": 1,
+              "games": 1,
+              "winRate": 100
+            },
+            {
+              "characterId": 28,
+              "character": "Mai",
+              "wins": 0,
+              "games": 1,
+              "winRate": 0
+            }
+          ]
+        }
+      ],
+      "playPoints": [
+        {
+          "characterId": 19,
+          "character": "Ed",
+          "fightingGround": 50408,
+          "battleHub": 1200,
+          "worldTour": 0,
+          "total": 51608
+        },
+        {
+          "characterId": 6,
+          "character": "Zangief",
+          "fightingGround": 13043,
+          "battleHub": 820,
+          "worldTour": 0,
+          "total": 13863
+        },
+        {
+          "characterId": 31,
+          "character": "Alex",
+          "fightingGround": 8743,
+          "battleHub": 0,
+          "worldTour": 0,
+          "total": 8743
+        },
+        {
+          "characterId": 22,
+          "character": "Akuma",
+          "fightingGround": 3078,
+          "battleHub": 0,
+          "worldTour": 0,
+          "total": 3078
+        },
+        {
+          "characterId": 26,
+          "character": "M. Bison",
+          "fightingGround": 2229,
+          "battleHub": 0,
+          "worldTour": 0,
+          "total": 2229
+        },
+        {
+          "characterId": 28,
+          "character": "Mai",
+          "fightingGround": 1363,
+          "battleHub": 0,
+          "worldTour": 0,
+          "total": 1363
+        },
+        {
+          "characterId": 16,
+          "character": "Juri",
+          "fightingGround": 1047,
+          "battleHub": 80,
+          "worldTour": 0,
+          "total": 1127
+        },
+        {
+          "characterId": 17,
+          "character": "Marisa",
+          "fightingGround": 1104,
+          "battleHub": 0,
+          "worldTour": 0,
+          "total": 1104
+        },
+        {
+          "characterId": 1,
+          "character": "Ryu",
+          "fightingGround": 701,
+          "battleHub": 240,
+          "worldTour": 0,
+          "total": 941
+        },
+        {
+          "characterId": 32,
+          "character": "Ingrid",
+          "fightingGround": 925,
+          "battleHub": 0,
+          "worldTour": 0,
+          "total": 925
+        },
+        {
+          "characterId": 25,
+          "character": "Sagat",
+          "fightingGround": 681,
+          "battleHub": 0,
+          "worldTour": 0,
+          "total": 681
+        },
+        {
+          "characterId": 10,
+          "character": "Ken",
+          "fightingGround": 670,
+          "battleHub": 0,
+          "worldTour": 0,
+          "total": 670
+        },
+        {
+          "characterId": 13,
+          "character": "A.K.I.",
+          "fightingGround": 558,
+          "battleHub": 0,
+          "worldTour": 0,
+          "total": 558
+        },
+        {
+          "characterId": 9,
+          "character": "Cammy",
+          "fightingGround": 439,
+          "battleHub": 100,
+          "worldTour": 0,
+          "total": 539
+        },
+        {
+          "characterId": 27,
+          "character": "Terry",
+          "fightingGround": 526,
+          "battleHub": 0,
+          "worldTour": 0,
+          "total": 526
+        },
+        {
+          "characterId": 2,
+          "character": "Luke",
+          "fightingGround": 463,
+          "battleHub": 0,
+          "worldTour": 0,
+          "total": 463
+        },
+        {
+          "characterId": 30,
+          "character": "C. Viper",
+          "fightingGround": 335,
+          "battleHub": 0,
+          "worldTour": 0,
+          "total": 335
+        },
+        {
+          "characterId": 14,
+          "character": "Rashid",
+          "fightingGround": 311,
+          "battleHub": 0,
+          "worldTour": 0,
+          "total": 311
+        },
+        {
+          "characterId": 7,
+          "character": "JP",
+          "fightingGround": 307,
+          "battleHub": 0,
+          "worldTour": 0,
+          "total": 307
+        },
+        {
+          "characterId": 11,
+          "character": "Dee Jay",
+          "fightingGround": 276,
+          "battleHub": 0,
+          "worldTour": 0,
+          "total": 276
+        },
+        {
+          "characterId": 4,
+          "character": "Chun-Li",
+          "fightingGround": 239,
+          "battleHub": 0,
+          "worldTour": 0,
+          "total": 239
+        },
+        {
+          "characterId": 15,
+          "character": "Blanka",
+          "fightingGround": 223,
+          "battleHub": 0,
+          "worldTour": 0,
+          "total": 223
+        },
+        {
+          "characterId": 21,
+          "character": "Jamie",
+          "fightingGround": 200,
+          "battleHub": 0,
+          "worldTour": 0,
+          "total": 200
+        },
+        {
+          "characterId": 20,
+          "character": "Edmond Honda",
+          "fightingGround": 193,
+          "battleHub": 0,
+          "worldTour": 0,
+          "total": 193
+        },
+        {
+          "characterId": 18,
+          "character": "Guile",
+          "fightingGround": 158,
+          "battleHub": 0,
+          "worldTour": 0,
+          "total": 158
+        },
+        {
+          "characterId": 29,
+          "character": "Elena",
+          "fightingGround": 141,
+          "battleHub": 0,
+          "worldTour": 0,
+          "total": 141
+        },
+        {
+          "characterId": 12,
+          "character": "Lily",
+          "fightingGround": 105,
+          "battleHub": 0,
+          "worldTour": 0,
+          "total": 105
+        },
+        {
+          "characterId": 8,
+          "character": "Dhalsim",
+          "fightingGround": 81,
+          "battleHub": 0,
+          "worldTour": 0,
+          "total": 81
+        },
+        {
+          "characterId": 3,
+          "character": "Kimberly",
+          "fightingGround": 10,
+          "battleHub": 0,
+          "worldTour": 0,
+          "total": 10
+        },
+        {
+          "characterId": 5,
+          "character": "Manon",
+          "fightingGround": 10,
+          "battleHub": 0,
+          "worldTour": 0,
+          "total": 10
+        }
+      ],
+      "avatar": null,
+      "clubs": null
+    },
+    "habitsCompare": {
+      "characterId": 19,
+      "character": "Ed",
+      "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_ed_l.png",
+      "you": {
+        "shortId": "2624899455",
+        "name": "承諾 只有愛的時候才算數",
+        "rankedGames": 985
+      },
+      "elite": [
+        {
+          "shortId": "3297851278",
+          "name": "あでりい",
+          "mr": 2203,
+          "lp": 755250,
+          "characterId": 19,
+          "habits": [
+            {
+              "key": "drive_impact",
+              "label": "Drive Impact / game",
+              "value": 0.1
+            },
+            {
+              "key": "drive_parry",
+              "label": "Drive Parry / game",
+              "value": 1.5
+            },
+            {
+              "key": "just_parry",
+              "label": "Perfect Parry / game",
+              "value": 1.6
+            },
+            {
+              "key": "drive_reversal",
+              "label": "Drive Reversal / game",
+              "value": 0.4
+            },
+            {
+              "key": "punish_counter",
+              "label": "Punish Counter / game",
+              "value": 0
+            },
+            {
+              "key": "received_punish_counter",
+              "label": "Got PC'd / game",
+              "value": 0.1
+            },
+            {
+              "key": "throw_count",
+              "label": "Throws / game",
+              "value": 2.6
+            },
+            {
+              "key": "throw_tech",
+              "label": "Throw techs / game",
+              "value": 0.4
+            },
+            {
+              "key": "throw_drive_parry",
+              "label": "Throw parries / game",
+              "value": 0.2
+            },
+            {
+              "key": "received_throw_count",
+              "label": "Got thrown / game",
+              "value": 2
+            },
+            {
+              "key": "stun",
+              "label": "Stuns / game",
+              "value": 0
+            },
+            {
+              "key": "received_stun",
+              "label": "Got stunned / game",
+              "value": 0.1
+            },
+            {
+              "key": "corner_time",
+              "label": "Corner pressure time",
+              "value": 10.7
+            },
+            {
+              "key": "cornered_time",
+              "label": "Time cornered",
+              "value": 9
+            },
+            {
+              "key": "gauge_rate_drive_rush_from_cancel",
+              "label": "Drive Rush (cancel) share",
+              "value": 0.4003
+            },
+            {
+              "key": "gauge_rate_drive_rush_from_parry",
+              "label": "Drive Rush (parry) share",
+              "value": 0.0581
+            },
+            {
+              "key": "gauge_rate_drive_arts",
+              "label": "Drive Arts share",
+              "value": 0.1496
+            },
+            {
+              "key": "gauge_rate_drive_impact",
+              "label": "Drive Impact gauge share",
+              "value": 0.0035
+            },
+            {
+              "key": "gauge_rate_drive_guard",
+              "label": "Drive Guard share",
+              "value": 0.1173
+            },
+            {
+              "key": "gauge_rate_sa_lv1",
+              "label": "SA1 usage share",
+              "value": 0.2822
+            },
+            {
+              "key": "gauge_rate_sa_lv2",
+              "label": "SA2 usage share",
+              "value": 0.379
+            },
+            {
+              "key": "gauge_rate_sa_lv3",
+              "label": "SA3 usage share",
+              "value": 0.3064
+            },
+            {
+              "key": "gauge_rate_ca",
+              "label": "CA usage share",
+              "value": 0.0322
+            }
+          ],
+          "rankedGames": 20295
+        },
+        {
+          "shortId": "1051410689",
+          "name": "Sahara",
+          "mr": 2170,
+          "lp": 902668,
+          "characterId": 19,
+          "habits": [
+            {
+              "key": "drive_impact",
+              "label": "Drive Impact / game",
+              "value": 0.1
+            },
+            {
+              "key": "drive_parry",
+              "label": "Drive Parry / game",
+              "value": 1.8
+            },
+            {
+              "key": "just_parry",
+              "label": "Perfect Parry / game",
+              "value": 0.9
+            },
+            {
+              "key": "drive_reversal",
+              "label": "Drive Reversal / game",
+              "value": 0.1
+            },
+            {
+              "key": "punish_counter",
+              "label": "Punish Counter / game",
+              "value": 0
+            },
+            {
+              "key": "received_punish_counter",
+              "label": "Got PC'd / game",
+              "value": 0
+            },
+            {
+              "key": "throw_count",
+              "label": "Throws / game",
+              "value": 2.8
+            },
+            {
+              "key": "throw_tech",
+              "label": "Throw techs / game",
+              "value": 0.3
+            },
+            {
+              "key": "throw_drive_parry",
+              "label": "Throw parries / game",
+              "value": 0.1
+            },
+            {
+              "key": "received_throw_count",
+              "label": "Got thrown / game",
+              "value": 1.8
+            },
+            {
+              "key": "stun",
+              "label": "Stuns / game",
+              "value": 0
+            },
+            {
+              "key": "received_stun",
+              "label": "Got stunned / game",
+              "value": 0
+            },
+            {
+              "key": "corner_time",
+              "label": "Corner pressure time",
+              "value": 10.1
+            },
+            {
+              "key": "cornered_time",
+              "label": "Time cornered",
+              "value": 7.3
+            },
+            {
+              "key": "gauge_rate_drive_rush_from_cancel",
+              "label": "Drive Rush (cancel) share",
+              "value": 0.3371
+            },
+            {
+              "key": "gauge_rate_drive_rush_from_parry",
+              "label": "Drive Rush (parry) share",
+              "value": 0.0715
+            },
+            {
+              "key": "gauge_rate_drive_arts",
+              "label": "Drive Arts share",
+              "value": 0.2063
+            },
+            {
+              "key": "gauge_rate_drive_impact",
+              "label": "Drive Impact gauge share",
+              "value": 0.0076
+            },
+            {
+              "key": "gauge_rate_drive_guard",
+              "label": "Drive Guard share",
+              "value": 0.1278
+            },
+            {
+              "key": "gauge_rate_sa_lv1",
+              "label": "SA1 usage share",
+              "value": 0.3888
+            },
+            {
+              "key": "gauge_rate_sa_lv2",
+              "label": "SA2 usage share",
+              "value": 0.2361
+            },
+            {
+              "key": "gauge_rate_sa_lv3",
+              "label": "SA3 usage share",
+              "value": 0.2361
+            },
+            {
+              "key": "gauge_rate_ca",
+              "label": "CA usage share",
+              "value": 0.1388
+            }
+          ],
+          "rankedGames": 57989
+        },
+        {
+          "shortId": "1780568425",
+          "name": "Yassa",
+          "mr": 2151,
+          "lp": 161173,
+          "characterId": 19,
+          "habits": [
+            {
+              "key": "drive_impact",
+              "label": "Drive Impact / game",
+              "value": 0.1
+            },
+            {
+              "key": "drive_parry",
+              "label": "Drive Parry / game",
+              "value": 1.9
+            },
+            {
+              "key": "just_parry",
+              "label": "Perfect Parry / game",
+              "value": 1.6
+            },
+            {
+              "key": "drive_reversal",
+              "label": "Drive Reversal / game",
+              "value": 0.2
+            },
+            {
+              "key": "punish_counter",
+              "label": "Punish Counter / game",
+              "value": 0.1
+            },
+            {
+              "key": "received_punish_counter",
+              "label": "Got PC'd / game",
+              "value": 0.1
+            },
+            {
+              "key": "throw_count",
+              "label": "Throws / game",
+              "value": 2.6
+            },
+            {
+              "key": "throw_tech",
+              "label": "Throw techs / game",
+              "value": 0.3
+            },
+            {
+              "key": "throw_drive_parry",
+              "label": "Throw parries / game",
+              "value": 0.2
+            },
+            {
+              "key": "received_throw_count",
+              "label": "Got thrown / game",
+              "value": 2.1
+            },
+            {
+              "key": "stun",
+              "label": "Stuns / game",
+              "value": 0
+            },
+            {
+              "key": "received_stun",
+              "label": "Got stunned / game",
+              "value": 0
+            },
+            {
+              "key": "corner_time",
+              "label": "Corner pressure time",
+              "value": 14.1
+            },
+            {
+              "key": "cornered_time",
+              "label": "Time cornered",
+              "value": 10.8
+            },
+            {
+              "key": "gauge_rate_drive_rush_from_cancel",
+              "label": "Drive Rush (cancel) share",
+              "value": 0.2437
+            },
+            {
+              "key": "gauge_rate_drive_rush_from_parry",
+              "label": "Drive Rush (parry) share",
+              "value": 0.1038
+            },
+            {
+              "key": "gauge_rate_drive_arts",
+              "label": "Drive Arts share",
+              "value": 0.1552
+            },
+            {
+              "key": "gauge_rate_drive_impact",
+              "label": "Drive Impact gauge share",
+              "value": 0.0052
+            },
+            {
+              "key": "gauge_rate_drive_guard",
+              "label": "Drive Guard share",
+              "value": 0.1659
+            },
+            {
+              "key": "gauge_rate_sa_lv1",
+              "label": "SA1 usage share",
+              "value": 0.2945
+            },
+            {
+              "key": "gauge_rate_sa_lv2",
+              "label": "SA2 usage share",
+              "value": 0.4573
+            },
+            {
+              "key": "gauge_rate_sa_lv3",
+              "label": "SA3 usage share",
+              "value": 0.1937
+            },
+            {
+              "key": "gauge_rate_ca",
+              "label": "CA usage share",
+              "value": 0.0542
+            }
+          ],
+          "rankedGames": 1792
+        },
+        {
+          "shortId": "1730250145",
+          "name": "ChrisCCH",
+          "mr": 2120,
+          "lp": 577875,
+          "characterId": 19,
+          "habits": [
+            {
+              "key": "drive_impact",
+              "label": "Drive Impact / game",
+              "value": 0.2
+            },
+            {
+              "key": "drive_parry",
+              "label": "Drive Parry / game",
+              "value": 2
+            },
+            {
+              "key": "just_parry",
+              "label": "Perfect Parry / game",
+              "value": 1
+            },
+            {
+              "key": "drive_reversal",
+              "label": "Drive Reversal / game",
+              "value": 0.1
+            },
+            {
+              "key": "punish_counter",
+              "label": "Punish Counter / game",
+              "value": 0.1
+            },
+            {
+              "key": "received_punish_counter",
+              "label": "Got PC'd / game",
+              "value": 0
+            },
+            {
+              "key": "throw_count",
+              "label": "Throws / game",
+              "value": 3.4
+            },
+            {
+              "key": "throw_tech",
+              "label": "Throw techs / game",
+              "value": 0.5
+            },
+            {
+              "key": "throw_drive_parry",
+              "label": "Throw parries / game",
+              "value": 0.3
+            },
+            {
+              "key": "received_throw_count",
+              "label": "Got thrown / game",
+              "value": 2.1
+            },
+            {
+              "key": "stun",
+              "label": "Stuns / game",
+              "value": 0.1
+            },
+            {
+              "key": "received_stun",
+              "label": "Got stunned / game",
+              "value": 0
+            },
+            {
+              "key": "corner_time",
+              "label": "Corner pressure time",
+              "value": 14.2
+            },
+            {
+              "key": "cornered_time",
+              "label": "Time cornered",
+              "value": 7.6
+            },
+            {
+              "key": "gauge_rate_drive_rush_from_cancel",
+              "label": "Drive Rush (cancel) share",
+              "value": 0.4224
+            },
+            {
+              "key": "gauge_rate_drive_rush_from_parry",
+              "label": "Drive Rush (parry) share",
+              "value": 0.076
+            },
+            {
+              "key": "gauge_rate_drive_arts",
+              "label": "Drive Arts share",
+              "value": 0.1302
+            },
+            {
+              "key": "gauge_rate_drive_impact",
+              "label": "Drive Impact gauge share",
+              "value": 0.0116
+            },
+            {
+              "key": "gauge_rate_drive_guard",
+              "label": "Drive Guard share",
+              "value": 0.1395
+            },
+            {
+              "key": "gauge_rate_sa_lv1",
+              "label": "SA1 usage share",
+              "value": 0.2429
+            },
+            {
+              "key": "gauge_rate_sa_lv2",
+              "label": "SA2 usage share",
+              "value": 0.2616
+            },
+            {
+              "key": "gauge_rate_sa_lv3",
+              "label": "SA3 usage share",
+              "value": 0.3925
+            },
+            {
+              "key": "gauge_rate_ca",
+              "label": "CA usage share",
+              "value": 0.1028
+            }
+          ],
+          "rankedGames": 13151
+        },
+        {
+          "shortId": "1649180434",
+          "name": "さえのき",
+          "mr": 2111,
+          "lp": 329550,
+          "characterId": 19,
+          "habits": [
+            {
+              "key": "drive_impact",
+              "label": "Drive Impact / game",
+              "value": 0.2
+            },
+            {
+              "key": "drive_parry",
+              "label": "Drive Parry / game",
+              "value": 1.2
+            },
+            {
+              "key": "just_parry",
+              "label": "Perfect Parry / game",
+              "value": 0.6
+            },
+            {
+              "key": "drive_reversal",
+              "label": "Drive Reversal / game",
+              "value": 0.2
+            },
+            {
+              "key": "punish_counter",
+              "label": "Punish Counter / game",
+              "value": 0.1
+            },
+            {
+              "key": "received_punish_counter",
+              "label": "Got PC'd / game",
+              "value": 0.1
+            },
+            {
+              "key": "throw_count",
+              "label": "Throws / game",
+              "value": 2.6
+            },
+            {
+              "key": "throw_tech",
+              "label": "Throw techs / game",
+              "value": 0.7
+            },
+            {
+              "key": "throw_drive_parry",
+              "label": "Throw parries / game",
+              "value": 0.1
+            },
+            {
+              "key": "received_throw_count",
+              "label": "Got thrown / game",
+              "value": 2.9
+            },
+            {
+              "key": "stun",
+              "label": "Stuns / game",
+              "value": 0.1
+            },
+            {
+              "key": "received_stun",
+              "label": "Got stunned / game",
+              "value": 0
+            },
+            {
+              "key": "corner_time",
+              "label": "Corner pressure time",
+              "value": 8.7
+            },
+            {
+              "key": "cornered_time",
+              "label": "Time cornered",
+              "value": 12.5
+            },
+            {
+              "key": "gauge_rate_drive_rush_from_cancel",
+              "label": "Drive Rush (cancel) share",
+              "value": 0.4771
+            },
+            {
+              "key": "gauge_rate_drive_rush_from_parry",
+              "label": "Drive Rush (parry) share",
+              "value": 0.0353
+            },
+            {
+              "key": "gauge_rate_drive_arts",
+              "label": "Drive Arts share",
+              "value": 0.1031
+            },
+            {
+              "key": "gauge_rate_drive_impact",
+              "label": "Drive Impact gauge share",
+              "value": 0.0113
+            },
+            {
+              "key": "gauge_rate_drive_guard",
+              "label": "Drive Guard share",
+              "value": 0.0744
+            },
+            {
+              "key": "gauge_rate_sa_lv1",
+              "label": "SA1 usage share",
+              "value": 0.3076
+            },
+            {
+              "key": "gauge_rate_sa_lv2",
+              "label": "SA2 usage share",
+              "value": 0.3406
+            },
+            {
+              "key": "gauge_rate_sa_lv3",
+              "label": "SA3 usage share",
+              "value": 0.3076
+            },
+            {
+              "key": "gauge_rate_ca",
+              "label": "CA usage share",
+              "value": 0.0439
+            }
+          ],
+          "rankedGames": 2844
+        }
+      ],
+      "rows": [
+        {
+          "key": "drive_impact",
+          "label": "Drive Impact",
+          "you": 0.8,
+          "eliteAvg": 0.2,
+          "eliteMin": 0,
+          "eliteMax": 0.5,
+          "delta": 0.6000000000000001,
+          "verdict": "higher",
+          "format": "rate"
+        },
+        {
+          "key": "drive_parry",
+          "label": "Drive Parry",
+          "you": 1.4,
+          "eliteAvg": 1.7703703703703704,
+          "eliteMin": 0.5,
+          "eliteMax": 3.1,
+          "delta": -0.37037037037037046,
+          "verdict": "lower",
+          "format": "rate"
+        },
+        {
+          "key": "just_parry",
+          "label": "Perfect Parry",
+          "you": 0.2,
+          "eliteAvg": 0.7555555555555552,
+          "eliteMin": 0.1,
+          "eliteMax": 1.6,
+          "delta": -0.5555555555555551,
+          "verdict": "lower",
+          "format": "rate"
+        },
+        {
+          "key": "drive_reversal",
+          "label": "Drive Reversal",
+          "you": 0.1,
+          "eliteAvg": 0.19629629629629633,
+          "eliteMin": 0,
+          "eliteMax": 0.7,
+          "delta": -0.09629629629629632,
+          "verdict": "lower",
+          "format": "rate"
+        },
+        {
+          "key": "punish_counter",
+          "label": "Punish Counters landed",
+          "you": 0.4,
+          "eliteAvg": 0.11111111111111115,
+          "eliteMin": 0,
+          "eliteMax": 0.3,
+          "delta": 0.28888888888888886,
+          "verdict": "higher",
+          "format": "rate"
+        },
+        {
+          "key": "received_punish_counter",
+          "label": "Got Punish Countered",
+          "you": 0.3,
+          "eliteAvg": 0.10740740740740742,
+          "eliteMin": 0,
+          "eliteMax": 0.3,
+          "delta": 0.19259259259259257,
+          "verdict": "higher",
+          "format": "rate"
+        },
+        {
+          "key": "throw_count",
+          "label": "Throws",
+          "you": 2.6,
+          "eliteAvg": 2.596296296296296,
+          "eliteMin": 1.9,
+          "eliteMax": 3.7,
+          "delta": 0.0037037037037039866,
+          "verdict": "similar",
+          "format": "rate"
+        },
+        {
+          "key": "throw_tech",
+          "label": "Throw techs",
+          "you": 0.5,
+          "eliteAvg": 0.46666666666666673,
+          "eliteMin": 0.2,
+          "eliteMax": 0.9,
+          "delta": 0.03333333333333327,
+          "verdict": "similar",
+          "format": "rate"
+        },
+        {
+          "key": "throw_drive_parry",
+          "label": "Throw parries",
+          "you": 0.1,
+          "eliteAvg": 0.2222222222222222,
+          "eliteMin": 0.1,
+          "eliteMax": 0.4,
+          "delta": -0.1222222222222222,
+          "verdict": "lower",
+          "format": "rate"
+        },
+        {
+          "key": "received_throw_count",
+          "label": "Got thrown",
+          "you": 2.6,
+          "eliteAvg": 2.1777777777777776,
+          "eliteMin": 1.7,
+          "eliteMax": 3,
+          "delta": 0.4222222222222225,
+          "verdict": "higher",
+          "format": "rate"
+        },
+        {
+          "key": "stun",
+          "label": "Stuns landed",
+          "you": 0.1,
+          "eliteAvg": 0.06666666666666668,
+          "eliteMin": 0,
+          "eliteMax": 0.2,
+          "delta": 0.033333333333333326,
+          "verdict": "higher",
+          "format": "rate"
+        },
+        {
+          "key": "received_stun",
+          "label": "Got stunned",
+          "you": 0,
+          "eliteAvg": 0.04074074074074074,
+          "eliteMin": 0,
+          "eliteMax": 0.1,
+          "delta": -0.04074074074074074,
+          "verdict": "lower",
+          "format": "rate"
+        },
+        {
+          "key": "corner_time",
+          "label": "Corner pressure",
+          "you": 7.3,
+          "eliteAvg": 11.796296296296296,
+          "eliteMin": 7.3,
+          "eliteMax": 18,
+          "delta": -4.496296296296296,
+          "verdict": "lower",
+          "format": "rate"
+        },
+        {
+          "key": "cornered_time",
+          "label": "Time cornered",
+          "you": 5.8,
+          "eliteAvg": 9.52962962962963,
+          "eliteMin": 7.3,
+          "eliteMax": 13.3,
+          "delta": -3.7296296296296303,
+          "verdict": "lower",
+          "format": "rate"
+        },
+        {
+          "key": "gauge_rate_drive_rush_from_cancel",
+          "label": "Drive Rush (cancel)",
+          "you": 0.2319,
+          "eliteAvg": 0.35352592592592585,
+          "eliteMin": 0.2154,
+          "eliteMax": 0.4771,
+          "delta": -0.12162592592592586,
+          "verdict": "lower",
+          "format": "percent"
+        },
+        {
+          "key": "gauge_rate_drive_rush_from_parry",
+          "label": "Drive Rush (parry)",
+          "you": 0.0554,
+          "eliteAvg": 0.07358888888888888,
+          "eliteMin": 0.0352,
+          "eliteMax": 0.1146,
+          "delta": -0.018188888888888886,
+          "verdict": "lower",
+          "format": "percent"
+        },
+        {
+          "key": "gauge_rate_drive_arts",
+          "label": "Drive Arts",
+          "you": 0.2301,
+          "eliteAvg": 0.17500370370370372,
+          "eliteMin": 0.1031,
+          "eliteMax": 0.3022,
+          "delta": 0.05509629629629628,
+          "verdict": "higher",
+          "format": "percent"
+        },
+        {
+          "key": "gauge_rate_drive_impact",
+          "label": "Drive Impact gauge",
+          "you": 0.0632,
+          "eliteAvg": 0.015018518518518518,
+          "eliteMin": 0.0032,
+          "eliteMax": 0.0446,
+          "delta": 0.04818148148148149,
+          "verdict": "higher",
+          "format": "percent"
+        },
+        {
+          "key": "gauge_rate_sa_lv1",
+          "label": "SA1",
+          "you": 0.0857,
+          "eliteAvg": 0.3310222222222222,
+          "eliteMin": 0.1397,
+          "eliteMax": 0.5652,
+          "delta": -0.24532222222222222,
+          "verdict": "lower",
+          "format": "percent"
+        },
+        {
+          "key": "gauge_rate_sa_lv2",
+          "label": "SA2",
+          "you": 0.3714,
+          "eliteAvg": 0.2756444444444444,
+          "eliteMin": 0.0655,
+          "eliteMax": 0.5092,
+          "delta": 0.0957555555555556,
+          "verdict": "higher",
+          "format": "percent"
+        },
+        {
+          "key": "gauge_rate_sa_lv3",
+          "label": "SA3",
+          "you": 0.2857,
+          "eliteAvg": 0.2996703703703703,
+          "eliteMin": 0.1475,
+          "eliteMax": 0.5409,
+          "delta": -0.0139703703703703,
+          "verdict": "similar",
+          "format": "percent"
+        },
+        {
+          "key": "gauge_rate_ca",
+          "label": "CA",
+          "you": 0.2571,
+          "eliteAvg": 0.09347037037037037,
+          "eliteMin": 0.0322,
+          "eliteMax": 0.1666,
+          "delta": 0.16362962962962962,
+          "verdict": "higher",
+          "format": "percent"
+        },
+        {
+          "key": "gauge_rate_drive_guard",
+          "label": "Drive Guard",
+          "you": 0.1153,
+          "eliteAvg": 0.1312888888888889,
+          "eliteMin": 0.0744,
+          "eliteMax": 0.2133,
+          "delta": -0.0159888888888889,
+          "verdict": "similar",
+          "format": "percent"
+        }
+      ],
+      "insights": [
+        "Higher got punish countered than top 27 Ed avg (+0.19).",
+        "Higher got thrown than top 27 Ed avg (+0.42).",
+        "Lower got stunned than top 27 Ed — solid.",
+        "Lower time cornered than top 27 Ed — solid."
+      ],
+      "sampleSize": 27,
+      "timeframe": {
+        "range": "all",
+        "label": "Overall",
+        "from": null,
+        "to": "2026-09-09T14:33:17.887Z",
+        "matches": 3950,
+        "minimumMatches": 20,
+        "estimated": false
+      }
+    },
+    "habitsComparedAt": "2026-09-05T02:29:26.293Z",
+    "habitsCompareSource": "shared"
+  }
+}
