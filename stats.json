@@ -7,7 +7,7 @@
     "mostPlayedCharacterId": 9,
     "mostPlayedCharacter": "Cammy",
     "favoriteCharacterId": 9,
-    "synchronizedAt": "2026-09-09T14:32:40.656Z",
+    "synchronizedAt": "2026-09-09T16:31:13.143Z",
     "leagues": [
       {
         "characterId": 9,
@@ -24,14 +24,14 @@
     ]
   },
   "summary": {
-    "wins": 11,
+    "wins": 12,
     "losses": 65,
     "draws": 0,
-    "total": 76,
-    "diff": -54,
-    "winRate": 14.473684210526317
+    "total": 77,
+    "diff": -53,
+    "winRate": 15.584415584415584
   },
-  "matchCount": 76,
+  "matchCount": 77,
   "matchups": [
     {
       "homeCharacterId": 9,
@@ -109,12 +109,12 @@
       "inputTypeId": 0,
       "inputType": "Classic",
       "score": {
-        "wins": 2,
+        "wins": 3,
         "losses": 2,
         "draws": 0,
-        "total": 4,
-        "diff": 0,
-        "winRate": 50
+        "total": 5,
+        "diff": 1,
+        "winRate": 60
       },
       "communityWinRate": 43.5
     },
@@ -260,7 +260,7 @@
     {
       "characterId": 9,
       "character": "Cammy",
-      "games": 76
+      "games": 77
     }
   ],
   "rivals": {
@@ -557,6 +557,23 @@
         "synced": true
       },
       {
+        "fighterId": "2441575605",
+        "name": "あむまる",
+        "characterId": 22,
+        "character": "Akuma",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0,
+          "total": 1,
+          "diff": 1,
+          "winRate": 100
+        },
+        "synced": false
+      },
+      {
         "fighterId": "2072169222",
         "name": "屁神屁霸屁屁酱",
         "characterId": 21,
@@ -759,23 +776,6 @@
           "winRate": 0
         },
         "synced": false
-      },
-      {
-        "fighterId": "3990114445",
-        "name": "✿ⓃⒺⓄ✿",
-        "characterId": 6,
-        "character": "Zangief",
-        "inputTypeId": 1,
-        "inputType": "Modern",
-        "score": {
-          "wins": 0,
-          "losses": 4,
-          "draws": 0,
-          "total": 4,
-          "diff": -4,
-          "winRate": 0
-        },
-        "synced": true
       }
     ],
     "tormentors": [
@@ -1041,7 +1041,7 @@
     "localPoints": 0,
     "importedPoints": 0,
     "mergedPoints": 0,
-    "storedBattles": 76,
+    "storedBattles": 77,
     "sfbuff": {
       "pointCount": 0,
       "lastScrapedAt": null,
@@ -1064,16 +1064,55 @@
     {
       "date": "2026-09-09",
       "score": {
-        "wins": 8,
+        "wins": 9,
         "losses": 11,
         "draws": 0,
-        "total": 19,
-        "diff": -3,
-        "winRate": 42.10526315789473
+        "total": 20,
+        "diff": -2,
+        "winRate": 45
       }
     }
   ],
   "matches": [
+    {
+      "replayId": "CR5FBWXUU",
+      "playedAt": "2026-09-09T14:46:44.000Z",
+      "battleType": "Casual",
+      "battleTypeId": 2,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "2441575605",
+        "name": "あむまる",
+        "character": "Akuma",
+        "characterId": 22,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": -1,
+        "synced": false
+      },
+      "result": 1,
+      "resultLabel": "W",
+      "homeRounds": [
+        1,
+        1
+      ],
+      "awayRounds": [
+        0,
+        0
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
     {
       "replayId": "DPBT7JTYK",
       "playedAt": "2026-09-09T14:29:26.000Z",
@@ -4133,7 +4172,7 @@
       "homeId": 85,
       "homeName": "Japan",
       "flagUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/national_frag/frag085.png",
-      "lastPlayAt": "2026-09-09T14:32:15.000Z",
+      "lastPlayAt": "2026-09-09T14:49:32.000Z",
       "title": "Out-mash Their DP by One",
       "titlePlateName": "459-e143e641a66ad8e6079daab2f899cbc1",
       "titlePlateUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/title/459-e143e641a66ad8e6079daab2f899cbc1.png",
@@ -4156,8 +4195,8 @@
       },
       {
         "name": "Practice",
-        "seconds": 673879,
-        "hours": 187.2
+        "seconds": 674409,
+        "hours": 187.3
       },
       {
         "name": "World Tour",
@@ -4186,7 +4225,7 @@
       },
       {
         "name": "Casual Matches",
-        "seconds": 2829,
+        "seconds": 2921,
         "hours": 0.8
       },
       {
@@ -4202,7 +4241,7 @@
     ],
     "battleStats": {
       "rankedGames": 61,
-      "casualGames": 22,
+      "casualGames": 23,
       "hubGames": 272,
       "customGames": 0,
       "habits": [
@@ -4281,19 +4320,19 @@
         {
           "key": "corner_time",
           "label": "Corner pressure time",
-          "value": 4.2,
+          "value": 4.3,
           "format": "rate"
         },
         {
           "key": "cornered_time",
           "label": "Time cornered",
-          "value": 8.3,
+          "value": 8.2,
           "format": "rate"
         },
         {
           "key": "gauge_rate_drive_rush_from_cancel",
           "label": "Drive Rush (cancel) share",
-          "value": 0.178,
+          "value": 0.1851,
           "format": "rate"
         },
         {
@@ -4305,19 +4344,19 @@
         {
           "key": "gauge_rate_drive_arts",
           "label": "Drive Arts share",
-          "value": 0.3852,
+          "value": 0.3821,
           "format": "rate"
         },
         {
           "key": "gauge_rate_drive_impact",
           "label": "Drive Impact gauge share",
-          "value": 0.0285,
+          "value": 0.0281,
           "format": "rate"
         },
         {
           "key": "gauge_rate_drive_guard",
           "label": "Drive Guard share",
-          "value": 0.0292,
+          "value": 0.0272,
           "format": "rate"
         },
         {
@@ -4350,9 +4389,9 @@
       {
         "characterId": 9,
         "character": "Cammy",
-        "wins": 11,
-        "games": 79,
-        "winRate": 13.924050632911392
+        "wins": 12,
+        "games": 80,
+        "winRate": 15
       }
     ],
     "characterLeagues": [
@@ -4389,9 +4428,9 @@
           {
             "characterId": 253,
             "character": "Any",
-            "wins": 11,
-            "games": 79,
-            "winRate": 13.924050632911392
+            "wins": 12,
+            "games": 80,
+            "winRate": 15
           },
           {
             "characterId": 31,
@@ -4422,18 +4461,18 @@
             "winRate": 40
           },
           {
+            "characterId": 22,
+            "character": "Akuma",
+            "wins": 3,
+            "games": 5,
+            "winRate": 60
+          },
+          {
             "characterId": 6,
             "character": "Zangief",
             "wins": 0,
             "games": 4,
             "winRate": 0
-          },
-          {
-            "characterId": 22,
-            "character": "Akuma",
-            "wins": 2,
-            "games": 4,
-            "winRate": 50
           },
           {
             "characterId": 1,
@@ -4477,10 +4516,10 @@
       {
         "characterId": 9,
         "character": "Cammy",
-        "fightingGround": 24364,
+        "fightingGround": 24395,
         "battleHub": 108834,
         "worldTour": 49170,
-        "total": 182368
+        "total": 182399
       },
       {
         "characterId": 18,
@@ -5378,33 +5417,33 @@
       {
         "key": "corner_time",
         "label": "Corner pressure",
-        "you": 4.2,
+        "you": 4.3,
         "eliteAvg": 12.906666666666663,
         "eliteMin": 10.4,
         "eliteMax": 17.1,
-        "delta": -8.706666666666663,
+        "delta": -8.606666666666662,
         "verdict": "lower",
         "format": "rate"
       },
       {
         "key": "cornered_time",
         "label": "Time cornered",
-        "you": 8.3,
+        "you": 8.2,
         "eliteAvg": 8.803333333333333,
         "eliteMin": 6.2,
         "eliteMax": 11.6,
-        "delta": -0.5033333333333321,
+        "delta": -0.6033333333333335,
         "verdict": "similar",
         "format": "rate"
       },
       {
         "key": "gauge_rate_drive_rush_from_cancel",
         "label": "Drive Rush (cancel)",
-        "you": 0.178,
+        "you": 0.1851,
         "eliteAvg": 0.4071033333333333,
         "eliteMin": 0.1629,
         "eliteMax": 0.553,
-        "delta": -0.22910333333333333,
+        "delta": -0.22200333333333333,
         "verdict": "lower",
         "format": "percent"
       },
@@ -5422,22 +5461,22 @@
       {
         "key": "gauge_rate_drive_arts",
         "label": "Drive Arts",
-        "you": 0.3852,
+        "you": 0.3821,
         "eliteAvg": 0.16833666666666666,
         "eliteMin": 0.0735,
         "eliteMax": 0.3291,
-        "delta": 0.21686333333333332,
+        "delta": 0.21376333333333333,
         "verdict": "higher",
         "format": "percent"
       },
       {
         "key": "gauge_rate_drive_impact",
         "label": "Drive Impact gauge",
-        "you": 0.0285,
+        "you": 0.0281,
         "eliteAvg": 0.012599999999999998,
         "eliteMin": 0.0029,
         "eliteMax": 0.0384,
-        "delta": 0.015900000000000004,
+        "delta": 0.015500000000000002,
         "verdict": "higher",
         "format": "percent"
       },
@@ -5488,11 +5527,11 @@
       {
         "key": "gauge_rate_drive_guard",
         "label": "Drive Guard",
-        "you": 0.0292,
+        "you": 0.0272,
         "eliteAvg": 0.10106666666666668,
         "eliteMin": 0.0577,
         "eliteMax": 0.1616,
-        "delta": -0.07186666666666668,
+        "delta": -0.07386666666666668,
         "verdict": "lower",
         "format": "percent"
       }
@@ -5507,8 +5546,8 @@
       "range": "all",
       "label": "Overall",
       "from": null,
-      "to": "2026-09-09T14:32:40.656Z",
-      "matches": 355,
+      "to": "2026-09-09T16:31:13.143Z",
+      "matches": 356,
       "minimumMatches": 20,
       "estimated": false
     }
