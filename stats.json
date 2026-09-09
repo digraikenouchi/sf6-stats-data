@@ -7,7 +7,7 @@
     "mostPlayedCharacterId": 9,
     "mostPlayedCharacter": "Cammy",
     "favoriteCharacterId": 9,
-    "synchronizedAt": "2026-09-09T02:40:29.333Z",
+    "synchronizedAt": "2026-09-09T04:33:29.101Z",
     "leagues": [
       {
         "characterId": 9,
@@ -24,14 +24,14 @@
     ]
   },
   "summary": {
-    "wins": 3,
+    "wins": 5,
     "losses": 54,
     "draws": 0,
-    "total": 57,
-    "diff": -51,
-    "winRate": 5.263157894736842
+    "total": 59,
+    "diff": -49,
+    "winRate": 8.47457627118644
   },
-  "matchCount": 57,
+  "matchCount": 59,
   "matchups": [
     {
       "homeCharacterId": 9,
@@ -117,6 +117,23 @@
         "winRate": 0
       },
       "communityWinRate": 35.8
+    },
+    {
+      "homeCharacterId": 9,
+      "homeCharacter": "Cammy",
+      "characterId": 5,
+      "character": "Manon",
+      "inputTypeId": 0,
+      "inputType": "Classic",
+      "score": {
+        "wins": 2,
+        "losses": 0,
+        "draws": 0,
+        "total": 2,
+        "diff": 2,
+        "winRate": 100
+      },
+      "communityWinRate": 47.5
     },
     {
       "homeCharacterId": 9,
@@ -226,7 +243,7 @@
     {
       "characterId": 9,
       "character": "Cammy",
-      "games": 57
+      "games": 59
     }
   ],
   "rivals": {
@@ -313,6 +330,23 @@
           "total": 4,
           "diff": -4,
           "winRate": 0
+        },
+        "synced": true
+      },
+      {
+        "fighterId": "3250938819",
+        "name": "nashi",
+        "characterId": 5,
+        "character": "Manon",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 2,
+          "losses": 0,
+          "draws": 0,
+          "total": 2,
+          "diff": 2,
+          "winRate": 100
         },
         "synced": true
       },
@@ -454,6 +488,23 @@
       }
     ],
     "victims": [
+      {
+        "fighterId": "3250938819",
+        "name": "nashi",
+        "characterId": 5,
+        "character": "Manon",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 2,
+          "losses": 0,
+          "draws": 0,
+          "total": 2,
+          "diff": 2,
+          "winRate": 100
+        },
+        "synced": true
+      },
       {
         "fighterId": "2072169222",
         "name": "屁神屁霸屁屁酱",
@@ -897,6 +948,23 @@
           "winRate": 50
         },
         "synced": true
+      },
+      {
+        "fighterId": "3250938819",
+        "name": "nashi",
+        "characterId": 5,
+        "character": "Manon",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 2,
+          "losses": 0,
+          "draws": 0,
+          "total": 2,
+          "diff": 2,
+          "winRate": 100
+        },
+        "synced": true
       }
     ]
   },
@@ -905,7 +973,7 @@
     "localPoints": 0,
     "importedPoints": 0,
     "mergedPoints": 0,
-    "storedBattles": 57,
+    "storedBattles": 59,
     "sfbuff": {
       "pointCount": 0,
       "lastScrapedAt": null,
@@ -924,9 +992,100 @@
         "diff": -51,
         "winRate": 5.263157894736842
       }
+    },
+    {
+      "date": "2026-09-09",
+      "score": {
+        "wins": 2,
+        "losses": 0,
+        "draws": 0,
+        "total": 2,
+        "diff": 2,
+        "winRate": 100
+      }
     }
   ],
   "matches": [
+    {
+      "replayId": "NMTW6GFQJ",
+      "playedAt": "2026-09-09T04:29:24.000Z",
+      "battleType": "Casual",
+      "battleTypeId": 2,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3250938819",
+        "name": "nashi",
+        "character": "Manon",
+        "characterId": 5,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 22181,
+        "synced": true
+      },
+      "result": 1,
+      "resultLabel": "W",
+      "homeRounds": [
+        1,
+        6
+      ],
+      "awayRounds": [
+        0,
+        0
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "LMWCYQDM9",
+      "playedAt": "2026-09-09T04:27:47.000Z",
+      "battleType": "Casual",
+      "battleTypeId": 2,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3250938819",
+        "name": "nashi",
+        "character": "Manon",
+        "characterId": 5,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 22181,
+        "synced": true
+      },
+      "result": 1,
+      "resultLabel": "W",
+      "homeRounds": [
+        0,
+        6,
+        1
+      ],
+      "awayRounds": [
+        1,
+        0,
+        0
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
     {
       "replayId": "UHWPJAAYP",
       "playedAt": "2026-09-08T18:10:02.000Z",
@@ -3204,7 +3363,7 @@
       "homeId": 85,
       "homeName": "Japan",
       "flagUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/national_frag/frag085.png",
-      "lastPlayAt": "2026-09-08T18:12:59.000Z",
+      "lastPlayAt": "2026-09-09T04:30:01.000Z",
       "title": "Out-mash Their DP by One",
       "titlePlateName": "459-e143e641a66ad8e6079daab2f899cbc1",
       "titlePlateUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/title/459-e143e641a66ad8e6079daab2f899cbc1.png",
@@ -3222,7 +3381,7 @@
     "playTime": [
       {
         "name": "Battle Hub",
-        "seconds": 1433014,
+        "seconds": 1433067,
         "hours": 398.1
       },
       {
@@ -3257,8 +3416,8 @@
       },
       {
         "name": "Casual Matches",
-        "seconds": 1408,
-        "hours": 0.4
+        "seconds": 1682,
+        "hours": 0.5
       },
       {
         "name": "Special Matches",
@@ -3273,7 +3432,7 @@
     ],
     "battleStats": {
       "rankedGames": 61,
-      "casualGames": 11,
+      "casualGames": 13,
       "hubGames": 264,
       "customGames": 0,
       "habits": [
@@ -3310,13 +3469,13 @@
         {
           "key": "received_punish_counter",
           "label": "Got PC'd / game",
-          "value": 0.6,
+          "value": 0.5,
           "format": "rate"
         },
         {
           "key": "throw_count",
           "label": "Throws / game",
-          "value": 1.1,
+          "value": 1.2,
           "format": "rate"
         },
         {
@@ -3352,19 +3511,19 @@
         {
           "key": "corner_time",
           "label": "Corner pressure time",
-          "value": 3.3,
+          "value": 3.4,
           "format": "rate"
         },
         {
           "key": "cornered_time",
           "label": "Time cornered",
-          "value": 9,
+          "value": 8.8,
           "format": "rate"
         },
         {
           "key": "gauge_rate_drive_rush_from_cancel",
           "label": "Drive Rush (cancel) share",
-          "value": 0.138,
+          "value": 0.141,
           "format": "rate"
         },
         {
@@ -3376,43 +3535,43 @@
         {
           "key": "gauge_rate_drive_arts",
           "label": "Drive Arts share",
-          "value": 0.4096,
+          "value": 0.4089,
           "format": "rate"
         },
         {
           "key": "gauge_rate_drive_impact",
           "label": "Drive Impact gauge share",
-          "value": 0.0306,
+          "value": 0.03,
           "format": "rate"
         },
         {
           "key": "gauge_rate_drive_guard",
           "label": "Drive Guard share",
-          "value": 0.0387,
+          "value": 0.0377,
           "format": "rate"
         },
         {
           "key": "gauge_rate_sa_lv1",
           "label": "SA1 usage share",
-          "value": 0.8189,
+          "value": 0.8034,
           "format": "rate"
         },
         {
           "key": "gauge_rate_sa_lv2",
           "label": "SA2 usage share",
-          "value": 0.0344,
+          "value": 0.0341,
           "format": "rate"
         },
         {
           "key": "gauge_rate_sa_lv3",
           "label": "SA3 usage share",
-          "value": 0.0862,
+          "value": 0.1025,
           "format": "rate"
         },
         {
           "key": "gauge_rate_ca",
           "label": "CA usage share",
-          "value": 0.0603,
+          "value": 0.0598,
           "format": "rate"
         }
       ]
@@ -3421,9 +3580,9 @@
       {
         "characterId": 9,
         "character": "Cammy",
-        "wins": 3,
-        "games": 60,
-        "winRate": 5
+        "wins": 5,
+        "games": 62,
+        "winRate": 8.064516129032258
       }
     ],
     "characterLeagues": [
@@ -3460,9 +3619,9 @@
           {
             "characterId": 253,
             "character": "Any",
-            "wins": 3,
-            "games": 60,
-            "winRate": 5
+            "wins": 5,
+            "games": 62,
+            "winRate": 8.064516129032258
           },
           {
             "characterId": 31,
@@ -3486,17 +3645,17 @@
             "winRate": 23.076923076923077
           },
           {
+            "characterId": 5,
+            "character": "Manon",
+            "wins": 2,
+            "games": 5,
+            "winRate": 40
+          },
+          {
             "characterId": 6,
             "character": "Zangief",
             "wins": 0,
             "games": 4,
-            "winRate": 0
-          },
-          {
-            "characterId": 5,
-            "character": "Manon",
-            "wins": 0,
-            "games": 3,
             "winRate": 0
           },
           {
@@ -3541,10 +3700,10 @@
       {
         "characterId": 9,
         "character": "Cammy",
-        "fightingGround": 24033,
+        "fightingGround": 24093,
         "battleHub": 108384,
         "worldTour": 49170,
-        "total": 181587
+        "total": 181647
       },
       {
         "characterId": 18,
@@ -4365,22 +4524,22 @@
       {
         "key": "received_punish_counter",
         "label": "Got Punish Countered",
-        "you": 0.6,
+        "you": 0.5,
         "eliteAvg": 0.06000000000000001,
         "eliteMin": 0,
         "eliteMax": 0.2,
-        "delta": 0.5399999999999999,
+        "delta": 0.44,
         "verdict": "higher",
         "format": "rate"
       },
       {
         "key": "throw_count",
         "label": "Throws",
-        "you": 1.1,
+        "you": 1.2,
         "eliteAvg": 2.4299999999999997,
         "eliteMin": 1.4,
         "eliteMax": 3.6,
-        "delta": -1.3299999999999996,
+        "delta": -1.2299999999999998,
         "verdict": "lower",
         "format": "rate"
       },
@@ -4442,33 +4601,33 @@
       {
         "key": "corner_time",
         "label": "Corner pressure",
-        "you": 3.3,
+        "you": 3.4,
         "eliteAvg": 12.906666666666663,
         "eliteMin": 10.4,
         "eliteMax": 17.1,
-        "delta": -9.606666666666662,
+        "delta": -9.506666666666662,
         "verdict": "lower",
         "format": "rate"
       },
       {
         "key": "cornered_time",
         "label": "Time cornered",
-        "you": 9,
+        "you": 8.8,
         "eliteAvg": 8.803333333333333,
         "eliteMin": 6.2,
         "eliteMax": 11.6,
-        "delta": 0.1966666666666672,
+        "delta": -0.003333333333332078,
         "verdict": "similar",
         "format": "rate"
       },
       {
         "key": "gauge_rate_drive_rush_from_cancel",
         "label": "Drive Rush (cancel)",
-        "you": 0.138,
+        "you": 0.141,
         "eliteAvg": 0.4071033333333333,
         "eliteMin": 0.1629,
         "eliteMax": 0.553,
-        "delta": -0.2691033333333333,
+        "delta": -0.26610333333333336,
         "verdict": "lower",
         "format": "percent"
       },
@@ -4486,83 +4645,83 @@
       {
         "key": "gauge_rate_drive_arts",
         "label": "Drive Arts",
-        "you": 0.4096,
+        "you": 0.4089,
         "eliteAvg": 0.16833666666666666,
         "eliteMin": 0.0735,
         "eliteMax": 0.3291,
-        "delta": 0.24126333333333336,
+        "delta": 0.24056333333333332,
         "verdict": "higher",
         "format": "percent"
       },
       {
         "key": "gauge_rate_drive_impact",
         "label": "Drive Impact gauge",
-        "you": 0.0306,
+        "you": 0.03,
         "eliteAvg": 0.012599999999999998,
         "eliteMin": 0.0029,
         "eliteMax": 0.0384,
-        "delta": 0.018000000000000002,
+        "delta": 0.0174,
         "verdict": "higher",
         "format": "percent"
       },
       {
         "key": "gauge_rate_sa_lv1",
         "label": "SA1",
-        "you": 0.8189,
+        "you": 0.8034,
         "eliteAvg": 0.4356533333333334,
         "eliteMin": 0.2272,
         "eliteMax": 0.6294,
-        "delta": 0.38324666666666657,
+        "delta": 0.3677466666666666,
         "verdict": "higher",
         "format": "percent"
       },
       {
         "key": "gauge_rate_sa_lv2",
         "label": "SA2",
-        "you": 0.0344,
+        "you": 0.0341,
         "eliteAvg": 0.15959333333333334,
         "eliteMin": 0.0512,
         "eliteMax": 0.3716,
-        "delta": -0.12519333333333332,
+        "delta": -0.12549333333333335,
         "verdict": "lower",
         "format": "percent"
       },
       {
         "key": "gauge_rate_sa_lv3",
         "label": "SA3",
-        "you": 0.0862,
+        "you": 0.1025,
         "eliteAvg": 0.3117233333333333,
         "eliteMin": 0.1176,
         "eliteMax": 0.5106,
-        "delta": -0.2255233333333333,
+        "delta": -0.20922333333333332,
         "verdict": "lower",
         "format": "percent"
       },
       {
         "key": "gauge_rate_ca",
         "label": "CA",
-        "you": 0.0603,
+        "you": 0.0598,
         "eliteAvg": 0.09284,
         "eliteMin": 0.0241,
         "eliteMax": 0.1904,
-        "delta": -0.032540000000000006,
+        "delta": -0.03304000000000001,
         "verdict": "lower",
         "format": "percent"
       },
       {
         "key": "gauge_rate_drive_guard",
         "label": "Drive Guard",
-        "you": 0.0387,
+        "you": 0.0377,
         "eliteAvg": 0.10106666666666668,
         "eliteMin": 0.0577,
         "eliteMax": 0.1616,
-        "delta": -0.06236666666666668,
+        "delta": -0.06336666666666668,
         "verdict": "lower",
         "format": "percent"
       }
     ],
     "insights": [
-      "Higher got punish countered than top 30 Cammy avg (+0.54).",
+      "Higher got punish countered than top 30 Cammy avg (+0.44).",
       "Lower got stunned than top 30 Cammy — solid.",
       "Lower drive guard than top 30 Cammy — solid."
     ],
@@ -4571,8 +4730,8 @@
       "range": "all",
       "label": "Overall",
       "from": null,
-      "to": "2026-09-09T02:40:29.333Z",
-      "matches": 336,
+      "to": "2026-09-09T04:33:29.101Z",
+      "matches": 338,
       "minimumMatches": 20,
       "estimated": false
     }
