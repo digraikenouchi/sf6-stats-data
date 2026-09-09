@@ -7,7 +7,7 @@
     "mostPlayedCharacterId": 9,
     "mostPlayedCharacter": "Cammy",
     "favoriteCharacterId": 9,
-    "synchronizedAt": "2026-09-08T22:38:32.155Z",
+    "synchronizedAt": "2026-09-09T02:40:29.333Z",
     "leagues": [
       {
         "characterId": 9,
@@ -4571,7 +4571,7 @@
       "range": "all",
       "label": "Overall",
       "from": null,
-      "to": "2026-09-08T22:38:32.155Z",
+      "to": "2026-09-09T02:40:29.333Z",
       "matches": 336,
       "minimumMatches": 20,
       "estimated": false
