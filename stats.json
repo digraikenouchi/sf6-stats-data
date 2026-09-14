@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T12:12:54.583Z",
+  "generatedAt": "2026-09-14T18:01:09.588Z",
   "fighter": {
     "id": "1122738358",
     "name": "かぱめ。",
@@ -8,7 +8,7 @@
     "mostPlayedCharacterId": 9,
     "mostPlayedCharacter": "Cammy",
     "favoriteCharacterId": 9,
-    "synchronizedAt": "2026-09-14T12:11:57.471Z",
+    "synchronizedAt": "2026-09-14T13:22:09.605Z",
     "leagues": [
       {
         "characterId": 9,
@@ -5807,7 +5807,7 @@
       "range": "all",
       "label": "Overall",
       "from": null,
-      "to": "2026-09-14T12:11:57.471Z",
+      "to": "2026-09-14T13:22:09.605Z",
       "matches": 361,
       "minimumMatches": 20,
       "estimated": false
