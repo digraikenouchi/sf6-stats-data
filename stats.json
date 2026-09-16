@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T06:00:41.291Z",
+  "generatedAt": "2026-09-16T12:00:49.965Z",
   "fighter": {
     "id": "1122738358",
     "name": "かぱめ。",
@@ -2077,8 +2077,8 @@
       "replayCapture": {
         "jobId": "a1cc93cb-afda-4903-b2df-73cf71e49b64",
         "status": "ready",
-        "hasVideo": true,
-        "expiresAt": "2026-09-16T07:25:11.309Z"
+        "hasVideo": false,
+        "expiresAt": null
       }
     },
     {
@@ -2123,8 +2123,8 @@
       "replayCapture": {
         "jobId": "19aa3deb-7c00-45d1-9f73-a6fcc9007d1c",
         "status": "ready",
-        "hasVideo": true,
-        "expiresAt": "2026-09-16T06:50:09.084Z"
+        "hasVideo": false,
+        "expiresAt": null
       }
     },
     {
@@ -3343,8 +3343,8 @@
       "replayCapture": {
         "jobId": "9323c86e-7c8d-40f5-9611-8e88a73546f1",
         "status": "ready",
-        "hasVideo": true,
-        "expiresAt": "2026-09-16T07:45:45.630Z"
+        "hasVideo": false,
+        "expiresAt": null
       }
     },
     {
@@ -3857,8 +3857,8 @@
       "replayCapture": {
         "jobId": "96b4d588-94ee-40c4-8505-6da0120522d1",
         "status": "ready",
-        "hasVideo": true,
-        "expiresAt": "2026-09-16T08:15:42.606Z"
+        "hasVideo": false,
+        "expiresAt": null
       }
     },
     {
