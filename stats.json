@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T00:00:27.119Z",
+  "generatedAt": "2026-09-17T06:00:31.912Z",
   "fighter": {
     "id": "1122738358",
     "name": "かぱめ。",
@@ -485,7 +485,7 @@
           "diff": -2,
           "winRate": 0
         },
-        "synced": false
+        "synced": true
       },
       {
         "fighterId": "3452764755",
@@ -725,7 +725,7 @@
           "diff": -2,
           "winRate": 0
         },
-        "synced": false
+        "synced": true
       },
       {
         "fighterId": "3452764755",
@@ -897,7 +897,7 @@
           "diff": -2,
           "winRate": 0
         },
-        "synced": false
+        "synced": true
       },
       {
         "fighterId": "3452764755",
@@ -1743,7 +1743,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": -1,
-        "synced": false
+        "synced": true
       },
       "result": -1,
       "resultLabel": "L",
@@ -1784,7 +1784,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": -1,
-        "synced": false
+        "synced": true
       },
       "result": -1,
       "resultLabel": "L",
