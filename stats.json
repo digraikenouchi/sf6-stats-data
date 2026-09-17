@@ -1,9 +1,10 @@
 {
-  "generatedAt": "2026-09-17T12:00:24.967Z",
+  "generatedAt": "2026-09-17T18:00:25.466Z",
   "matchDataUpdatedAt": "2026-09-14T12:12:05.675Z",
   "fighter": {
     "id": "1122738358",
     "name": "かぱめ。",
+    "profileHref": "/%E3%81%8B%E3%81%B1%E3%82%81%E3%80%82",
     "mainCharacterId": 9,
     "mainCharacter": "Cammy",
     "mostPlayedCharacterId": 9,
@@ -316,7 +317,8 @@
           "diff": -18,
           "winRate": 0
         },
-        "synced": true
+        "synced": true,
+        "profileHref": "/Naporitan"
       },
       {
         "fighterId": "3434421732",
@@ -333,7 +335,8 @@
           "diff": -10,
           "winRate": 14.285714285714285
         },
-        "synced": true
+        "synced": true,
+        "profileHref": "/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC"
       },
       {
         "fighterId": "1611650307",
@@ -350,7 +353,8 @@
           "diff": -7,
           "winRate": 0
         },
-        "synced": true
+        "synced": true,
+        "profileHref": "/%E3%81%99%E3%81%AA%E3%81%8E%E3%82%82/1611650307"
       },
       {
         "fighterId": "2072169222",
@@ -367,7 +371,8 @@
           "diff": 0,
           "winRate": 50
         },
-        "synced": true
+        "synced": true,
+        "profileHref": "/%E5%B1%81%E7%A5%9E%E5%B1%81%E9%9C%B8%E5%B1%81%E5%B1%81%E9%85%B1"
       },
       {
         "fighterId": "2624899455",
@@ -384,7 +389,8 @@
           "diff": -1,
           "winRate": 40
         },
-        "synced": true
+        "synced": true,
+        "profileHref": "/%E6%89%BF%E8%AB%BE%20%E5%8F%AA%E6%9C%89%E6%84%9B%E7%9A%84%E6%99%82%E5%80%99%E6%89%8D%E7%AE%97%E6%95%B8"
       },
       {
         "fighterId": "3990114445",
@@ -401,7 +407,8 @@
           "diff": -4,
           "winRate": 0
         },
-        "synced": true
+        "synced": true,
+        "profileHref": "/%E2%9C%BF%E2%93%83%E2%92%BA%E2%93%84%E2%9C%BF"
       },
       {
         "fighterId": "2271913949",
@@ -418,7 +425,8 @@
           "diff": -1,
           "winRate": 33.33333333333333
         },
-        "synced": false
+        "synced": false,
+        "profileHref": "/%E3%81%84%E3%81%A3%E3%81%A1%E3%83%BC/2271913949"
       },
       {
         "fighterId": "4137845733",
@@ -435,7 +443,8 @@
           "diff": 2,
           "winRate": 100
         },
-        "synced": false
+        "synced": false,
+        "profileHref": "/%E5%8F%B3%E8%86%9D%E3%81%AE%E8%A3%8F/4137845733"
       },
       {
         "fighterId": "3115754008",
@@ -452,7 +461,8 @@
           "diff": 2,
           "winRate": 100
         },
-        "synced": false
+        "synced": false,
+        "profileHref": "/u-1%E3%83%BBpsydj/3115754008"
       },
       {
         "fighterId": "3250938819",
@@ -469,7 +479,8 @@
           "diff": 2,
           "winRate": 100
         },
-        "synced": true
+        "synced": true,
+        "profileHref": "/nashi/3250938819"
       },
       {
         "fighterId": "1449301579",
@@ -486,7 +497,8 @@
           "diff": -2,
           "winRate": 0
         },
-        "synced": true
+        "synced": true,
+        "profileHref": "/%E3%81%84%E3%82%8F%E3%81%97%EF%BC%9B"
       },
       {
         "fighterId": "3452764755",
@@ -503,7 +515,8 @@
           "diff": -2,
           "winRate": 0
         },
-        "synced": true
+        "synced": true,
+        "profileHref": "/%E3%82%B7%E3%83%9E%E6%A8%AA%E6%B5%9C%E3%80%80%E5%8D%81%E5%AD%97%E3%82%AD%E3%83%BC%E6%AD%BB%E4%BA%A1%E3%83%A4%E3%83%8B%E7%8C%AB"
       },
       {
         "fighterId": "2885052114",
@@ -520,7 +533,8 @@
           "diff": -2,
           "winRate": 0
         },
-        "synced": false
+        "synced": false,
+        "profileHref": "/%E3%81%8D%E3%82%93%E3%81%AE%E3%81%9F%E3%81%BE%E3%81%8F/2885052114"
       },
       {
         "fighterId": "3085672272",
@@ -537,7 +551,8 @@
           "diff": -2,
           "winRate": 0
         },
-        "synced": true
+        "synced": true,
+        "profileHref": "/%E3%81%8D%E3%82%8B%E3%81%9A%E3%82%86%E3%81%94"
       },
       {
         "fighterId": "3787922592",
@@ -554,7 +569,8 @@
           "diff": -2,
           "winRate": 0
         },
-        "synced": false
+        "synced": false,
+        "profileHref": "/%E3%81%84%E3%81%91%E3%81%A1%E3%80%82/3787922592"
       }
     ],
     "victims": [
@@ -573,7 +589,8 @@
           "diff": 2,
           "winRate": 100
         },
-        "synced": false
+        "synced": false,
+        "profileHref": "/%E5%8F%B3%E8%86%9D%E3%81%AE%E8%A3%8F/4137845733"
       },
       {
         "fighterId": "3115754008",
@@ -590,7 +607,8 @@
           "diff": 2,
           "winRate": 100
         },
-        "synced": false
+        "synced": false,
+        "profileHref": "/u-1%E3%83%BBpsydj/3115754008"
       },
       {
         "fighterId": "3250938819",
@@ -607,7 +625,8 @@
           "diff": 2,
           "winRate": 100
         },
-        "synced": true
+        "synced": true,
+        "profileHref": "/nashi/3250938819"
       },
       {
         "fighterId": "2441575605",
@@ -624,7 +643,8 @@
           "diff": 1,
           "winRate": 100
         },
-        "synced": false
+        "synced": false,
+        "profileHref": "/%E3%81%82%E3%82%80%E3%81%BE%E3%82%8B/2441575605"
       },
       {
         "fighterId": "2072169222",
@@ -641,7 +661,8 @@
           "diff": 0,
           "winRate": 50
         },
-        "synced": true
+        "synced": true,
+        "profileHref": "/%E5%B1%81%E7%A5%9E%E5%B1%81%E9%9C%B8%E5%B1%81%E5%B1%81%E9%85%B1"
       },
       {
         "fighterId": "1811281258",
@@ -658,7 +679,8 @@
           "diff": -1,
           "winRate": 0
         },
-        "synced": true
+        "synced": true,
+        "profileHref": "/%E5%8F%88%E6%96%AD%E8%BF%9E%E4%BA%86%EF%BC%81"
       },
       {
         "fighterId": "3857916400",
@@ -675,7 +697,8 @@
           "diff": -1,
           "winRate": 0
         },
-        "synced": true
+        "synced": true,
+        "profileHref": "/unkonow/3857916400"
       },
       {
         "fighterId": "2271913949",
@@ -692,7 +715,8 @@
           "diff": -1,
           "winRate": 33.33333333333333
         },
-        "synced": false
+        "synced": false,
+        "profileHref": "/%E3%81%84%E3%81%A3%E3%81%A1%E3%83%BC/2271913949"
       },
       {
         "fighterId": "2624899455",
@@ -709,7 +733,8 @@
           "diff": -1,
           "winRate": 40
         },
-        "synced": true
+        "synced": true,
+        "profileHref": "/%E6%89%BF%E8%AB%BE%20%E5%8F%AA%E6%9C%89%E6%84%9B%E7%9A%84%E6%99%82%E5%80%99%E6%89%8D%E7%AE%97%E6%95%B8"
       },
       {
         "fighterId": "1449301579",
@@ -726,7 +751,8 @@
           "diff": -2,
           "winRate": 0
         },
-        "synced": true
+        "synced": true,
+        "profileHref": "/%E3%81%84%E3%82%8F%E3%81%97%EF%BC%9B"
       },
       {
         "fighterId": "3452764755",
@@ -743,7 +769,8 @@
           "diff": -2,
           "winRate": 0
         },
-        "synced": true
+        "synced": true,
+        "profileHref": "/%E3%82%B7%E3%83%9E%E6%A8%AA%E6%B5%9C%E3%80%80%E5%8D%81%E5%AD%97%E3%82%AD%E3%83%BC%E6%AD%BB%E4%BA%A1%E3%83%A4%E3%83%8B%E7%8C%AB"
       },
       {
         "fighterId": "2885052114",
@@ -760,7 +787,8 @@
           "diff": -2,
           "winRate": 0
         },
-        "synced": false
+        "synced": false,
+        "profileHref": "/%E3%81%8D%E3%82%93%E3%81%AE%E3%81%9F%E3%81%BE%E3%81%8F/2885052114"
       },
       {
         "fighterId": "3085672272",
@@ -777,7 +805,8 @@
           "diff": -2,
           "winRate": 0
         },
-        "synced": true
+        "synced": true,
+        "profileHref": "/%E3%81%8D%E3%82%8B%E3%81%9A%E3%82%86%E3%81%94"
       },
       {
         "fighterId": "3787922592",
@@ -794,7 +823,8 @@
           "diff": -2,
           "winRate": 0
         },
-        "synced": false
+        "synced": false,
+        "profileHref": "/%E3%81%84%E3%81%91%E3%81%A1%E3%80%82/3787922592"
       },
       {
         "fighterId": "2252442802",
@@ -811,7 +841,8 @@
           "diff": -2,
           "winRate": 0
         },
-        "synced": false
+        "synced": false,
+        "profileHref": "/%E3%81%BC%E3%81%93%E3%82%89%E3%80%80%E3%83%AC%E3%80%80%E3%83%90%E3%83%B3%E3%83%8A/2252442802"
       }
     ],
     "tormentors": [
@@ -830,7 +861,8 @@
           "diff": -18,
           "winRate": 0
         },
-        "synced": true
+        "synced": true,
+        "profileHref": "/Naporitan"
       },
       {
         "fighterId": "3434421732",
@@ -847,7 +879,8 @@
           "diff": -10,
           "winRate": 14.285714285714285
         },
-        "synced": true
+        "synced": true,
+        "profileHref": "/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC"
       },
       {
         "fighterId": "1611650307",
@@ -864,7 +897,8 @@
           "diff": -7,
           "winRate": 0
         },
-        "synced": true
+        "synced": true,
+        "profileHref": "/%E3%81%99%E3%81%AA%E3%81%8E%E3%82%82/1611650307"
       },
       {
         "fighterId": "3990114445",
@@ -881,7 +915,8 @@
           "diff": -4,
           "winRate": 0
         },
-        "synced": true
+        "synced": true,
+        "profileHref": "/%E2%9C%BF%E2%93%83%E2%92%BA%E2%93%84%E2%9C%BF"
       },
       {
         "fighterId": "1449301579",
@@ -898,7 +933,8 @@
           "diff": -2,
           "winRate": 0
         },
-        "synced": true
+        "synced": true,
+        "profileHref": "/%E3%81%84%E3%82%8F%E3%81%97%EF%BC%9B"
       },
       {
         "fighterId": "3452764755",
@@ -915,7 +951,8 @@
           "diff": -2,
           "winRate": 0
         },
-        "synced": true
+        "synced": true,
+        "profileHref": "/%E3%82%B7%E3%83%9E%E6%A8%AA%E6%B5%9C%E3%80%80%E5%8D%81%E5%AD%97%E3%82%AD%E3%83%BC%E6%AD%BB%E4%BA%A1%E3%83%A4%E3%83%8B%E7%8C%AB"
       },
       {
         "fighterId": "2885052114",
@@ -932,7 +969,8 @@
           "diff": -2,
           "winRate": 0
         },
-        "synced": false
+        "synced": false,
+        "profileHref": "/%E3%81%8D%E3%82%93%E3%81%AE%E3%81%9F%E3%81%BE%E3%81%8F/2885052114"
       },
       {
         "fighterId": "3085672272",
@@ -949,7 +987,8 @@
           "diff": -2,
           "winRate": 0
         },
-        "synced": true
+        "synced": true,
+        "profileHref": "/%E3%81%8D%E3%82%8B%E3%81%9A%E3%82%86%E3%81%94"
       },
       {
         "fighterId": "3787922592",
@@ -966,7 +1005,8 @@
           "diff": -2,
           "winRate": 0
         },
-        "synced": false
+        "synced": false,
+        "profileHref": "/%E3%81%84%E3%81%91%E3%81%A1%E3%80%82/3787922592"
       },
       {
         "fighterId": "2252442802",
@@ -983,7 +1023,8 @@
           "diff": -2,
           "winRate": 0
         },
-        "synced": false
+        "synced": false,
+        "profileHref": "/%E3%81%BC%E3%81%93%E3%82%89%E3%80%80%E3%83%AC%E3%80%80%E3%83%90%E3%83%B3%E3%83%8A/2252442802"
       },
       {
         "fighterId": "3990114445",
@@ -1000,7 +1041,8 @@
           "diff": -2,
           "winRate": 0
         },
-        "synced": true
+        "synced": true,
+        "profileHref": "/%E2%9C%BF%E2%93%83%E2%92%BA%E2%93%84%E2%9C%BF"
       },
       {
         "fighterId": "3672801202",
@@ -1017,7 +1059,8 @@
           "diff": -2,
           "winRate": 0
         },
-        "synced": false
+        "synced": false,
+        "profileHref": "/%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%97%E3%82%B5%E3%82%A4%E3%83%BB%E3%81%86%E3%81%9D%E3%81%B4%E3%83%AB%E3%82%A5_pc/3672801202"
       },
       {
         "fighterId": "1811281258",
@@ -1034,7 +1077,8 @@
           "diff": -1,
           "winRate": 0
         },
-        "synced": true
+        "synced": true,
+        "profileHref": "/%E5%8F%88%E6%96%AD%E8%BF%9E%E4%BA%86%EF%BC%81"
       },
       {
         "fighterId": "3857916400",
@@ -1051,7 +1095,8 @@
           "diff": -1,
           "winRate": 0
         },
-        "synced": true
+        "synced": true,
+        "profileHref": "/unkonow/3857916400"
       },
       {
         "fighterId": "2271913949",
@@ -1068,7 +1113,8 @@
           "diff": -1,
           "winRate": 33.33333333333333
         },
-        "synced": false
+        "synced": false,
+        "profileHref": "/%E3%81%84%E3%81%A3%E3%81%A1%E3%83%BC/2271913949"
       }
     ]
   },
@@ -1145,6 +1191,7 @@
         "inputType": "Modern",
         "mr": 0,
         "lp": -1,
+        "profileHref": "/%E5%8F%B3%E8%86%9D%E3%81%AE%E8%A3%8F/4137845733",
         "synced": false
       },
       "result": 1,
@@ -1186,6 +1233,7 @@
         "inputType": "Modern",
         "mr": 0,
         "lp": -1,
+        "profileHref": "/%E5%8F%B3%E8%86%9D%E3%81%AE%E8%A3%8F/4137845733",
         "synced": false
       },
       "result": 1,
@@ -1227,6 +1275,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 13169,
+        "profileHref": "/%E3%81%84%E3%81%A3%E3%81%A1%E3%83%BC/2271913949",
         "synced": false
       },
       "result": -1,
@@ -1268,6 +1317,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 13169,
+        "profileHref": "/%E3%81%84%E3%81%A3%E3%81%A1%E3%83%BC/2271913949",
         "synced": false
       },
       "result": 1,
@@ -1307,6 +1357,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 13169,
+        "profileHref": "/%E3%81%84%E3%81%A3%E3%81%A1%E3%83%BC/2271913949",
         "synced": false
       },
       "result": -1,
@@ -1346,6 +1397,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": -1,
+        "profileHref": "/%E3%81%82%E3%82%80%E3%81%BE%E3%82%8B/2441575605",
         "synced": false
       },
       "result": 1,
@@ -1385,6 +1437,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 11833,
+        "profileHref": "/u-1%E3%83%BBpsydj/3115754008",
         "synced": false
       },
       "result": 1,
@@ -1424,6 +1477,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 11833,
+        "profileHref": "/u-1%E3%83%BBpsydj/3115754008",
         "synced": false
       },
       "result": 1,
@@ -1463,6 +1517,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 13043,
+        "profileHref": "/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC",
         "synced": true
       },
       "result": -1,
@@ -1502,6 +1557,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 13043,
+        "profileHref": "/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC",
         "synced": true
       },
       "result": 1,
@@ -1541,6 +1597,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 13043,
+        "profileHref": "/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC",
         "synced": true
       },
       "result": 1,
@@ -1582,6 +1639,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 13043,
+        "profileHref": "/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC",
         "synced": true
       },
       "result": -1,
@@ -1623,6 +1681,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 13043,
+        "profileHref": "/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC",
         "synced": true
       },
       "result": -1,
@@ -1662,6 +1721,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 13043,
+        "profileHref": "/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC",
         "synced": true
       },
       "result": -1,
@@ -1703,6 +1763,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 13043,
+        "profileHref": "/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC",
         "synced": true
       },
       "result": -1,
@@ -1744,6 +1805,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": -1,
+        "profileHref": "/%E3%81%84%E3%82%8F%E3%81%97%EF%BC%9B",
         "synced": true
       },
       "result": -1,
@@ -1785,6 +1847,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": -1,
+        "profileHref": "/%E3%81%84%E3%82%8F%E3%81%97%EF%BC%9B",
         "synced": true
       },
       "result": -1,
@@ -1824,6 +1887,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": -1,
+        "profileHref": "/%E6%89%BF%E8%AB%BE%20%E5%8F%AA%E6%9C%89%E6%84%9B%E7%9A%84%E6%99%82%E5%80%99%E6%89%8D%E7%AE%97%E6%95%B8",
         "synced": true
       },
       "result": -1,
@@ -1863,6 +1927,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": -1,
+        "profileHref": "/%E6%89%BF%E8%AB%BE%20%E5%8F%AA%E6%9C%89%E6%84%9B%E7%9A%84%E6%99%82%E5%80%99%E6%89%8D%E7%AE%97%E6%95%B8",
         "synced": true
       },
       "result": 1,
@@ -1904,6 +1969,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": -1,
+        "profileHref": "/%E6%89%BF%E8%AB%BE%20%E5%8F%AA%E6%9C%89%E6%84%9B%E7%9A%84%E6%99%82%E5%80%99%E6%89%8D%E7%AE%97%E6%95%B8",
         "synced": true
       },
       "result": -1,
@@ -1943,6 +2009,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": -1,
+        "profileHref": "/%E6%89%BF%E8%AB%BE%20%E5%8F%AA%E6%9C%89%E6%84%9B%E7%9A%84%E6%99%82%E5%80%99%E6%89%8D%E7%AE%97%E6%95%B8",
         "synced": true
       },
       "result": 1,
@@ -1984,6 +2051,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": -1,
+        "profileHref": "/%E6%89%BF%E8%AB%BE%20%E5%8F%AA%E6%9C%89%E6%84%9B%E7%9A%84%E6%99%82%E5%80%99%E6%89%8D%E7%AE%97%E6%95%B8",
         "synced": true
       },
       "result": -1,
@@ -2023,6 +2091,7 @@
         "inputType": "Classic",
         "mr": 1607,
         "lp": 29081,
+        "profileHref": "/%E5%8F%88%E6%96%AD%E8%BF%9E%E4%BA%86%EF%BC%81",
         "synced": true
       },
       "result": -1,
@@ -2062,6 +2131,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 22181,
+        "profileHref": "/nashi/3250938819",
         "synced": true
       },
       "result": 1,
@@ -2106,6 +2176,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 22181,
+        "profileHref": "/nashi/3250938819",
         "synced": true
       },
       "result": 1,
@@ -2152,6 +2223,7 @@
         "inputType": "Modern",
         "mr": 1487,
         "lp": 52271,
+        "profileHref": "/%E3%82%B7%E3%83%9E%E6%A8%AA%E6%B5%9C%E3%80%80%E5%8D%81%E5%AD%97%E3%82%AD%E3%83%BC%E6%AD%BB%E4%BA%A1%E3%83%A4%E3%83%8B%E7%8C%AB",
         "synced": true
       },
       "result": -1,
@@ -2191,6 +2263,7 @@
         "inputType": "Modern",
         "mr": 1487,
         "lp": 52271,
+        "profileHref": "/%E3%82%B7%E3%83%9E%E6%A8%AA%E6%B5%9C%E3%80%80%E5%8D%81%E5%AD%97%E3%82%AD%E3%83%BC%E6%AD%BB%E4%BA%A1%E3%83%A4%E3%83%8B%E7%8C%AB",
         "synced": true
       },
       "result": -1,
@@ -2230,6 +2303,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 24438,
+        "profileHref": "/%E3%81%8D%E3%82%93%E3%81%AE%E3%81%9F%E3%81%BE%E3%81%8F/2885052114",
         "synced": false
       },
       "result": -1,
@@ -2269,6 +2343,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 24438,
+        "profileHref": "/%E3%81%8D%E3%82%93%E3%81%AE%E3%81%9F%E3%81%BE%E3%81%8F/2885052114",
         "synced": false
       },
       "result": -1,
@@ -2308,6 +2383,7 @@
         "inputType": "Classic",
         "mr": 1500,
         "lp": 25046,
+        "profileHref": "/unkonow/3857916400",
         "synced": true
       },
       "result": -1,
@@ -2347,6 +2423,7 @@
         "inputType": "Classic",
         "mr": 1909,
         "lp": 345696,
+        "profileHref": "/%E3%81%8D%E3%82%8B%E3%81%9A%E3%82%86%E3%81%94",
         "synced": true
       },
       "result": -1,
@@ -2386,6 +2463,7 @@
         "inputType": "Classic",
         "mr": 1909,
         "lp": 345696,
+        "profileHref": "/%E3%81%8D%E3%82%8B%E3%81%9A%E3%82%86%E3%81%94",
         "synced": true
       },
       "result": -1,
@@ -2425,6 +2503,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 15965,
+        "profileHref": "/%E3%81%99%E3%81%AA%E3%81%8E%E3%82%82/1611650307",
         "synced": true
       },
       "result": -1,
@@ -2464,6 +2543,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 15965,
+        "profileHref": "/%E3%81%99%E3%81%AA%E3%81%8E%E3%82%82/1611650307",
         "synced": true
       },
       "result": -1,
@@ -2503,6 +2583,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 15965,
+        "profileHref": "/%E3%81%99%E3%81%AA%E3%81%8E%E3%82%82/1611650307",
         "synced": true
       },
       "result": -1,
@@ -2542,6 +2623,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 15965,
+        "profileHref": "/%E3%81%99%E3%81%AA%E3%81%8E%E3%82%82/1611650307",
         "synced": true
       },
       "result": -1,
@@ -2581,6 +2663,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 15965,
+        "profileHref": "/%E3%81%99%E3%81%AA%E3%81%8E%E3%82%82/1611650307",
         "synced": true
       },
       "result": -1,
@@ -2620,6 +2703,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 15965,
+        "profileHref": "/%E3%81%99%E3%81%AA%E3%81%8E%E3%82%82/1611650307",
         "synced": true
       },
       "result": -1,
@@ -2659,6 +2743,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 15965,
+        "profileHref": "/%E3%81%99%E3%81%AA%E3%81%8E%E3%82%82/1611650307",
         "synced": true
       },
       "result": -1,
@@ -2698,6 +2783,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 25015,
+        "profileHref": "/%E3%81%84%E3%81%91%E3%81%A1%E3%80%82/3787922592",
         "synced": false
       },
       "result": -1,
@@ -2737,6 +2823,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 25015,
+        "profileHref": "/%E3%81%84%E3%81%91%E3%81%A1%E3%80%82/3787922592",
         "synced": false
       },
       "result": -1,
@@ -2776,6 +2863,7 @@
         "inputType": "Modern",
         "mr": 0,
         "lp": 19000,
+        "profileHref": "/%E5%B1%81%E7%A5%9E%E5%B1%81%E9%9C%B8%E5%B1%81%E5%B1%81%E9%85%B1",
         "synced": true
       },
       "result": -1,
@@ -2815,6 +2903,7 @@
         "inputType": "Modern",
         "mr": 0,
         "lp": 19000,
+        "profileHref": "/%E5%B1%81%E7%A5%9E%E5%B1%81%E9%9C%B8%E5%B1%81%E5%B1%81%E9%85%B1",
         "synced": true
       },
       "result": -1,
@@ -2856,6 +2945,7 @@
         "inputType": "Modern",
         "mr": 0,
         "lp": 19000,
+        "profileHref": "/%E5%B1%81%E7%A5%9E%E5%B1%81%E9%9C%B8%E5%B1%81%E5%B1%81%E9%85%B1",
         "synced": true
       },
       "result": -1,
@@ -2895,6 +2985,7 @@
         "inputType": "Modern",
         "mr": 0,
         "lp": 19000,
+        "profileHref": "/%E5%B1%81%E7%A5%9E%E5%B1%81%E9%9C%B8%E5%B1%81%E5%B1%81%E9%85%B1",
         "synced": true
       },
       "result": 1,
@@ -2934,6 +3025,7 @@
         "inputType": "Modern",
         "mr": 0,
         "lp": 19000,
+        "profileHref": "/%E5%B1%81%E7%A5%9E%E5%B1%81%E9%9C%B8%E5%B1%81%E5%B1%81%E9%85%B1",
         "synced": true
       },
       "result": 1,
@@ -2975,6 +3067,7 @@
         "inputType": "Modern",
         "mr": 0,
         "lp": 19000,
+        "profileHref": "/%E5%B1%81%E7%A5%9E%E5%B1%81%E9%9C%B8%E5%B1%81%E5%B1%81%E9%85%B1",
         "synced": true
       },
       "result": 1,
@@ -3014,6 +3107,7 @@
         "inputType": "Classic",
         "mr": 1500,
         "lp": 43110,
+        "profileHref": "/%E3%81%BC%E3%81%93%E3%82%89%E3%80%80%E3%83%AC%E3%80%80%E3%83%90%E3%83%B3%E3%83%8A/2252442802",
         "synced": false
       },
       "result": -1,
@@ -3053,6 +3147,7 @@
         "inputType": "Classic",
         "mr": 1500,
         "lp": 43110,
+        "profileHref": "/%E3%81%BC%E3%81%93%E3%82%89%E3%80%80%E3%83%AC%E3%80%80%E3%83%90%E3%83%B3%E3%83%8A/2252442802",
         "synced": false
       },
       "result": -1,
@@ -3092,6 +3187,7 @@
         "inputType": "Modern",
         "mr": 0,
         "lp": 6626,
+        "profileHref": "/%E2%9C%BF%E2%93%83%E2%92%BA%E2%93%84%E2%9C%BF",
         "synced": true
       },
       "result": -1,
@@ -3131,6 +3227,7 @@
         "inputType": "Modern",
         "mr": 0,
         "lp": 6626,
+        "profileHref": "/%E2%9C%BF%E2%93%83%E2%92%BA%E2%93%84%E2%9C%BF",
         "synced": true
       },
       "result": -1,
@@ -3172,6 +3269,7 @@
         "inputType": "Classic",
         "mr": 1608,
         "lp": 105254,
+        "profileHref": "/Naporitan",
         "synced": true
       },
       "result": -1,
@@ -3211,6 +3309,7 @@
         "inputType": "Classic",
         "mr": 1608,
         "lp": 105254,
+        "profileHref": "/Naporitan",
         "synced": true
       },
       "result": -1,
@@ -3250,6 +3349,7 @@
         "inputType": "Classic",
         "mr": 1608,
         "lp": 105254,
+        "profileHref": "/Naporitan",
         "synced": true
       },
       "result": -1,
@@ -3289,6 +3389,7 @@
         "inputType": "Classic",
         "mr": 1608,
         "lp": 105254,
+        "profileHref": "/Naporitan",
         "synced": true
       },
       "result": -1,
@@ -3328,6 +3429,7 @@
         "inputType": "Classic",
         "mr": 1608,
         "lp": 105254,
+        "profileHref": "/Naporitan",
         "synced": true
       },
       "result": -1,
@@ -3372,6 +3474,7 @@
         "inputType": "Classic",
         "mr": 1608,
         "lp": 105254,
+        "profileHref": "/Naporitan",
         "synced": true
       },
       "result": -1,
@@ -3411,6 +3514,7 @@
         "inputType": "Classic",
         "mr": 1608,
         "lp": 105254,
+        "profileHref": "/Naporitan",
         "synced": true
       },
       "result": -1,
@@ -3450,6 +3554,7 @@
         "inputType": "Classic",
         "mr": 1608,
         "lp": 105254,
+        "profileHref": "/Naporitan",
         "synced": true
       },
       "result": -1,
@@ -3489,6 +3594,7 @@
         "inputType": "Classic",
         "mr": 1608,
         "lp": 105254,
+        "profileHref": "/Naporitan",
         "synced": true
       },
       "result": -1,
@@ -3528,6 +3634,7 @@
         "inputType": "Classic",
         "mr": 1608,
         "lp": 105254,
+        "profileHref": "/Naporitan",
         "synced": true
       },
       "result": -1,
@@ -3567,6 +3674,7 @@
         "inputType": "Classic",
         "mr": 1608,
         "lp": 105254,
+        "profileHref": "/Naporitan",
         "synced": true
       },
       "result": -1,
@@ -3606,6 +3714,7 @@
         "inputType": "Classic",
         "mr": 1608,
         "lp": 105254,
+        "profileHref": "/Naporitan",
         "synced": true
       },
       "result": -1,
@@ -3645,6 +3754,7 @@
         "inputType": "Classic",
         "mr": 1608,
         "lp": 105254,
+        "profileHref": "/Naporitan",
         "synced": true
       },
       "result": -1,
@@ -3686,6 +3796,7 @@
         "inputType": "Classic",
         "mr": 1608,
         "lp": 105254,
+        "profileHref": "/Naporitan",
         "synced": true
       },
       "result": -1,
@@ -3725,6 +3836,7 @@
         "inputType": "Classic",
         "mr": 1608,
         "lp": 105254,
+        "profileHref": "/Naporitan",
         "synced": true
       },
       "result": -1,
@@ -3764,6 +3876,7 @@
         "inputType": "Classic",
         "mr": 1608,
         "lp": 105254,
+        "profileHref": "/Naporitan",
         "synced": true
       },
       "result": -1,
@@ -3803,6 +3916,7 @@
         "inputType": "Classic",
         "mr": 1608,
         "lp": 105254,
+        "profileHref": "/Naporitan",
         "synced": true
       },
       "result": -1,
@@ -3842,6 +3956,7 @@
         "inputType": "Classic",
         "mr": 1608,
         "lp": 105254,
+        "profileHref": "/Naporitan",
         "synced": true
       },
       "result": -1,
@@ -3886,6 +4001,7 @@
         "inputType": "Modern",
         "mr": 0,
         "lp": 21926,
+        "profileHref": "/%E2%9C%BF%E2%93%83%E2%92%BA%E2%93%84%E2%9C%BF",
         "synced": true
       },
       "result": -1,
@@ -3925,6 +4041,7 @@
         "inputType": "Modern",
         "mr": 0,
         "lp": 21926,
+        "profileHref": "/%E2%9C%BF%E2%93%83%E2%92%BA%E2%93%84%E2%9C%BF",
         "synced": true
       },
       "result": -1,
@@ -3964,6 +4081,7 @@
         "inputType": "Modern",
         "mr": 0,
         "lp": 21926,
+        "profileHref": "/%E2%9C%BF%E2%93%83%E2%92%BA%E2%93%84%E2%9C%BF",
         "synced": true
       },
       "result": -1,
@@ -4003,6 +4121,7 @@
         "inputType": "Modern",
         "mr": 0,
         "lp": 21926,
+        "profileHref": "/%E2%9C%BF%E2%93%83%E2%92%BA%E2%93%84%E2%9C%BF",
         "synced": true
       },
       "result": -1,
@@ -4042,6 +4161,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 13053,
+        "profileHref": "/%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%97%E3%82%B5%E3%82%A4%E3%83%BB%E3%81%86%E3%81%9D%E3%81%B4%E3%83%AB%E3%82%A5_pc/3672801202",
         "synced": false
       },
       "result": -1,
@@ -4083,6 +4203,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 13053,
+        "profileHref": "/%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%97%E3%82%B5%E3%82%A4%E3%83%BB%E3%81%86%E3%81%9D%E3%81%B4%E3%83%AB%E3%82%A5_pc/3672801202",
         "synced": false
       },
       "result": -1,
@@ -4122,6 +4243,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 13043,
+        "profileHref": "/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC",
         "synced": true
       },
       "result": -1,
@@ -4163,6 +4285,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 13043,
+        "profileHref": "/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC",
         "synced": true
       },
       "result": -1,
@@ -4202,6 +4325,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 13043,
+        "profileHref": "/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC",
         "synced": true
       },
       "result": -1,
@@ -4241,6 +4365,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 13043,
+        "profileHref": "/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC",
         "synced": true
       },
       "result": -1,
@@ -4287,6 +4412,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 13043,
+        "profileHref": "/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC",
         "synced": true
       },
       "result": -1,
@@ -4326,6 +4452,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 13043,
+        "profileHref": "/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC",
         "synced": true
       },
       "result": -1,
@@ -4365,6 +4492,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 13043,
+        "profileHref": "/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC",
         "synced": true
       },
       "result": -1,
@@ -5040,7 +5168,8 @@
             "value": 0.0884
           }
         ],
-        "rankedGames": 18086
+        "rankedGames": 18086,
+        "profileHref": "/fumi39dc_pc"
       },
       {
         "shortId": "1321583500",
@@ -5165,7 +5294,8 @@
             "value": 0.104
           }
         ],
-        "rankedGames": 31720
+        "rankedGames": 31720,
+        "profileHref": "/pc-jieba5512"
       },
       {
         "shortId": "3623007729",
@@ -5290,7 +5420,8 @@
             "value": 0.08
           }
         ],
-        "rankedGames": 73726
+        "rankedGames": 73726,
+        "profileHref": "/2BASSA/3623007729"
       },
       {
         "shortId": "2827969522",
@@ -5415,7 +5546,8 @@
             "value": 0.0751
           }
         ],
-        "rankedGames": 49601
+        "rankedGames": 49601,
+        "profileHref": "/Tradz%20baruji"
       },
       {
         "shortId": "1497476764",
@@ -5540,7 +5672,8 @@
             "value": 0.1458
           }
         ],
-        "rankedGames": 37884
+        "rankedGames": 37884,
+        "profileHref": "/%E2%80%A0%E5%8D%8D%E2%99%A8%E2%99%A8%E5%8D%8D%E2%80%A0%EF%BD%9C%E3%81%AC%E3%83%BC%E3%81%A9%E3%82%8B%EF%BC%88%E6%9C%AC%E4%BA%BA%EF%BC%89"
       }
     ],
     "rows": [
