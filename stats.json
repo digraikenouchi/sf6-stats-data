@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T12:00:39.941Z",
+  "generatedAt": "2026-09-22T18:00:21.881Z",
   "matchDataUpdatedAt": "2026-09-14T12:12:05.675Z",
   "fighter": {
     "id": "1122738358",
@@ -5933,9 +5933,9 @@
     ],
     "insights": [
       "Higher got punish countered than top 30 Cammy avg (+0.54).",
-      "Lower got stunned than top 30 Cammy — solid.",
-      "Lower time cornered than top 30 Cammy — solid.",
-      "Lower drive guard than top 30 Cammy — solid."
+      "Lower got stunned than top 30 Cammy. Solid.",
+      "Lower time cornered than top 30 Cammy. Solid.",
+      "Lower drive guard than top 30 Cammy. Solid."
     ],
     "sampleSize": 30,
     "timeframe": {
