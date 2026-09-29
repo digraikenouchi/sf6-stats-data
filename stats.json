@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T00:01:37.060Z",
+  "generatedAt": "2026-09-29T06:02:06.800Z",
   "matchDataUpdatedAt": "2026-09-14T12:12:05.675Z",
   "fighter": {
     "id": "1122738358",
@@ -552,7 +552,7 @@
           "winRate": 0
         },
         "synced": true,
-        "profileHref": "/%E3%81%8D%E3%82%8B%E3%81%9A%E3%82%86%E3%81%94"
+        "profileHref": "/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E8%A6%B3%E6%88%A6%E5%8B%A2%E3%82%86%E3%81%94"
       },
       {
         "fighterId": "3787922592",
@@ -806,7 +806,7 @@
           "winRate": 0
         },
         "synced": true,
-        "profileHref": "/%E3%81%8D%E3%82%8B%E3%81%9A%E3%82%86%E3%81%94"
+        "profileHref": "/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E8%A6%B3%E6%88%A6%E5%8B%A2%E3%82%86%E3%81%94"
       },
       {
         "fighterId": "3787922592",
@@ -988,7 +988,7 @@
           "winRate": 0
         },
         "synced": true,
-        "profileHref": "/%E3%81%8D%E3%82%8B%E3%81%9A%E3%82%86%E3%81%94"
+        "profileHref": "/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E8%A6%B3%E6%88%A6%E5%8B%A2%E3%82%86%E3%81%94"
       },
       {
         "fighterId": "3787922592",
@@ -2423,7 +2423,7 @@
         "inputType": "Classic",
         "mr": 1909,
         "lp": 345696,
-        "profileHref": "/%E3%81%8D%E3%82%8B%E3%81%9A%E3%82%86%E3%81%94",
+        "profileHref": "/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E8%A6%B3%E6%88%A6%E5%8B%A2%E3%82%86%E3%81%94",
         "synced": true
       },
       "result": -1,
@@ -2463,7 +2463,7 @@
         "inputType": "Classic",
         "mr": 1909,
         "lp": 345696,
-        "profileHref": "/%E3%81%8D%E3%82%8B%E3%81%9A%E3%82%86%E3%81%94",
+        "profileHref": "/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E8%A6%B3%E6%88%A6%E5%8B%A2%E3%82%86%E3%81%94",
         "synced": true
       },
       "result": -1,
