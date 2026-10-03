@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-02T18:00:39.000Z",
+  "generatedAt": "2026-10-03T00:00:52.974Z",
   "matchDataUpdatedAt": "2026-09-14T12:12:05.675Z",
   "fighter": {
     "id": "1122738358",
     "name": "かぱめ。",
-    "profileHref": "/%E3%81%8B%E3%81%B1%E3%82%81%E3%80%82",
+    "profileHref": "/players/%E3%81%8B%E3%81%B1%E3%82%81-1122738358",
     "mainCharacterId": 9,
     "mainCharacter": "Cammy",
     "mostPlayedCharacterId": 9,
@@ -318,7 +318,7 @@
           "winRate": 0
         },
         "synced": true,
-        "profileHref": "/Naporitan"
+        "profileHref": "/players/naporitan-3008680823"
       },
       {
         "fighterId": "3434421732",
@@ -336,7 +336,7 @@
           "winRate": 14.285714285714285
         },
         "synced": true,
-        "profileHref": "/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC"
+        "profileHref": "/players/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC-3434421732"
       },
       {
         "fighterId": "1611650307",
@@ -354,7 +354,7 @@
           "winRate": 0
         },
         "synced": true,
-        "profileHref": "/%E3%81%99%E3%81%AA%E3%81%8E%E3%82%82/1611650307"
+        "profileHref": "/players/%E3%81%99%E3%81%AA%E3%81%8E%E3%82%82-1611650307"
       },
       {
         "fighterId": "2072169222",
@@ -372,7 +372,7 @@
           "winRate": 50
         },
         "synced": true,
-        "profileHref": "/%E5%B1%81%E7%A5%9E%E5%B1%81%E9%9C%B8%E5%B1%81%E5%B1%81%E9%85%B1"
+        "profileHref": "/players/%E5%B1%81%E7%A5%9E%E5%B1%81%E9%9C%B8%E5%B1%81%E5%B1%81%E9%85%B1-2072169222"
       },
       {
         "fighterId": "2624899455",
@@ -390,7 +390,7 @@
           "winRate": 40
         },
         "synced": true,
-        "profileHref": "/%E6%89%BF%E8%AB%BE%20%E5%8F%AA%E6%9C%89%E6%84%9B%E7%9A%84%E6%99%82%E5%80%99%E6%89%8D%E7%AE%97%E6%95%B8"
+        "profileHref": "/players/%E6%89%BF%E8%AB%BE-%E5%8F%AA%E6%9C%89%E6%84%9B%E7%9A%84%E6%99%82%E5%80%99%E6%89%8D%E7%AE%97%E6%95%B8-2624899455"
       },
       {
         "fighterId": "3990114445",
@@ -408,7 +408,7 @@
           "winRate": 0
         },
         "synced": true,
-        "profileHref": "/%E2%9C%BF%E2%93%83%E2%92%BA%E2%93%84%E2%9C%BF"
+        "profileHref": "/players/neo-3990114445"
       },
       {
         "fighterId": "2271913949",
@@ -426,7 +426,7 @@
           "winRate": 33.33333333333333
         },
         "synced": false,
-        "profileHref": "/%E3%81%84%E3%81%A3%E3%81%A1%E3%83%BC/2271913949"
+        "profileHref": "/players/%E3%81%84%E3%81%A3%E3%81%A1%E3%83%BC-2271913949"
       },
       {
         "fighterId": "4137845733",
@@ -444,7 +444,7 @@
           "winRate": 100
         },
         "synced": false,
-        "profileHref": "/%E5%8F%B3%E8%86%9D%E3%81%AE%E8%A3%8F/4137845733"
+        "profileHref": "/players/%E5%8F%B3%E8%86%9D%E3%81%AE%E8%A3%8F-4137845733"
       },
       {
         "fighterId": "3115754008",
@@ -462,7 +462,7 @@
           "winRate": 100
         },
         "synced": false,
-        "profileHref": "/u-1%E3%83%BBpsydj/3115754008"
+        "profileHref": "/players/u-1-psydj-3115754008"
       },
       {
         "fighterId": "3250938819",
@@ -480,7 +480,7 @@
           "winRate": 100
         },
         "synced": true,
-        "profileHref": "/nashi/3250938819"
+        "profileHref": "/players/nashi-3250938819"
       },
       {
         "fighterId": "1449301579",
@@ -498,7 +498,7 @@
           "winRate": 0
         },
         "synced": true,
-        "profileHref": "/%E3%81%84%E3%82%8F%E3%81%97%EF%BC%9B"
+        "profileHref": "/players/%E3%81%84%E3%82%8F%E3%81%97-1449301579"
       },
       {
         "fighterId": "3452764755",
@@ -516,7 +516,7 @@
           "winRate": 0
         },
         "synced": true,
-        "profileHref": "/%E3%82%B7%E3%83%9E%E6%A8%AA%E6%B5%9C%E3%80%80%E5%8D%81%E5%AD%97%E3%82%AD%E3%83%BC%E6%AD%BB%E4%BA%A1%E3%83%A4%E3%83%8B%E7%8C%AB"
+        "profileHref": "/players/%E3%82%B7%E3%83%9E%E6%A8%AA%E6%B5%9C-%E5%8D%81%E5%AD%97%E3%82%AD%E3%83%BC%E6%AD%BB%E4%BA%A1%E3%83%A4%E3%83%8B%E7%8C%AB-3452764755"
       },
       {
         "fighterId": "2885052114",
@@ -534,7 +534,7 @@
           "winRate": 0
         },
         "synced": false,
-        "profileHref": "/%E3%81%8D%E3%82%93%E3%81%AE%E3%81%9F%E3%81%BE%E3%81%8F/2885052114"
+        "profileHref": "/players/%E3%81%8D%E3%82%93%E3%81%AE%E3%81%9F%E3%81%BE%E3%81%8F-2885052114"
       },
       {
         "fighterId": "3085672272",
@@ -552,7 +552,7 @@
           "winRate": 0
         },
         "synced": true,
-        "profileHref": "/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E8%A6%B3%E6%88%A6%E5%8B%A2%E3%82%86%E3%81%94"
+        "profileHref": "/players/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E8%A6%B3%E6%88%A6%E5%8B%A2%E3%82%86%E3%81%94-3085672272"
       },
       {
         "fighterId": "3787922592",
@@ -570,7 +570,7 @@
           "winRate": 0
         },
         "synced": false,
-        "profileHref": "/%E3%81%84%E3%81%91%E3%81%A1%E3%80%82/3787922592"
+        "profileHref": "/players/%E3%81%84%E3%81%91%E3%81%A1-3787922592"
       }
     ],
     "victims": [
@@ -590,7 +590,7 @@
           "winRate": 100
         },
         "synced": false,
-        "profileHref": "/%E5%8F%B3%E8%86%9D%E3%81%AE%E8%A3%8F/4137845733"
+        "profileHref": "/players/%E5%8F%B3%E8%86%9D%E3%81%AE%E8%A3%8F-4137845733"
       },
       {
         "fighterId": "3115754008",
@@ -608,7 +608,7 @@
           "winRate": 100
         },
         "synced": false,
-        "profileHref": "/u-1%E3%83%BBpsydj/3115754008"
+        "profileHref": "/players/u-1-psydj-3115754008"
       },
       {
         "fighterId": "3250938819",
@@ -626,7 +626,7 @@
           "winRate": 100
         },
         "synced": true,
-        "profileHref": "/nashi/3250938819"
+        "profileHref": "/players/nashi-3250938819"
       },
       {
         "fighterId": "2441575605",
@@ -644,7 +644,7 @@
           "winRate": 100
         },
         "synced": false,
-        "profileHref": "/%E3%81%82%E3%82%80%E3%81%BE%E3%82%8B/2441575605"
+        "profileHref": "/players/%E3%81%82%E3%82%80%E3%81%BE%E3%82%8B-2441575605"
       },
       {
         "fighterId": "2072169222",
@@ -662,7 +662,7 @@
           "winRate": 50
         },
         "synced": true,
-        "profileHref": "/%E5%B1%81%E7%A5%9E%E5%B1%81%E9%9C%B8%E5%B1%81%E5%B1%81%E9%85%B1"
+        "profileHref": "/players/%E5%B1%81%E7%A5%9E%E5%B1%81%E9%9C%B8%E5%B1%81%E5%B1%81%E9%85%B1-2072169222"
       },
       {
         "fighterId": "1811281258",
@@ -680,7 +680,7 @@
           "winRate": 0
         },
         "synced": true,
-        "profileHref": "/%E5%8F%88%E6%96%AD%E8%BF%9E%E4%BA%86%EF%BC%81"
+        "profileHref": "/players/%E5%8F%88%E6%96%AD%E8%BF%9E%E4%BA%86-1811281258"
       },
       {
         "fighterId": "3857916400",
@@ -698,7 +698,7 @@
           "winRate": 0
         },
         "synced": true,
-        "profileHref": "/unkonow/3857916400"
+        "profileHref": "/players/unkonow-3857916400"
       },
       {
         "fighterId": "2271913949",
@@ -716,7 +716,7 @@
           "winRate": 33.33333333333333
         },
         "synced": false,
-        "profileHref": "/%E3%81%84%E3%81%A3%E3%81%A1%E3%83%BC/2271913949"
+        "profileHref": "/players/%E3%81%84%E3%81%A3%E3%81%A1%E3%83%BC-2271913949"
       },
       {
         "fighterId": "2624899455",
@@ -734,7 +734,7 @@
           "winRate": 40
         },
         "synced": true,
-        "profileHref": "/%E6%89%BF%E8%AB%BE%20%E5%8F%AA%E6%9C%89%E6%84%9B%E7%9A%84%E6%99%82%E5%80%99%E6%89%8D%E7%AE%97%E6%95%B8"
+        "profileHref": "/players/%E6%89%BF%E8%AB%BE-%E5%8F%AA%E6%9C%89%E6%84%9B%E7%9A%84%E6%99%82%E5%80%99%E6%89%8D%E7%AE%97%E6%95%B8-2624899455"
       },
       {
         "fighterId": "1449301579",
@@ -752,7 +752,7 @@
           "winRate": 0
         },
         "synced": true,
-        "profileHref": "/%E3%81%84%E3%82%8F%E3%81%97%EF%BC%9B"
+        "profileHref": "/players/%E3%81%84%E3%82%8F%E3%81%97-1449301579"
       },
       {
         "fighterId": "3452764755",
@@ -770,7 +770,7 @@
           "winRate": 0
         },
         "synced": true,
-        "profileHref": "/%E3%82%B7%E3%83%9E%E6%A8%AA%E6%B5%9C%E3%80%80%E5%8D%81%E5%AD%97%E3%82%AD%E3%83%BC%E6%AD%BB%E4%BA%A1%E3%83%A4%E3%83%8B%E7%8C%AB"
+        "profileHref": "/players/%E3%82%B7%E3%83%9E%E6%A8%AA%E6%B5%9C-%E5%8D%81%E5%AD%97%E3%82%AD%E3%83%BC%E6%AD%BB%E4%BA%A1%E3%83%A4%E3%83%8B%E7%8C%AB-3452764755"
       },
       {
         "fighterId": "2885052114",
@@ -788,7 +788,7 @@
           "winRate": 0
         },
         "synced": false,
-        "profileHref": "/%E3%81%8D%E3%82%93%E3%81%AE%E3%81%9F%E3%81%BE%E3%81%8F/2885052114"
+        "profileHref": "/players/%E3%81%8D%E3%82%93%E3%81%AE%E3%81%9F%E3%81%BE%E3%81%8F-2885052114"
       },
       {
         "fighterId": "3085672272",
@@ -806,7 +806,7 @@
           "winRate": 0
         },
         "synced": true,
-        "profileHref": "/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E8%A6%B3%E6%88%A6%E5%8B%A2%E3%82%86%E3%81%94"
+        "profileHref": "/players/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E8%A6%B3%E6%88%A6%E5%8B%A2%E3%82%86%E3%81%94-3085672272"
       },
       {
         "fighterId": "3787922592",
@@ -824,7 +824,7 @@
           "winRate": 0
         },
         "synced": false,
-        "profileHref": "/%E3%81%84%E3%81%91%E3%81%A1%E3%80%82/3787922592"
+        "profileHref": "/players/%E3%81%84%E3%81%91%E3%81%A1-3787922592"
       },
       {
         "fighterId": "2252442802",
@@ -842,7 +842,7 @@
           "winRate": 0
         },
         "synced": false,
-        "profileHref": "/%E3%81%BC%E3%81%93%E3%82%89%E3%80%80%E3%83%AC%E3%80%80%E3%83%90%E3%83%B3%E3%83%8A/2252442802"
+        "profileHref": "/players/%E3%81%BC%E3%81%93%E3%82%89-%E3%83%AC-%E3%83%90%E3%83%B3%E3%83%8A-2252442802"
       }
     ],
     "tormentors": [
@@ -862,7 +862,7 @@
           "winRate": 0
         },
         "synced": true,
-        "profileHref": "/Naporitan"
+        "profileHref": "/players/naporitan-3008680823"
       },
       {
         "fighterId": "3434421732",
@@ -880,7 +880,7 @@
           "winRate": 14.285714285714285
         },
         "synced": true,
-        "profileHref": "/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC"
+        "profileHref": "/players/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC-3434421732"
       },
       {
         "fighterId": "1611650307",
@@ -898,7 +898,7 @@
           "winRate": 0
         },
         "synced": true,
-        "profileHref": "/%E3%81%99%E3%81%AA%E3%81%8E%E3%82%82/1611650307"
+        "profileHref": "/players/%E3%81%99%E3%81%AA%E3%81%8E%E3%82%82-1611650307"
       },
       {
         "fighterId": "3990114445",
@@ -916,7 +916,7 @@
           "winRate": 0
         },
         "synced": true,
-        "profileHref": "/%E2%9C%BF%E2%93%83%E2%92%BA%E2%93%84%E2%9C%BF"
+        "profileHref": "/players/neo-3990114445"
       },
       {
         "fighterId": "1449301579",
@@ -934,7 +934,7 @@
           "winRate": 0
         },
         "synced": true,
-        "profileHref": "/%E3%81%84%E3%82%8F%E3%81%97%EF%BC%9B"
+        "profileHref": "/players/%E3%81%84%E3%82%8F%E3%81%97-1449301579"
       },
       {
         "fighterId": "3452764755",
@@ -952,7 +952,7 @@
           "winRate": 0
         },
         "synced": true,
-        "profileHref": "/%E3%82%B7%E3%83%9E%E6%A8%AA%E6%B5%9C%E3%80%80%E5%8D%81%E5%AD%97%E3%82%AD%E3%83%BC%E6%AD%BB%E4%BA%A1%E3%83%A4%E3%83%8B%E7%8C%AB"
+        "profileHref": "/players/%E3%82%B7%E3%83%9E%E6%A8%AA%E6%B5%9C-%E5%8D%81%E5%AD%97%E3%82%AD%E3%83%BC%E6%AD%BB%E4%BA%A1%E3%83%A4%E3%83%8B%E7%8C%AB-3452764755"
       },
       {
         "fighterId": "2885052114",
@@ -970,7 +970,7 @@
           "winRate": 0
         },
         "synced": false,
-        "profileHref": "/%E3%81%8D%E3%82%93%E3%81%AE%E3%81%9F%E3%81%BE%E3%81%8F/2885052114"
+        "profileHref": "/players/%E3%81%8D%E3%82%93%E3%81%AE%E3%81%9F%E3%81%BE%E3%81%8F-2885052114"
       },
       {
         "fighterId": "3085672272",
@@ -988,7 +988,7 @@
           "winRate": 0
         },
         "synced": true,
-        "profileHref": "/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E8%A6%B3%E6%88%A6%E5%8B%A2%E3%82%86%E3%81%94"
+        "profileHref": "/players/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E8%A6%B3%E6%88%A6%E5%8B%A2%E3%82%86%E3%81%94-3085672272"
       },
       {
         "fighterId": "3787922592",
@@ -1006,7 +1006,7 @@
           "winRate": 0
         },
         "synced": false,
-        "profileHref": "/%E3%81%84%E3%81%91%E3%81%A1%E3%80%82/3787922592"
+        "profileHref": "/players/%E3%81%84%E3%81%91%E3%81%A1-3787922592"
       },
       {
         "fighterId": "2252442802",
@@ -1024,7 +1024,7 @@
           "winRate": 0
         },
         "synced": false,
-        "profileHref": "/%E3%81%BC%E3%81%93%E3%82%89%E3%80%80%E3%83%AC%E3%80%80%E3%83%90%E3%83%B3%E3%83%8A/2252442802"
+        "profileHref": "/players/%E3%81%BC%E3%81%93%E3%82%89-%E3%83%AC-%E3%83%90%E3%83%B3%E3%83%8A-2252442802"
       },
       {
         "fighterId": "3990114445",
@@ -1042,7 +1042,7 @@
           "winRate": 0
         },
         "synced": true,
-        "profileHref": "/%E2%9C%BF%E2%93%83%E2%92%BA%E2%93%84%E2%9C%BF"
+        "profileHref": "/players/neo-3990114445"
       },
       {
         "fighterId": "3672801202",
@@ -1060,7 +1060,7 @@
           "winRate": 0
         },
         "synced": false,
-        "profileHref": "/%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%97%E3%82%B5%E3%82%A4%E3%83%BB%E3%81%86%E3%81%9D%E3%81%B4%E3%83%AB%E3%82%A5_pc/3672801202"
+        "profileHref": "/players/%E3%82%A8%E3%83%AB-%E3%83%97%E3%82%B5%E3%82%A4-%E3%81%86%E3%81%9D%E3%81%B4%E3%83%AB%E3%82%A5-pc-3672801202"
       },
       {
         "fighterId": "1811281258",
@@ -1078,7 +1078,7 @@
           "winRate": 0
         },
         "synced": true,
-        "profileHref": "/%E5%8F%88%E6%96%AD%E8%BF%9E%E4%BA%86%EF%BC%81"
+        "profileHref": "/players/%E5%8F%88%E6%96%AD%E8%BF%9E%E4%BA%86-1811281258"
       },
       {
         "fighterId": "3857916400",
@@ -1096,7 +1096,7 @@
           "winRate": 0
         },
         "synced": true,
-        "profileHref": "/unkonow/3857916400"
+        "profileHref": "/players/unkonow-3857916400"
       },
       {
         "fighterId": "2271913949",
@@ -1114,7 +1114,7 @@
           "winRate": 33.33333333333333
         },
         "synced": false,
-        "profileHref": "/%E3%81%84%E3%81%A3%E3%81%A1%E3%83%BC/2271913949"
+        "profileHref": "/players/%E3%81%84%E3%81%A3%E3%81%A1%E3%83%BC-2271913949"
       }
     ]
   },
@@ -1169,9 +1169,11 @@
   "matches": [
     {
       "replayId": "MKKPWQXKT",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E5%8F%B3%E8%86%9D%E3%81%AE%E8%A3%8F-MKKPWQXKT",
       "playedAt": "2026-09-14T11:50:24.000Z",
       "battleType": "Casual",
       "battleTypeId": 2,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -1191,7 +1193,7 @@
         "inputType": "Modern",
         "mr": 0,
         "lp": -1,
-        "profileHref": "/%E5%8F%B3%E8%86%9D%E3%81%AE%E8%A3%8F/4137845733",
+        "profileHref": "/players/%E5%8F%B3%E8%86%9D%E3%81%AE%E8%A3%8F-4137845733",
         "synced": false
       },
       "result": 1,
@@ -1211,9 +1213,11 @@
     },
     {
       "replayId": "76G4SVT9L",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E5%8F%B3%E8%86%9D%E3%81%AE%E8%A3%8F-76G4SVT9L",
       "playedAt": "2026-09-14T11:47:30.000Z",
       "battleType": "Casual",
       "battleTypeId": 2,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -1233,7 +1237,7 @@
         "inputType": "Modern",
         "mr": 0,
         "lp": -1,
-        "profileHref": "/%E5%8F%B3%E8%86%9D%E3%81%AE%E8%A3%8F/4137845733",
+        "profileHref": "/players/%E5%8F%B3%E8%86%9D%E3%81%AE%E8%A3%8F-4137845733",
         "synced": false
       },
       "result": 1,
@@ -1253,9 +1257,11 @@
     },
     {
       "replayId": "C6E34KMWQ",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E3%81%84%E3%81%A3%E3%81%A1%E3%83%BC-C6E34KMWQ",
       "playedAt": "2026-09-14T11:43:53.000Z",
       "battleType": "Casual",
       "battleTypeId": 2,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -1275,7 +1281,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 13169,
-        "profileHref": "/%E3%81%84%E3%81%A3%E3%81%A1%E3%83%BC/2271913949",
+        "profileHref": "/players/%E3%81%84%E3%81%A3%E3%81%A1%E3%83%BC-2271913949",
         "synced": false
       },
       "result": -1,
@@ -1295,9 +1301,11 @@
     },
     {
       "replayId": "WPG3LBDBW",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E3%81%84%E3%81%A3%E3%81%A1%E3%83%BC-WPG3LBDBW",
       "playedAt": "2026-09-14T11:41:49.000Z",
       "battleType": "Casual",
       "battleTypeId": 2,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -1317,7 +1325,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 13169,
-        "profileHref": "/%E3%81%84%E3%81%A3%E3%81%A1%E3%83%BC/2271913949",
+        "profileHref": "/players/%E3%81%84%E3%81%A3%E3%81%A1%E3%83%BC-2271913949",
         "synced": false
       },
       "result": 1,
@@ -1335,9 +1343,11 @@
     },
     {
       "replayId": "XHBGWSKWL",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E3%81%84%E3%81%A3%E3%81%A1%E3%83%BC-XHBGWSKWL",
       "playedAt": "2026-09-14T11:39:56.000Z",
       "battleType": "Casual",
       "battleTypeId": 2,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -1357,7 +1367,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 13169,
-        "profileHref": "/%E3%81%84%E3%81%A3%E3%81%A1%E3%83%BC/2271913949",
+        "profileHref": "/players/%E3%81%84%E3%81%A3%E3%81%A1%E3%83%BC-2271913949",
         "synced": false
       },
       "result": -1,
@@ -1375,9 +1385,11 @@
     },
     {
       "replayId": "CR5FBWXUU",
+      "replayHref": "/replays/%E3%81%82%E3%82%80%E3%81%BE%E3%82%8B-vs-%E3%81%8B%E3%81%B1%E3%82%81-CR5FBWXUU",
       "playedAt": "2026-09-09T14:46:44.000Z",
       "battleType": "Casual",
       "battleTypeId": 2,
+      "homeSide": 2,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -1397,7 +1409,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": -1,
-        "profileHref": "/%E3%81%82%E3%82%80%E3%81%BE%E3%82%8B/2441575605",
+        "profileHref": "/players/%E3%81%82%E3%82%80%E3%81%BE%E3%82%8B-2441575605",
         "synced": false
       },
       "result": 1,
@@ -1415,9 +1427,11 @@
     },
     {
       "replayId": "DPBT7JTYK",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-u-1-psydj-DPBT7JTYK",
       "playedAt": "2026-09-09T14:29:26.000Z",
       "battleType": "Casual",
       "battleTypeId": 2,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -1437,7 +1451,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 11833,
-        "profileHref": "/u-1%E3%83%BBpsydj/3115754008",
+        "profileHref": "/players/u-1-psydj-3115754008",
         "synced": false
       },
       "result": 1,
@@ -1455,9 +1469,11 @@
     },
     {
       "replayId": "SGLJCDNVE",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-u-1-psydj-SGLJCDNVE",
       "playedAt": "2026-09-09T14:27:41.000Z",
       "battleType": "Casual",
       "battleTypeId": 2,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -1477,7 +1493,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 11833,
-        "profileHref": "/u-1%E3%83%BBpsydj/3115754008",
+        "profileHref": "/players/u-1-psydj-3115754008",
         "synced": false
       },
       "result": 1,
@@ -1495,9 +1511,11 @@
     },
     {
       "replayId": "LQW9TUWC9",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC-LQW9TUWC9",
       "playedAt": "2026-09-09T14:17:34.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -1517,7 +1535,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 13043,
-        "profileHref": "/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC",
+        "profileHref": "/players/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC-3434421732",
         "synced": true
       },
       "result": -1,
@@ -1535,9 +1553,11 @@
     },
     {
       "replayId": "H3BAFVWWM",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC-H3BAFVWWM",
       "playedAt": "2026-09-09T14:16:00.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -1557,7 +1577,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 13043,
-        "profileHref": "/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC",
+        "profileHref": "/players/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC-3434421732",
         "synced": true
       },
       "result": 1,
@@ -1575,9 +1595,11 @@
     },
     {
       "replayId": "WN6PFD3EH",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC-WN6PFD3EH",
       "playedAt": "2026-09-09T14:14:20.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -1597,7 +1619,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 13043,
-        "profileHref": "/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC",
+        "profileHref": "/players/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC-3434421732",
         "synced": true
       },
       "result": 1,
@@ -1617,9 +1639,11 @@
     },
     {
       "replayId": "WU75CDURV",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC-WU75CDURV",
       "playedAt": "2026-09-09T14:11:52.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -1639,7 +1663,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 13043,
-        "profileHref": "/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC",
+        "profileHref": "/players/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC-3434421732",
         "synced": true
       },
       "result": -1,
@@ -1659,9 +1683,11 @@
     },
     {
       "replayId": "RBVY3PLPB",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC-RBVY3PLPB",
       "playedAt": "2026-09-09T14:09:34.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -1681,7 +1707,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 13043,
-        "profileHref": "/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC",
+        "profileHref": "/players/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC-3434421732",
         "synced": true
       },
       "result": -1,
@@ -1699,9 +1725,11 @@
     },
     {
       "replayId": "APWGPDGU9",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC-APWGPDGU9",
       "playedAt": "2026-09-09T14:07:46.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -1721,7 +1749,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 13043,
-        "profileHref": "/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC",
+        "profileHref": "/players/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC-3434421732",
         "synced": true
       },
       "result": -1,
@@ -1741,9 +1769,11 @@
     },
     {
       "replayId": "CV4HXTHQH",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC-CV4HXTHQH",
       "playedAt": "2026-09-09T14:05:11.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -1763,7 +1793,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 13043,
-        "profileHref": "/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC",
+        "profileHref": "/players/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC-3434421732",
         "synced": true
       },
       "result": -1,
@@ -1783,9 +1813,11 @@
     },
     {
       "replayId": "QHYUYD8FY",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E3%81%84%E3%82%8F%E3%81%97-QHYUYD8FY",
       "playedAt": "2026-09-09T13:53:52.000Z",
       "battleType": "Casual",
       "battleTypeId": 2,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -1805,7 +1837,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": -1,
-        "profileHref": "/%E3%81%84%E3%82%8F%E3%81%97%EF%BC%9B",
+        "profileHref": "/players/%E3%81%84%E3%82%8F%E3%81%97-1449301579",
         "synced": true
       },
       "result": -1,
@@ -1825,9 +1857,11 @@
     },
     {
       "replayId": "WK4SQULCH",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E3%81%84%E3%82%8F%E3%81%97-WK4SQULCH",
       "playedAt": "2026-09-09T13:51:30.000Z",
       "battleType": "Casual",
       "battleTypeId": 2,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -1847,7 +1881,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": -1,
-        "profileHref": "/%E3%81%84%E3%82%8F%E3%81%97%EF%BC%9B",
+        "profileHref": "/players/%E3%81%84%E3%82%8F%E3%81%97-1449301579",
         "synced": true
       },
       "result": -1,
@@ -1865,9 +1899,11 @@
     },
     {
       "replayId": "B9VREPYEF",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E6%89%BF%E8%AB%BE-%E5%8F%AA%E6%9C%89%E6%84%9B%E7%9A%84%E6%99%82%E5%80%99%E6%89%8D%E7%AE%97%E6%95%B8-B9VREPYEF",
       "playedAt": "2026-09-09T13:48:24.000Z",
       "battleType": "Casual",
       "battleTypeId": 2,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -1887,7 +1923,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": -1,
-        "profileHref": "/%E6%89%BF%E8%AB%BE%20%E5%8F%AA%E6%9C%89%E6%84%9B%E7%9A%84%E6%99%82%E5%80%99%E6%89%8D%E7%AE%97%E6%95%B8",
+        "profileHref": "/players/%E6%89%BF%E8%AB%BE-%E5%8F%AA%E6%9C%89%E6%84%9B%E7%9A%84%E6%99%82%E5%80%99%E6%89%8D%E7%AE%97%E6%95%B8-2624899455",
         "synced": true
       },
       "result": -1,
@@ -1905,9 +1941,11 @@
     },
     {
       "replayId": "HDC883AQV",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E6%89%BF%E8%AB%BE-%E5%8F%AA%E6%9C%89%E6%84%9B%E7%9A%84%E6%99%82%E5%80%99%E6%89%8D%E7%AE%97%E6%95%B8-HDC883AQV",
       "playedAt": "2026-09-09T13:46:46.000Z",
       "battleType": "Casual",
       "battleTypeId": 2,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -1927,7 +1965,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": -1,
-        "profileHref": "/%E6%89%BF%E8%AB%BE%20%E5%8F%AA%E6%9C%89%E6%84%9B%E7%9A%84%E6%99%82%E5%80%99%E6%89%8D%E7%AE%97%E6%95%B8",
+        "profileHref": "/players/%E6%89%BF%E8%AB%BE-%E5%8F%AA%E6%9C%89%E6%84%9B%E7%9A%84%E6%99%82%E5%80%99%E6%89%8D%E7%AE%97%E6%95%B8-2624899455",
         "synced": true
       },
       "result": 1,
@@ -1947,9 +1985,11 @@
     },
     {
       "replayId": "XJEAMAJN4",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E6%89%BF%E8%AB%BE-%E5%8F%AA%E6%9C%89%E6%84%9B%E7%9A%84%E6%99%82%E5%80%99%E6%89%8D%E7%AE%97%E6%95%B8-XJEAMAJN4",
       "playedAt": "2026-09-09T13:43:59.000Z",
       "battleType": "Casual",
       "battleTypeId": 2,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -1969,7 +2009,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": -1,
-        "profileHref": "/%E6%89%BF%E8%AB%BE%20%E5%8F%AA%E6%9C%89%E6%84%9B%E7%9A%84%E6%99%82%E5%80%99%E6%89%8D%E7%AE%97%E6%95%B8",
+        "profileHref": "/players/%E6%89%BF%E8%AB%BE-%E5%8F%AA%E6%9C%89%E6%84%9B%E7%9A%84%E6%99%82%E5%80%99%E6%89%8D%E7%AE%97%E6%95%B8-2624899455",
         "synced": true
       },
       "result": -1,
@@ -1987,9 +2027,11 @@
     },
     {
       "replayId": "ASQMWFE7H",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E6%89%BF%E8%AB%BE-%E5%8F%AA%E6%9C%89%E6%84%9B%E7%9A%84%E6%99%82%E5%80%99%E6%89%8D%E7%AE%97%E6%95%B8-ASQMWFE7H",
       "playedAt": "2026-09-09T13:42:10.000Z",
       "battleType": "Casual",
       "battleTypeId": 2,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -2009,7 +2051,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": -1,
-        "profileHref": "/%E6%89%BF%E8%AB%BE%20%E5%8F%AA%E6%9C%89%E6%84%9B%E7%9A%84%E6%99%82%E5%80%99%E6%89%8D%E7%AE%97%E6%95%B8",
+        "profileHref": "/players/%E6%89%BF%E8%AB%BE-%E5%8F%AA%E6%9C%89%E6%84%9B%E7%9A%84%E6%99%82%E5%80%99%E6%89%8D%E7%AE%97%E6%95%B8-2624899455",
         "synced": true
       },
       "result": 1,
@@ -2029,9 +2071,11 @@
     },
     {
       "replayId": "5QQPXFC34",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E6%89%BF%E8%AB%BE-%E5%8F%AA%E6%9C%89%E6%84%9B%E7%9A%84%E6%99%82%E5%80%99%E6%89%8D%E7%AE%97%E6%95%B8-5QQPXFC34",
       "playedAt": "2026-09-09T13:39:25.000Z",
       "battleType": "Casual",
       "battleTypeId": 2,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -2051,7 +2095,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": -1,
-        "profileHref": "/%E6%89%BF%E8%AB%BE%20%E5%8F%AA%E6%9C%89%E6%84%9B%E7%9A%84%E6%99%82%E5%80%99%E6%89%8D%E7%AE%97%E6%95%B8",
+        "profileHref": "/players/%E6%89%BF%E8%AB%BE-%E5%8F%AA%E6%9C%89%E6%84%9B%E7%9A%84%E6%99%82%E5%80%99%E6%89%8D%E7%AE%97%E6%95%B8-2624899455",
         "synced": true
       },
       "result": -1,
@@ -2069,9 +2113,11 @@
     },
     {
       "replayId": "69TPCTVN5",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E5%8F%88%E6%96%AD%E8%BF%9E%E4%BA%86-69TPCTVN5",
       "playedAt": "2026-09-09T05:04:10.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -2091,7 +2137,7 @@
         "inputType": "Classic",
         "mr": 1607,
         "lp": 29081,
-        "profileHref": "/%E5%8F%88%E6%96%AD%E8%BF%9E%E4%BA%86%EF%BC%81",
+        "profileHref": "/players/%E5%8F%88%E6%96%AD%E8%BF%9E%E4%BA%86-1811281258",
         "synced": true
       },
       "result": -1,
@@ -2109,9 +2155,11 @@
     },
     {
       "replayId": "NMTW6GFQJ",
+      "replayHref": "/replays/nashi-vs-%E3%81%8B%E3%81%B1%E3%82%81-NMTW6GFQJ",
       "playedAt": "2026-09-09T04:29:24.000Z",
       "battleType": "Casual",
       "battleTypeId": 2,
+      "homeSide": 2,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -2131,7 +2179,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 22181,
-        "profileHref": "/nashi/3250938819",
+        "profileHref": "/players/nashi-3250938819",
         "synced": true
       },
       "result": 1,
@@ -2154,9 +2202,11 @@
     },
     {
       "replayId": "LMWCYQDM9",
+      "replayHref": "/replays/nashi-vs-%E3%81%8B%E3%81%B1%E3%82%81-LMWCYQDM9",
       "playedAt": "2026-09-09T04:27:47.000Z",
       "battleType": "Casual",
       "battleTypeId": 2,
+      "homeSide": 2,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -2176,7 +2226,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 22181,
-        "profileHref": "/nashi/3250938819",
+        "profileHref": "/players/nashi-3250938819",
         "synced": true
       },
       "result": 1,
@@ -2201,9 +2251,11 @@
     },
     {
       "replayId": "UHWPJAAYP",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E3%82%B7%E3%83%9E%E6%A8%AA%E6%B5%9C-%E5%8D%81%E5%AD%97%E3%82%AD%E3%83%BC%E6%AD%BB%E4%BA%A1%E3%83%A4%E3%83%8B%E7%8C%AB-UHWPJAAYP",
       "playedAt": "2026-09-08T18:10:02.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -2223,7 +2275,7 @@
         "inputType": "Modern",
         "mr": 1487,
         "lp": 52271,
-        "profileHref": "/%E3%82%B7%E3%83%9E%E6%A8%AA%E6%B5%9C%E3%80%80%E5%8D%81%E5%AD%97%E3%82%AD%E3%83%BC%E6%AD%BB%E4%BA%A1%E3%83%A4%E3%83%8B%E7%8C%AB",
+        "profileHref": "/players/%E3%82%B7%E3%83%9E%E6%A8%AA%E6%B5%9C-%E5%8D%81%E5%AD%97%E3%82%AD%E3%83%BC%E6%AD%BB%E4%BA%A1%E3%83%A4%E3%83%8B%E7%8C%AB-3452764755",
         "synced": true
       },
       "result": -1,
@@ -2241,9 +2293,11 @@
     },
     {
       "replayId": "4GC6DEPLA",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E3%82%B7%E3%83%9E%E6%A8%AA%E6%B5%9C-%E5%8D%81%E5%AD%97%E3%82%AD%E3%83%BC%E6%AD%BB%E4%BA%A1%E3%83%A4%E3%83%8B%E7%8C%AB-4GC6DEPLA",
       "playedAt": "2026-09-08T18:08:02.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -2263,7 +2317,7 @@
         "inputType": "Modern",
         "mr": 1487,
         "lp": 52271,
-        "profileHref": "/%E3%82%B7%E3%83%9E%E6%A8%AA%E6%B5%9C%E3%80%80%E5%8D%81%E5%AD%97%E3%82%AD%E3%83%BC%E6%AD%BB%E4%BA%A1%E3%83%A4%E3%83%8B%E7%8C%AB",
+        "profileHref": "/players/%E3%82%B7%E3%83%9E%E6%A8%AA%E6%B5%9C-%E5%8D%81%E5%AD%97%E3%82%AD%E3%83%BC%E6%AD%BB%E4%BA%A1%E3%83%A4%E3%83%8B%E7%8C%AB-3452764755",
         "synced": true
       },
       "result": -1,
@@ -2281,9 +2335,11 @@
     },
     {
       "replayId": "D5X353DPX",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E3%81%8D%E3%82%93%E3%81%AE%E3%81%9F%E3%81%BE%E3%81%8F-D5X353DPX",
       "playedAt": "2026-09-08T18:04:28.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -2303,7 +2359,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 24438,
-        "profileHref": "/%E3%81%8D%E3%82%93%E3%81%AE%E3%81%9F%E3%81%BE%E3%81%8F/2885052114",
+        "profileHref": "/players/%E3%81%8D%E3%82%93%E3%81%AE%E3%81%9F%E3%81%BE%E3%81%8F-2885052114",
         "synced": false
       },
       "result": -1,
@@ -2321,9 +2377,11 @@
     },
     {
       "replayId": "LDU7G8TKY",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E3%81%8D%E3%82%93%E3%81%AE%E3%81%9F%E3%81%BE%E3%81%8F-LDU7G8TKY",
       "playedAt": "2026-09-08T18:02:57.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -2343,7 +2401,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 24438,
-        "profileHref": "/%E3%81%8D%E3%82%93%E3%81%AE%E3%81%9F%E3%81%BE%E3%81%8F/2885052114",
+        "profileHref": "/players/%E3%81%8D%E3%82%93%E3%81%AE%E3%81%9F%E3%81%BE%E3%81%8F-2885052114",
         "synced": false
       },
       "result": -1,
@@ -2361,9 +2419,11 @@
     },
     {
       "replayId": "9TUGSLWB5",
+      "replayHref": "/replays/unkonow-vs-%E3%81%8B%E3%81%B1%E3%82%81-9TUGSLWB5",
       "playedAt": "2026-09-08T17:58:14.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 2,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -2383,7 +2443,7 @@
         "inputType": "Classic",
         "mr": 1500,
         "lp": 25046,
-        "profileHref": "/unkonow/3857916400",
+        "profileHref": "/players/unkonow-3857916400",
         "synced": true
       },
       "result": -1,
@@ -2401,9 +2461,11 @@
     },
     {
       "replayId": "S545AJRPR",
+      "replayHref": "/replays/%E3%81%8D%E3%82%8B%E3%81%9A%E3%82%86%E3%81%94-vs-%E3%81%8B%E3%81%B1%E3%82%81-S545AJRPR",
       "playedAt": "2026-09-08T17:52:52.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 2,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -2423,7 +2485,7 @@
         "inputType": "Classic",
         "mr": 1909,
         "lp": 345696,
-        "profileHref": "/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E8%A6%B3%E6%88%A6%E5%8B%A2%E3%82%86%E3%81%94",
+        "profileHref": "/players/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E8%A6%B3%E6%88%A6%E5%8B%A2%E3%82%86%E3%81%94-3085672272",
         "synced": true
       },
       "result": -1,
@@ -2441,9 +2503,11 @@
     },
     {
       "replayId": "38QDRTMF8",
+      "replayHref": "/replays/%E3%81%8D%E3%82%8B%E3%81%9A%E3%82%86%E3%81%94-vs-%E3%81%8B%E3%81%B1%E3%82%81-38QDRTMF8",
       "playedAt": "2026-09-08T17:51:15.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 2,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -2463,7 +2527,7 @@
         "inputType": "Classic",
         "mr": 1909,
         "lp": 345696,
-        "profileHref": "/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E8%A6%B3%E6%88%A6%E5%8B%A2%E3%82%86%E3%81%94",
+        "profileHref": "/players/%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AB%E8%A6%B3%E6%88%A6%E5%8B%A2%E3%82%86%E3%81%94-3085672272",
         "synced": true
       },
       "result": -1,
@@ -2481,9 +2545,11 @@
     },
     {
       "replayId": "AJJWW9Q4G",
+      "replayHref": "/replays/%E3%81%99%E3%81%AA%E3%81%8E%E3%82%82-vs-%E3%81%8B%E3%81%B1%E3%82%81-AJJWW9Q4G",
       "playedAt": "2026-09-08T17:48:33.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 2,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -2503,7 +2569,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 15965,
-        "profileHref": "/%E3%81%99%E3%81%AA%E3%81%8E%E3%82%82/1611650307",
+        "profileHref": "/players/%E3%81%99%E3%81%AA%E3%81%8E%E3%82%82-1611650307",
         "synced": true
       },
       "result": -1,
@@ -2521,9 +2587,11 @@
     },
     {
       "replayId": "8WP6HEXRK",
+      "replayHref": "/replays/%E3%81%99%E3%81%AA%E3%81%8E%E3%82%82-vs-%E3%81%8B%E3%81%B1%E3%82%81-8WP6HEXRK",
       "playedAt": "2026-09-08T17:46:27.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 2,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -2543,7 +2611,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 15965,
-        "profileHref": "/%E3%81%99%E3%81%AA%E3%81%8E%E3%82%82/1611650307",
+        "profileHref": "/players/%E3%81%99%E3%81%AA%E3%81%8E%E3%82%82-1611650307",
         "synced": true
       },
       "result": -1,
@@ -2561,9 +2629,11 @@
     },
     {
       "replayId": "F3VJQ3T5T",
+      "replayHref": "/replays/%E3%81%99%E3%81%AA%E3%81%8E%E3%82%82-vs-%E3%81%8B%E3%81%B1%E3%82%81-F3VJQ3T5T",
       "playedAt": "2026-09-08T17:44:40.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 2,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -2583,7 +2653,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 15965,
-        "profileHref": "/%E3%81%99%E3%81%AA%E3%81%8E%E3%82%82/1611650307",
+        "profileHref": "/players/%E3%81%99%E3%81%AA%E3%81%8E%E3%82%82-1611650307",
         "synced": true
       },
       "result": -1,
@@ -2601,9 +2671,11 @@
     },
     {
       "replayId": "G8UKF7TH7",
+      "replayHref": "/replays/%E3%81%99%E3%81%AA%E3%81%8E%E3%82%82-vs-%E3%81%8B%E3%81%B1%E3%82%81-G8UKF7TH7",
       "playedAt": "2026-09-08T17:42:57.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 2,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -2623,7 +2695,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 15965,
-        "profileHref": "/%E3%81%99%E3%81%AA%E3%81%8E%E3%82%82/1611650307",
+        "profileHref": "/players/%E3%81%99%E3%81%AA%E3%81%8E%E3%82%82-1611650307",
         "synced": true
       },
       "result": -1,
@@ -2641,9 +2713,11 @@
     },
     {
       "replayId": "P8RC5QBDF",
+      "replayHref": "/replays/%E3%81%99%E3%81%AA%E3%81%8E%E3%82%82-vs-%E3%81%8B%E3%81%B1%E3%82%81-P8RC5QBDF",
       "playedAt": "2026-09-08T17:40:58.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 2,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -2663,7 +2737,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 15965,
-        "profileHref": "/%E3%81%99%E3%81%AA%E3%81%8E%E3%82%82/1611650307",
+        "profileHref": "/players/%E3%81%99%E3%81%AA%E3%81%8E%E3%82%82-1611650307",
         "synced": true
       },
       "result": -1,
@@ -2681,9 +2755,11 @@
     },
     {
       "replayId": "6TXYFSGTA",
+      "replayHref": "/replays/%E3%81%99%E3%81%AA%E3%81%8E%E3%82%82-vs-%E3%81%8B%E3%81%B1%E3%82%81-6TXYFSGTA",
       "playedAt": "2026-09-08T17:38:46.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 2,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -2703,7 +2779,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 15965,
-        "profileHref": "/%E3%81%99%E3%81%AA%E3%81%8E%E3%82%82/1611650307",
+        "profileHref": "/players/%E3%81%99%E3%81%AA%E3%81%8E%E3%82%82-1611650307",
         "synced": true
       },
       "result": -1,
@@ -2721,9 +2797,11 @@
     },
     {
       "replayId": "MJ5B8BUSQ",
+      "replayHref": "/replays/%E3%81%99%E3%81%AA%E3%81%8E%E3%82%82-vs-%E3%81%8B%E3%81%B1%E3%82%81-MJ5B8BUSQ",
       "playedAt": "2026-09-08T17:37:11.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 2,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -2743,7 +2821,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 15965,
-        "profileHref": "/%E3%81%99%E3%81%AA%E3%81%8E%E3%82%82/1611650307",
+        "profileHref": "/players/%E3%81%99%E3%81%AA%E3%81%8E%E3%82%82-1611650307",
         "synced": true
       },
       "result": -1,
@@ -2761,9 +2839,11 @@
     },
     {
       "replayId": "ERHQD6T3K",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E3%81%84%E3%81%91%E3%81%A1-ERHQD6T3K",
       "playedAt": "2026-09-08T17:33:18.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -2783,7 +2863,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 25015,
-        "profileHref": "/%E3%81%84%E3%81%91%E3%81%A1%E3%80%82/3787922592",
+        "profileHref": "/players/%E3%81%84%E3%81%91%E3%81%A1-3787922592",
         "synced": false
       },
       "result": -1,
@@ -2801,9 +2881,11 @@
     },
     {
       "replayId": "35P3WE8EA",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E3%81%84%E3%81%91%E3%81%A1-35P3WE8EA",
       "playedAt": "2026-09-08T17:32:07.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -2823,7 +2905,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 25015,
-        "profileHref": "/%E3%81%84%E3%81%91%E3%81%A1%E3%80%82/3787922592",
+        "profileHref": "/players/%E3%81%84%E3%81%91%E3%81%A1-3787922592",
         "synced": false
       },
       "result": -1,
@@ -2841,9 +2923,11 @@
     },
     {
       "replayId": "CWFACD7AN",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E5%B1%81%E7%A5%9E%E5%B1%81%E9%9C%B8%E5%B1%81%E5%B1%81%E9%85%B1-CWFACD7AN",
       "playedAt": "2026-09-08T17:19:30.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -2863,7 +2947,7 @@
         "inputType": "Modern",
         "mr": 0,
         "lp": 19000,
-        "profileHref": "/%E5%B1%81%E7%A5%9E%E5%B1%81%E9%9C%B8%E5%B1%81%E5%B1%81%E9%85%B1",
+        "profileHref": "/players/%E5%B1%81%E7%A5%9E%E5%B1%81%E9%9C%B8%E5%B1%81%E5%B1%81%E9%85%B1-2072169222",
         "synced": true
       },
       "result": -1,
@@ -2881,9 +2965,11 @@
     },
     {
       "replayId": "YQHGMRKLK",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E5%B1%81%E7%A5%9E%E5%B1%81%E9%9C%B8%E5%B1%81%E5%B1%81%E9%85%B1-YQHGMRKLK",
       "playedAt": "2026-09-08T17:17:41.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -2903,7 +2989,7 @@
         "inputType": "Modern",
         "mr": 0,
         "lp": 19000,
-        "profileHref": "/%E5%B1%81%E7%A5%9E%E5%B1%81%E9%9C%B8%E5%B1%81%E5%B1%81%E9%85%B1",
+        "profileHref": "/players/%E5%B1%81%E7%A5%9E%E5%B1%81%E9%9C%B8%E5%B1%81%E5%B1%81%E9%85%B1-2072169222",
         "synced": true
       },
       "result": -1,
@@ -2923,9 +3009,11 @@
     },
     {
       "replayId": "QF9XJ3RQB",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E5%B1%81%E7%A5%9E%E5%B1%81%E9%9C%B8%E5%B1%81%E5%B1%81%E9%85%B1-QF9XJ3RQB",
       "playedAt": "2026-09-08T17:15:03.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -2945,7 +3033,7 @@
         "inputType": "Modern",
         "mr": 0,
         "lp": 19000,
-        "profileHref": "/%E5%B1%81%E7%A5%9E%E5%B1%81%E9%9C%B8%E5%B1%81%E5%B1%81%E9%85%B1",
+        "profileHref": "/players/%E5%B1%81%E7%A5%9E%E5%B1%81%E9%9C%B8%E5%B1%81%E5%B1%81%E9%85%B1-2072169222",
         "synced": true
       },
       "result": -1,
@@ -2963,9 +3051,11 @@
     },
     {
       "replayId": "X8A5CEVKG",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E5%B1%81%E7%A5%9E%E5%B1%81%E9%9C%B8%E5%B1%81%E5%B1%81%E9%85%B1-X8A5CEVKG",
       "playedAt": "2026-09-08T17:13:07.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -2985,7 +3075,7 @@
         "inputType": "Modern",
         "mr": 0,
         "lp": 19000,
-        "profileHref": "/%E5%B1%81%E7%A5%9E%E5%B1%81%E9%9C%B8%E5%B1%81%E5%B1%81%E9%85%B1",
+        "profileHref": "/players/%E5%B1%81%E7%A5%9E%E5%B1%81%E9%9C%B8%E5%B1%81%E5%B1%81%E9%85%B1-2072169222",
         "synced": true
       },
       "result": 1,
@@ -3003,9 +3093,11 @@
     },
     {
       "replayId": "PVSJHM9N6",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E5%B1%81%E7%A5%9E%E5%B1%81%E9%9C%B8%E5%B1%81%E5%B1%81%E9%85%B1-PVSJHM9N6",
       "playedAt": "2026-09-08T17:11:28.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -3025,7 +3117,7 @@
         "inputType": "Modern",
         "mr": 0,
         "lp": 19000,
-        "profileHref": "/%E5%B1%81%E7%A5%9E%E5%B1%81%E9%9C%B8%E5%B1%81%E5%B1%81%E9%85%B1",
+        "profileHref": "/players/%E5%B1%81%E7%A5%9E%E5%B1%81%E9%9C%B8%E5%B1%81%E5%B1%81%E9%85%B1-2072169222",
         "synced": true
       },
       "result": 1,
@@ -3045,9 +3137,11 @@
     },
     {
       "replayId": "RVYVW4LGU",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E5%B1%81%E7%A5%9E%E5%B1%81%E9%9C%B8%E5%B1%81%E5%B1%81%E9%85%B1-RVYVW4LGU",
       "playedAt": "2026-09-08T17:08:46.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -3067,7 +3161,7 @@
         "inputType": "Modern",
         "mr": 0,
         "lp": 19000,
-        "profileHref": "/%E5%B1%81%E7%A5%9E%E5%B1%81%E9%9C%B8%E5%B1%81%E5%B1%81%E9%85%B1",
+        "profileHref": "/players/%E5%B1%81%E7%A5%9E%E5%B1%81%E9%9C%B8%E5%B1%81%E5%B1%81%E9%85%B1-2072169222",
         "synced": true
       },
       "result": 1,
@@ -3085,9 +3179,11 @@
     },
     {
       "replayId": "LXAGSVABQ",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E3%81%BC%E3%81%93%E3%82%89-%E3%83%AC-%E3%83%90%E3%83%B3%E3%83%8A-LXAGSVABQ",
       "playedAt": "2026-09-08T16:48:15.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -3107,7 +3203,7 @@
         "inputType": "Classic",
         "mr": 1500,
         "lp": 43110,
-        "profileHref": "/%E3%81%BC%E3%81%93%E3%82%89%E3%80%80%E3%83%AC%E3%80%80%E3%83%90%E3%83%B3%E3%83%8A/2252442802",
+        "profileHref": "/players/%E3%81%BC%E3%81%93%E3%82%89-%E3%83%AC-%E3%83%90%E3%83%B3%E3%83%8A-2252442802",
         "synced": false
       },
       "result": -1,
@@ -3125,9 +3221,11 @@
     },
     {
       "replayId": "4SF3QUHKG",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E3%81%BC%E3%81%93%E3%82%89-%E3%83%AC-%E3%83%90%E3%83%B3%E3%83%8A-4SF3QUHKG",
       "playedAt": "2026-09-08T16:46:26.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -3147,7 +3245,7 @@
         "inputType": "Classic",
         "mr": 1500,
         "lp": 43110,
-        "profileHref": "/%E3%81%BC%E3%81%93%E3%82%89%E3%80%80%E3%83%AC%E3%80%80%E3%83%90%E3%83%B3%E3%83%8A/2252442802",
+        "profileHref": "/players/%E3%81%BC%E3%81%93%E3%82%89-%E3%83%AC-%E3%83%90%E3%83%B3%E3%83%8A-2252442802",
         "synced": false
       },
       "result": -1,
@@ -3165,9 +3263,11 @@
     },
     {
       "replayId": "FE7JFRSWF",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-neo-FE7JFRSWF",
       "playedAt": "2026-09-08T16:31:22.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -3187,7 +3287,7 @@
         "inputType": "Modern",
         "mr": 0,
         "lp": 6626,
-        "profileHref": "/%E2%9C%BF%E2%93%83%E2%92%BA%E2%93%84%E2%9C%BF",
+        "profileHref": "/players/neo-3990114445",
         "synced": true
       },
       "result": -1,
@@ -3205,9 +3305,11 @@
     },
     {
       "replayId": "DXGB756CV",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-neo-DXGB756CV",
       "playedAt": "2026-09-08T16:29:17.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -3227,7 +3329,7 @@
         "inputType": "Modern",
         "mr": 0,
         "lp": 6626,
-        "profileHref": "/%E2%9C%BF%E2%93%83%E2%92%BA%E2%93%84%E2%9C%BF",
+        "profileHref": "/players/neo-3990114445",
         "synced": true
       },
       "result": -1,
@@ -3247,9 +3349,11 @@
     },
     {
       "replayId": "9CT7P7RVV",
+      "replayHref": "/replays/naporitan-vs-%E3%81%8B%E3%81%B1%E3%82%81-9CT7P7RVV",
       "playedAt": "2026-09-08T16:18:38.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 2,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -3269,7 +3373,7 @@
         "inputType": "Classic",
         "mr": 1608,
         "lp": 105254,
-        "profileHref": "/Naporitan",
+        "profileHref": "/players/naporitan-3008680823",
         "synced": true
       },
       "result": -1,
@@ -3287,9 +3391,11 @@
     },
     {
       "replayId": "4DUAXEBA4",
+      "replayHref": "/replays/naporitan-vs-%E3%81%8B%E3%81%B1%E3%82%81-4DUAXEBA4",
       "playedAt": "2026-09-08T16:17:32.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 2,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -3309,7 +3415,7 @@
         "inputType": "Classic",
         "mr": 1608,
         "lp": 105254,
-        "profileHref": "/Naporitan",
+        "profileHref": "/players/naporitan-3008680823",
         "synced": true
       },
       "result": -1,
@@ -3327,9 +3433,11 @@
     },
     {
       "replayId": "SDYU33BCY",
+      "replayHref": "/replays/naporitan-vs-%E3%81%8B%E3%81%B1%E3%82%81-SDYU33BCY",
       "playedAt": "2026-09-08T16:16:16.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 2,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -3349,7 +3457,7 @@
         "inputType": "Classic",
         "mr": 1608,
         "lp": 105254,
-        "profileHref": "/Naporitan",
+        "profileHref": "/players/naporitan-3008680823",
         "synced": true
       },
       "result": -1,
@@ -3367,9 +3475,11 @@
     },
     {
       "replayId": "3YKFCG79B",
+      "replayHref": "/replays/naporitan-vs-%E3%81%8B%E3%81%B1%E3%82%81-3YKFCG79B",
       "playedAt": "2026-09-08T16:15:13.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 2,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -3389,7 +3499,7 @@
         "inputType": "Classic",
         "mr": 1608,
         "lp": 105254,
-        "profileHref": "/Naporitan",
+        "profileHref": "/players/naporitan-3008680823",
         "synced": true
       },
       "result": -1,
@@ -3407,9 +3517,11 @@
     },
     {
       "replayId": "4MY5BG55K",
+      "replayHref": "/replays/naporitan-vs-%E3%81%8B%E3%81%B1%E3%82%81-4MY5BG55K",
       "playedAt": "2026-09-08T16:13:56.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 2,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -3429,7 +3541,7 @@
         "inputType": "Classic",
         "mr": 1608,
         "lp": 105254,
-        "profileHref": "/Naporitan",
+        "profileHref": "/players/naporitan-3008680823",
         "synced": true
       },
       "result": -1,
@@ -3452,9 +3564,11 @@
     },
     {
       "replayId": "H5WXRLH4U",
+      "replayHref": "/replays/naporitan-vs-%E3%81%8B%E3%81%B1%E3%82%81-H5WXRLH4U",
       "playedAt": "2026-09-08T16:12:30.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 2,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -3474,7 +3588,7 @@
         "inputType": "Classic",
         "mr": 1608,
         "lp": 105254,
-        "profileHref": "/Naporitan",
+        "profileHref": "/players/naporitan-3008680823",
         "synced": true
       },
       "result": -1,
@@ -3492,9 +3606,11 @@
     },
     {
       "replayId": "X8MEHRHAH",
+      "replayHref": "/replays/naporitan-vs-%E3%81%8B%E3%81%B1%E3%82%81-X8MEHRHAH",
       "playedAt": "2026-09-08T16:10:54.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 2,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -3514,7 +3630,7 @@
         "inputType": "Classic",
         "mr": 1608,
         "lp": 105254,
-        "profileHref": "/Naporitan",
+        "profileHref": "/players/naporitan-3008680823",
         "synced": true
       },
       "result": -1,
@@ -3532,9 +3648,11 @@
     },
     {
       "replayId": "GHEBD767H",
+      "replayHref": "/replays/naporitan-vs-%E3%81%8B%E3%81%B1%E3%82%81-GHEBD767H",
       "playedAt": "2026-09-08T16:09:32.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 2,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -3554,7 +3672,7 @@
         "inputType": "Classic",
         "mr": 1608,
         "lp": 105254,
-        "profileHref": "/Naporitan",
+        "profileHref": "/players/naporitan-3008680823",
         "synced": true
       },
       "result": -1,
@@ -3572,9 +3690,11 @@
     },
     {
       "replayId": "DATJPXDPF",
+      "replayHref": "/replays/naporitan-vs-%E3%81%8B%E3%81%B1%E3%82%81-DATJPXDPF",
       "playedAt": "2026-09-08T16:08:33.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 2,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -3594,7 +3714,7 @@
         "inputType": "Classic",
         "mr": 1608,
         "lp": 105254,
-        "profileHref": "/Naporitan",
+        "profileHref": "/players/naporitan-3008680823",
         "synced": true
       },
       "result": -1,
@@ -3612,9 +3732,11 @@
     },
     {
       "replayId": "HFCDLTYA6",
+      "replayHref": "/replays/naporitan-vs-%E3%81%8B%E3%81%B1%E3%82%81-HFCDLTYA6",
       "playedAt": "2026-09-08T16:07:27.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 2,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -3634,7 +3756,7 @@
         "inputType": "Classic",
         "mr": 1608,
         "lp": 105254,
-        "profileHref": "/Naporitan",
+        "profileHref": "/players/naporitan-3008680823",
         "synced": true
       },
       "result": -1,
@@ -3652,9 +3774,11 @@
     },
     {
       "replayId": "H56TF3SVV",
+      "replayHref": "/replays/naporitan-vs-%E3%81%8B%E3%81%B1%E3%82%81-H56TF3SVV",
       "playedAt": "2026-09-08T16:06:24.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 2,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -3674,7 +3798,7 @@
         "inputType": "Classic",
         "mr": 1608,
         "lp": 105254,
-        "profileHref": "/Naporitan",
+        "profileHref": "/players/naporitan-3008680823",
         "synced": true
       },
       "result": -1,
@@ -3692,9 +3816,11 @@
     },
     {
       "replayId": "VS8SSAMAX",
+      "replayHref": "/replays/naporitan-vs-%E3%81%8B%E3%81%B1%E3%82%81-VS8SSAMAX",
       "playedAt": "2026-09-08T16:05:00.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 2,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -3714,7 +3840,7 @@
         "inputType": "Classic",
         "mr": 1608,
         "lp": 105254,
-        "profileHref": "/Naporitan",
+        "profileHref": "/players/naporitan-3008680823",
         "synced": true
       },
       "result": -1,
@@ -3732,9 +3858,11 @@
     },
     {
       "replayId": "7C8HWUC3G",
+      "replayHref": "/replays/naporitan-vs-%E3%81%8B%E3%81%B1%E3%82%81-7C8HWUC3G",
       "playedAt": "2026-09-08T16:03:54.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 2,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -3754,7 +3882,7 @@
         "inputType": "Classic",
         "mr": 1608,
         "lp": 105254,
-        "profileHref": "/Naporitan",
+        "profileHref": "/players/naporitan-3008680823",
         "synced": true
       },
       "result": -1,
@@ -3774,9 +3902,11 @@
     },
     {
       "replayId": "QR7S47TAW",
+      "replayHref": "/replays/naporitan-vs-%E3%81%8B%E3%81%B1%E3%82%81-QR7S47TAW",
       "playedAt": "2026-09-08T16:01:29.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 2,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -3796,7 +3926,7 @@
         "inputType": "Classic",
         "mr": 1608,
         "lp": 105254,
-        "profileHref": "/Naporitan",
+        "profileHref": "/players/naporitan-3008680823",
         "synced": true
       },
       "result": -1,
@@ -3814,9 +3944,11 @@
     },
     {
       "replayId": "E64UCYU9G",
+      "replayHref": "/replays/naporitan-vs-%E3%81%8B%E3%81%B1%E3%82%81-E64UCYU9G",
       "playedAt": "2026-09-08T15:59:51.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 2,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -3836,7 +3968,7 @@
         "inputType": "Classic",
         "mr": 1608,
         "lp": 105254,
-        "profileHref": "/Naporitan",
+        "profileHref": "/players/naporitan-3008680823",
         "synced": true
       },
       "result": -1,
@@ -3854,9 +3986,11 @@
     },
     {
       "replayId": "P7RFJ9U6Q",
+      "replayHref": "/replays/naporitan-vs-%E3%81%8B%E3%81%B1%E3%82%81-P7RFJ9U6Q",
       "playedAt": "2026-09-08T15:58:01.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 2,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -3876,7 +4010,7 @@
         "inputType": "Classic",
         "mr": 1608,
         "lp": 105254,
-        "profileHref": "/Naporitan",
+        "profileHref": "/players/naporitan-3008680823",
         "synced": true
       },
       "result": -1,
@@ -3894,9 +4028,11 @@
     },
     {
       "replayId": "KP8QH57HS",
+      "replayHref": "/replays/naporitan-vs-%E3%81%8B%E3%81%B1%E3%82%81-KP8QH57HS",
       "playedAt": "2026-09-08T15:56:19.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 2,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -3916,7 +4052,7 @@
         "inputType": "Classic",
         "mr": 1608,
         "lp": 105254,
-        "profileHref": "/Naporitan",
+        "profileHref": "/players/naporitan-3008680823",
         "synced": true
       },
       "result": -1,
@@ -3934,9 +4070,11 @@
     },
     {
       "replayId": "GAFXE558H",
+      "replayHref": "/replays/naporitan-vs-%E3%81%8B%E3%81%B1%E3%82%81-GAFXE558H",
       "playedAt": "2026-09-08T15:55:11.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 2,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -3956,7 +4094,7 @@
         "inputType": "Classic",
         "mr": 1608,
         "lp": 105254,
-        "profileHref": "/Naporitan",
+        "profileHref": "/players/naporitan-3008680823",
         "synced": true
       },
       "result": -1,
@@ -3979,9 +4117,11 @@
     },
     {
       "replayId": "QBCS6F63Q",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-neo-QBCS6F63Q",
       "playedAt": "2026-09-08T15:29:30.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -4001,7 +4141,7 @@
         "inputType": "Modern",
         "mr": 0,
         "lp": 21926,
-        "profileHref": "/%E2%9C%BF%E2%93%83%E2%92%BA%E2%93%84%E2%9C%BF",
+        "profileHref": "/players/neo-3990114445",
         "synced": true
       },
       "result": -1,
@@ -4019,9 +4159,11 @@
     },
     {
       "replayId": "JT7YA55PC",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-neo-JT7YA55PC",
       "playedAt": "2026-09-08T15:28:19.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -4041,7 +4183,7 @@
         "inputType": "Modern",
         "mr": 0,
         "lp": 21926,
-        "profileHref": "/%E2%9C%BF%E2%93%83%E2%92%BA%E2%93%84%E2%9C%BF",
+        "profileHref": "/players/neo-3990114445",
         "synced": true
       },
       "result": -1,
@@ -4059,9 +4201,11 @@
     },
     {
       "replayId": "NFPE57VXA",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-neo-NFPE57VXA",
       "playedAt": "2026-09-08T15:26:56.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -4081,7 +4225,7 @@
         "inputType": "Modern",
         "mr": 0,
         "lp": 21926,
-        "profileHref": "/%E2%9C%BF%E2%93%83%E2%92%BA%E2%93%84%E2%9C%BF",
+        "profileHref": "/players/neo-3990114445",
         "synced": true
       },
       "result": -1,
@@ -4099,9 +4243,11 @@
     },
     {
       "replayId": "TWCSS65BQ",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-neo-TWCSS65BQ",
       "playedAt": "2026-09-08T15:25:13.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -4121,7 +4267,7 @@
         "inputType": "Modern",
         "mr": 0,
         "lp": 21926,
-        "profileHref": "/%E2%9C%BF%E2%93%83%E2%92%BA%E2%93%84%E2%9C%BF",
+        "profileHref": "/players/neo-3990114445",
         "synced": true
       },
       "result": -1,
@@ -4139,9 +4285,11 @@
     },
     {
       "replayId": "CPU8WCRF7",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E3%82%A8%E3%83%AB-%E3%83%97%E3%82%B5%E3%82%A4-%E3%81%86%E3%81%9D%E3%81%B4%E3%83%AB%E3%82%A5-pc-CPU8WCRF7",
       "playedAt": "2026-09-08T15:11:52.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -4161,7 +4309,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 13053,
-        "profileHref": "/%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%97%E3%82%B5%E3%82%A4%E3%83%BB%E3%81%86%E3%81%9D%E3%81%B4%E3%83%AB%E3%82%A5_pc/3672801202",
+        "profileHref": "/players/%E3%82%A8%E3%83%AB-%E3%83%97%E3%82%B5%E3%82%A4-%E3%81%86%E3%81%9D%E3%81%B4%E3%83%AB%E3%82%A5-pc-3672801202",
         "synced": false
       },
       "result": -1,
@@ -4181,9 +4329,11 @@
     },
     {
       "replayId": "H46GKJXTP",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E3%82%A8%E3%83%AB-%E3%83%97%E3%82%B5%E3%82%A4-%E3%81%86%E3%81%9D%E3%81%B4%E3%83%AB%E3%82%A5-pc-H46GKJXTP",
       "playedAt": "2026-09-08T15:08:52.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -4203,7 +4353,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 13053,
-        "profileHref": "/%E3%82%A8%E3%83%AB%E3%83%BB%E3%83%97%E3%82%B5%E3%82%A4%E3%83%BB%E3%81%86%E3%81%9D%E3%81%B4%E3%83%AB%E3%82%A5_pc/3672801202",
+        "profileHref": "/players/%E3%82%A8%E3%83%AB-%E3%83%97%E3%82%B5%E3%82%A4-%E3%81%86%E3%81%9D%E3%81%B4%E3%83%AB%E3%82%A5-pc-3672801202",
         "synced": false
       },
       "result": -1,
@@ -4221,9 +4371,11 @@
     },
     {
       "replayId": "SWL6XFCVE",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC-SWL6XFCVE",
       "playedAt": "2026-09-08T14:59:58.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -4243,7 +4395,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 13043,
-        "profileHref": "/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC",
+        "profileHref": "/players/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC-3434421732",
         "synced": true
       },
       "result": -1,
@@ -4263,9 +4415,11 @@
     },
     {
       "replayId": "REBWLRXAP",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC-REBWLRXAP",
       "playedAt": "2026-09-08T14:57:27.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -4285,7 +4439,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 13043,
-        "profileHref": "/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC",
+        "profileHref": "/players/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC-3434421732",
         "synced": true
       },
       "result": -1,
@@ -4303,9 +4457,11 @@
     },
     {
       "replayId": "6TEVLU7HR",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC-6TEVLU7HR",
       "playedAt": "2026-09-08T14:56:09.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -4325,7 +4481,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 13043,
-        "profileHref": "/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC",
+        "profileHref": "/players/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC-3434421732",
         "synced": true
       },
       "result": -1,
@@ -4343,9 +4499,11 @@
     },
     {
       "replayId": "LACMRV4D5",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC-LACMRV4D5",
       "playedAt": "2026-09-08T14:54:09.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -4365,7 +4523,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 13043,
-        "profileHref": "/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC",
+        "profileHref": "/players/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC-3434421732",
         "synced": true
       },
       "result": -1,
@@ -4390,9 +4548,11 @@
     },
     {
       "replayId": "L93QX74YE",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC-L93QX74YE",
       "playedAt": "2026-09-08T14:52:05.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -4412,7 +4572,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 13043,
-        "profileHref": "/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC",
+        "profileHref": "/players/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC-3434421732",
         "synced": true
       },
       "result": -1,
@@ -4430,9 +4590,11 @@
     },
     {
       "replayId": "AXN7L9UYD",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC-AXN7L9UYD",
       "playedAt": "2026-09-08T14:50:13.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -4452,7 +4614,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 13043,
-        "profileHref": "/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC",
+        "profileHref": "/players/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC-3434421732",
         "synced": true
       },
       "result": -1,
@@ -4470,9 +4632,11 @@
     },
     {
       "replayId": "XPGHLG9QX",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC-XPGHLG9QX",
       "playedAt": "2026-09-08T14:48:41.000Z",
       "battleType": "Battle Hub",
       "battleTypeId": 3,
+      "homeSide": 1,
       "home": {
         "fighterId": "1122738358",
         "name": "かぱめ。",
@@ -4492,7 +4656,7 @@
         "inputType": "Classic",
         "mr": 0,
         "lp": 13043,
-        "profileHref": "/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC",
+        "profileHref": "/players/%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC-3434421732",
         "synced": true
       },
       "result": -1,
@@ -5169,7 +5333,7 @@
           }
         ],
         "rankedGames": 18086,
-        "profileHref": "/fumi39dc_pc"
+        "profileHref": "/players/fumi39dc-pc-3026932565"
       },
       {
         "shortId": "1321583500",
@@ -5295,7 +5459,7 @@
           }
         ],
         "rankedGames": 31720,
-        "profileHref": "/pc-jieba5512"
+        "profileHref": "/players/pc-jieba5512-1321583500"
       },
       {
         "shortId": "3623007729",
@@ -5421,7 +5585,7 @@
           }
         ],
         "rankedGames": 73726,
-        "profileHref": "/2BASSA/3623007729"
+        "profileHref": "/players/2bassa-3623007729"
       },
       {
         "shortId": "2827969522",
@@ -5547,7 +5711,7 @@
           }
         ],
         "rankedGames": 49601,
-        "profileHref": "/Tradz%20baruji"
+        "profileHref": "/players/tradz-baruji-2827969522"
       },
       {
         "shortId": "1497476764",
@@ -5673,7 +5837,7 @@
           }
         ],
         "rankedGames": 37884,
-        "profileHref": "/%E2%80%A0%E5%8D%8D%E2%99%A8%E2%99%A8%E5%8D%8D%E2%80%A0%EF%BD%9C%E3%81%AC%E3%83%BC%E3%81%A9%E3%82%8B%EF%BC%88%E6%9C%AC%E4%BA%BA%EF%BC%89"
+        "profileHref": "/players/%E5%8D%8D-%E5%8D%8D-%E3%81%AC%E3%83%BC%E3%81%A9%E3%82%8B-%E6%9C%AC%E4%BA%BA-1497476764"
       }
     ],
     "rows": [
