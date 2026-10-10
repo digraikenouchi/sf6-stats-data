@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T12:00:32.418Z",
+  "generatedAt": "2026-10-10T18:00:39.250Z",
   "matchDataUpdatedAt": "2026-09-14T12:12:05.675Z",
   "fighter": {
     "id": "1122738358",
@@ -51,7 +51,7 @@
         "diff": -19,
         "winRate": 8.695652173913043
       },
-      "communityWinRate": 42.9
+      "communityWinRate": 48.8
     },
     {
       "homeCharacterId": 9,
@@ -85,7 +85,7 @@
         "diff": -8,
         "winRate": 0
       },
-      "communityWinRate": 57.7
+      "communityWinRate": 47.6
     },
     {
       "homeCharacterId": 9,
@@ -102,7 +102,7 @@
         "diff": 0,
         "winRate": 50
       },
-      "communityWinRate": 57.7
+      "communityWinRate": 47.6
     },
     {
       "homeCharacterId": 9,
@@ -119,7 +119,7 @@
         "diff": 1,
         "winRate": 60
       },
-      "communityWinRate": 43.5
+      "communityWinRate": 53.1
     },
     {
       "homeCharacterId": 9,
@@ -136,7 +136,7 @@
         "diff": -4,
         "winRate": 0
       },
-      "communityWinRate": 35.8
+      "communityWinRate": 47.6
     },
     {
       "homeCharacterId": 9,
@@ -153,7 +153,7 @@
         "diff": -1,
         "winRate": 33.33333333333333
       },
-      "communityWinRate": 38.6
+      "communityWinRate": 49.1
     },
     {
       "homeCharacterId": 9,
@@ -170,7 +170,7 @@
         "diff": 2,
         "winRate": 100
       },
-      "communityWinRate": 50
+      "communityWinRate": 51.1
     },
     {
       "homeCharacterId": 9,
@@ -187,7 +187,7 @@
         "diff": 2,
         "winRate": 100
       },
-      "communityWinRate": 47.5
+      "communityWinRate": 47.9
     },
     {
       "homeCharacterId": 9,
@@ -204,7 +204,7 @@
         "diff": -2,
         "winRate": 0
       },
-      "communityWinRate": 49.7
+      "communityWinRate": 53.9
     },
     {
       "homeCharacterId": 9,
@@ -221,7 +221,7 @@
         "diff": -2,
         "winRate": 0
       },
-      "communityWinRate": 48.3
+      "communityWinRate": 50.8
     },
     {
       "homeCharacterId": 9,
@@ -238,7 +238,7 @@
         "diff": -2,
         "winRate": 0
       },
-      "communityWinRate": 46.8
+      "communityWinRate": 50
     },
     {
       "homeCharacterId": 9,
@@ -255,7 +255,7 @@
         "diff": -2,
         "winRate": 0
       },
-      "communityWinRate": 44
+      "communityWinRate": 51.8
     },
     {
       "homeCharacterId": 9,
