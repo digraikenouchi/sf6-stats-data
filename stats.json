@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T12:00:54.757Z",
+  "generatedAt": "2026-10-28T18:00:54.448Z",
   "matchDataUpdatedAt": "2026-09-14T12:12:05.675Z",
   "fighter": {
     "id": "1122738358",
@@ -34,6 +34,7 @@
     "diff": -52,
     "winRate": 18.29268292682927
   },
+  "standings": null,
   "matchCount": 82,
   "matchups": [
     {
