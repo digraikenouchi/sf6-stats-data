@@ -1,0 +1,333 @@
+{
+  "fighterId": "3942698959",
+  "name": "hachiware",
+  "lastSeenAt": "2026-11-12T13:27:56.000Z",
+  "fetchedAt": "2026-11-12T18:00:38.975Z",
+  "synchronizedAt": null,
+  "stats": {
+    "generatedAt": "2026-11-12T18:00:38.863Z",
+    "matchDataUpdatedAt": "2026-11-12T13:36:18.907Z",
+    "fighter": {
+      "id": "3942698959",
+      "name": "hachiware",
+      "profileHref": "/players/hachiware-3942698959",
+      "mainCharacterId": 16,
+      "mainCharacter": "Juri",
+      "mostPlayedCharacterId": 34,
+      "mostPlayedCharacter": "Arjun",
+      "favoriteCharacterId": null,
+      "synchronizedAt": null,
+      "leagues": []
+    },
+    "summary": {
+      "wins": 0,
+      "losses": 4,
+      "draws": 0,
+      "total": 4,
+      "diff": -4,
+      "winRate": 0
+    },
+    "standings": null,
+    "matchCount": 4,
+    "matchups": [
+      {
+        "homeCharacterId": 34,
+        "homeCharacter": "Arjun",
+        "characterId": 9,
+        "character": "Cammy",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 0,
+          "losses": 4,
+          "draws": 0,
+          "total": 4,
+          "diff": -4,
+          "winRate": 0
+        },
+        "communityWinRate": 54.3
+      }
+    ],
+    "communityMatchupsMonth": "202610",
+    "playedCharacters": [
+      {
+        "characterId": 34,
+        "character": "Arjun",
+        "games": 4
+      }
+    ],
+    "rivals": {
+      "favorites": [
+        {
+          "fighterId": "1122738358",
+          "name": "かぱめ。",
+          "characterId": 9,
+          "character": "Cammy",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 0,
+            "losses": 4,
+            "draws": 0,
+            "total": 4,
+            "diff": -4,
+            "winRate": 0
+          },
+          "synced": true,
+          "profileHref": "/players/%E3%81%8B%E3%81%B1%E3%82%81-1122738358"
+        }
+      ],
+      "victims": [
+        {
+          "fighterId": "1122738358",
+          "name": "かぱめ。",
+          "characterId": 9,
+          "character": "Cammy",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 0,
+            "losses": 4,
+            "draws": 0,
+            "total": 4,
+            "diff": -4,
+            "winRate": 0
+          },
+          "synced": true,
+          "profileHref": "/players/%E3%81%8B%E3%81%B1%E3%82%81-1122738358"
+        }
+      ],
+      "tormentors": [
+        {
+          "fighterId": "1122738358",
+          "name": "かぱめ。",
+          "characterId": 9,
+          "character": "Cammy",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 0,
+            "losses": 4,
+            "draws": 0,
+            "total": 4,
+            "diff": -4,
+            "winRate": 0
+          },
+          "synced": true,
+          "profileHref": "/players/%E3%81%8B%E3%81%B1%E3%82%81-1122738358"
+        }
+      ]
+    },
+    "rankedHistory": [],
+    "rankedHistoryMeta": {
+      "localPoints": 0,
+      "importedPoints": 0,
+      "mergedPoints": 0,
+      "storedBattles": 4,
+      "sfbuff": {
+        "pointCount": 0,
+        "lastScrapedAt": null,
+        "fresh": false,
+        "cooldownDays": 7
+      }
+    },
+    "daily": [
+      {
+        "date": "2026-11-12",
+        "score": {
+          "wins": 0,
+          "losses": 4,
+          "draws": 0,
+          "total": 4,
+          "diff": -4,
+          "winRate": 0
+        }
+      }
+    ],
+    "matches": [
+      {
+        "replayId": "TLQ7NLUX5",
+        "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E4%BA%8C%E9%83%8E-%E6%B1%A0%E8%A2%8B%E6%9D%B1%E5%8F%A3%E5%BA%97-TLQ7NLUX5",
+        "playedAt": "2026-11-12T13:27:56.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 2,
+        "home": {
+          "fighterId": "3942698959",
+          "name": "ラーメン二郎　池袋東口店",
+          "character": "Arjun",
+          "characterId": 34,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": -1
+        },
+        "away": {
+          "fighterId": "1122738358",
+          "name": "かぱめ。",
+          "character": "Cammy",
+          "characterId": 9,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 2286,
+          "profileHref": "/players/%E3%81%8B%E3%81%B1%E3%82%81-1122738358",
+          "synced": true
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          5,
+          0,
+          0
+        ],
+        "awayRounds": [
+          0,
+          7,
+          1
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "ETPDHR6BN",
+        "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E4%BA%8C%E9%83%8E-%E6%B1%A0%E8%A2%8B%E6%9D%B1%E5%8F%A3%E5%BA%97-ETPDHR6BN",
+        "playedAt": "2026-11-12T13:25:19.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 2,
+        "home": {
+          "fighterId": "3942698959",
+          "name": "ラーメン二郎　池袋東口店",
+          "character": "Arjun",
+          "characterId": 34,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": -1
+        },
+        "away": {
+          "fighterId": "1122738358",
+          "name": "かぱめ。",
+          "character": "Cammy",
+          "characterId": 9,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 2286,
+          "profileHref": "/players/%E3%81%8B%E3%81%B1%E3%82%81-1122738358",
+          "synced": true
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          0,
+          1,
+          0
+        ],
+        "awayRounds": [
+          1,
+          0,
+          1
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "DSERHUDX6",
+        "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E4%BA%8C%E9%83%8E-%E6%B1%A0%E8%A2%8B%E6%9D%B1%E5%8F%A3%E5%BA%97-DSERHUDX6",
+        "playedAt": "2026-11-12T13:22:30.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 2,
+        "home": {
+          "fighterId": "3942698959",
+          "name": "ラーメン二郎　池袋東口店",
+          "character": "Arjun",
+          "characterId": 34,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": -1
+        },
+        "away": {
+          "fighterId": "1122738358",
+          "name": "かぱめ。",
+          "character": "Cammy",
+          "characterId": 9,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 2286,
+          "profileHref": "/players/%E3%81%8B%E3%81%B1%E3%82%81-1122738358",
+          "synced": true
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          1,
+          0,
+          0
+        ],
+        "awayRounds": [
+          0,
+          1,
+          1
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "4YMW88N68",
+        "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E4%BA%8C%E9%83%8E-%E6%B1%A0%E8%A2%8B%E6%9D%B1%E5%8F%A3%E5%BA%97-4YMW88N68",
+        "playedAt": "2026-11-12T13:19:45.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 2,
+        "home": {
+          "fighterId": "3942698959",
+          "name": "ラーメン二郎　池袋東口店",
+          "character": "Arjun",
+          "characterId": 34,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": -1
+        },
+        "away": {
+          "fighterId": "1122738358",
+          "name": "かぱめ。",
+          "character": "Cammy",
+          "characterId": 9,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 2286,
+          "profileHref": "/players/%E3%81%8B%E3%81%B1%E3%82%81-1122738358",
+          "synced": true
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          0,
+          0
+        ],
+        "awayRounds": [
+          1,
+          1
+        ],
+        "mrDelta": null,
+        "replayCapture": {
+          "jobId": "f8d57e83-2550-4655-8293-6a253685570b",
+          "status": "failed",
+          "hasVideo": false,
+          "expiresAt": null
+        }
+      }
+    ],
+    "capcom": null,
+    "habitsCompare": null,
+    "habitsComparedAt": null,
+    "habitsCompareSource": "pending"
+  }
+}
