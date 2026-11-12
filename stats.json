@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-12T12:00:37.511Z",
-  "matchDataUpdatedAt": "2026-09-14T12:12:05.675Z",
+  "generatedAt": "2026-11-12T18:00:37.431Z",
+  "matchDataUpdatedAt": "2026-11-12T13:36:18.920Z",
   "fighter": {
     "id": "1122738358",
     "name": "かぱめ。",
@@ -10,7 +10,7 @@
     "mostPlayedCharacterId": 9,
     "mostPlayedCharacter": "Cammy",
     "favoriteCharacterId": 9,
-    "synchronizedAt": "2026-09-14T13:22:09.605Z",
+    "synchronizedAt": "2026-11-12T13:36:17.105Z",
     "leagues": [
       {
         "characterId": 9,
@@ -27,15 +27,15 @@
     ]
   },
   "summary": {
-    "wins": 15,
-    "losses": 67,
+    "wins": 20,
+    "losses": 68,
     "draws": 0,
-    "total": 82,
-    "diff": -52,
-    "winRate": 18.29268292682927
+    "total": 88,
+    "diff": -48,
+    "winRate": 22.727272727272727
   },
   "standings": null,
-  "matchCount": 82,
+  "matchCount": 88,
   "matchups": [
     {
       "homeCharacterId": 9,
@@ -121,6 +121,23 @@
         "winRate": 60
       },
       "communityWinRate": 53.5
+    },
+    {
+      "homeCharacterId": 9,
+      "homeCharacter": "Cammy",
+      "characterId": 34,
+      "character": "Arjun",
+      "inputTypeId": 0,
+      "inputType": "Classic",
+      "score": {
+        "wins": 4,
+        "losses": 0,
+        "draws": 0,
+        "total": 4,
+        "diff": 4,
+        "winRate": 100
+      },
+      "communityWinRate": 45.8
     },
     {
       "homeCharacterId": 9,
@@ -278,6 +295,40 @@
     {
       "homeCharacterId": 9,
       "homeCharacter": "Cammy",
+      "characterId": 27,
+      "character": "Terry",
+      "inputTypeId": 1,
+      "inputType": "Modern",
+      "score": {
+        "wins": 0,
+        "losses": 1,
+        "draws": 0,
+        "total": 1,
+        "diff": -1,
+        "winRate": 0
+      },
+      "communityWinRate": 49.4
+    },
+    {
+      "homeCharacterId": 9,
+      "homeCharacter": "Cammy",
+      "characterId": 2,
+      "character": "Luke",
+      "inputTypeId": 1,
+      "inputType": "Modern",
+      "score": {
+        "wins": 1,
+        "losses": 0,
+        "draws": 0,
+        "total": 1,
+        "diff": 1,
+        "winRate": 100
+      },
+      "communityWinRate": 50.1
+    },
+    {
+      "homeCharacterId": 9,
+      "homeCharacter": "Cammy",
       "characterId": 33,
       "character": "Yasmine",
       "inputTypeId": 0,
@@ -298,7 +349,7 @@
     {
       "characterId": 9,
       "character": "Cammy",
-      "games": 82
+      "games": 88
     }
   ],
   "rivals": {
@@ -392,6 +443,24 @@
         },
         "synced": true,
         "profileHref": "/players/%E6%89%BF%E8%AB%BE-%E5%8F%AA%E6%9C%89%E6%84%9B%E7%9A%84%E6%99%82%E5%80%99%E6%89%8D%E7%AE%97%E6%95%B8-2624899455"
+      },
+      {
+        "fighterId": "3942698959",
+        "name": "ラーメン二郎　池袋東口店",
+        "characterId": 34,
+        "character": "Arjun",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 4,
+          "losses": 0,
+          "draws": 0,
+          "total": 4,
+          "diff": 4,
+          "winRate": 100
+        },
+        "synced": true,
+        "profileHref": "/players/hachiware-3942698959"
       },
       {
         "fighterId": "3990114445",
@@ -554,27 +623,27 @@
         },
         "synced": true,
         "profileHref": "/players/%E3%81%8D%E3%82%8B%E3%81%9A%E3%82%86%E3%81%94-3085672272"
-      },
-      {
-        "fighterId": "3787922592",
-        "name": "いけち。",
-        "characterId": 9,
-        "character": "Cammy",
-        "inputTypeId": 0,
-        "inputType": "Classic",
-        "score": {
-          "wins": 0,
-          "losses": 2,
-          "draws": 0,
-          "total": 2,
-          "diff": -2,
-          "winRate": 0
-        },
-        "synced": false,
-        "profileHref": "/players/%E3%81%84%E3%81%91%E3%81%A1-3787922592"
       }
     ],
     "victims": [
+      {
+        "fighterId": "3942698959",
+        "name": "ラーメン二郎　池袋東口店",
+        "characterId": 34,
+        "character": "Arjun",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 4,
+          "losses": 0,
+          "draws": 0,
+          "total": 4,
+          "diff": 4,
+          "winRate": 100
+        },
+        "synced": true,
+        "profileHref": "/players/hachiware-3942698959"
+      },
       {
         "fighterId": "4137845733",
         "name": "右膝の裏",
@@ -630,6 +699,24 @@
         "profileHref": "/players/nashi-3250938819"
       },
       {
+        "fighterId": "1525828723",
+        "name": "もぎぎ_Dopa",
+        "characterId": 2,
+        "character": "Luke",
+        "inputTypeId": 1,
+        "inputType": "Modern",
+        "score": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0,
+          "total": 1,
+          "diff": 1,
+          "winRate": 100
+        },
+        "synced": false,
+        "profileHref": "/players/%E3%82%82%E3%81%8E%E3%81%8E-dopa-1525828723"
+      },
+      {
         "fighterId": "2441575605",
         "name": "あむまる",
         "characterId": 22,
@@ -664,6 +751,24 @@
         },
         "synced": true,
         "profileHref": "/players/%E5%B1%81%E7%A5%9E%E5%B1%81%E9%9C%B8%E5%B1%81%E5%B1%81%E9%85%B1-2072169222"
+      },
+      {
+        "fighterId": "3935125931",
+        "name": "GUSUKA",
+        "characterId": 27,
+        "character": "Terry",
+        "inputTypeId": 1,
+        "inputType": "Modern",
+        "score": {
+          "wins": 0,
+          "losses": 1,
+          "draws": 0,
+          "total": 1,
+          "diff": -1,
+          "winRate": 0
+        },
+        "synced": false,
+        "profileHref": "/players/gusuka-3935125931"
       },
       {
         "fighterId": "1811281258",
@@ -790,60 +895,6 @@
         },
         "synced": false,
         "profileHref": "/players/%E3%81%8D%E3%82%93%E3%81%AE%E3%81%9F%E3%81%BE%E3%81%8F-2885052114"
-      },
-      {
-        "fighterId": "3085672272",
-        "name": "きるずゆご",
-        "characterId": 28,
-        "character": "Mai",
-        "inputTypeId": 0,
-        "inputType": "Classic",
-        "score": {
-          "wins": 0,
-          "losses": 2,
-          "draws": 0,
-          "total": 2,
-          "diff": -2,
-          "winRate": 0
-        },
-        "synced": true,
-        "profileHref": "/players/%E3%81%8D%E3%82%8B%E3%81%9A%E3%82%86%E3%81%94-3085672272"
-      },
-      {
-        "fighterId": "3787922592",
-        "name": "いけち。",
-        "characterId": 9,
-        "character": "Cammy",
-        "inputTypeId": 0,
-        "inputType": "Classic",
-        "score": {
-          "wins": 0,
-          "losses": 2,
-          "draws": 0,
-          "total": 2,
-          "diff": -2,
-          "winRate": 0
-        },
-        "synced": false,
-        "profileHref": "/players/%E3%81%84%E3%81%91%E3%81%A1-3787922592"
-      },
-      {
-        "fighterId": "2252442802",
-        "name": "ぼこら　レ　バンナ",
-        "characterId": 1,
-        "character": "Ryu",
-        "inputTypeId": 0,
-        "inputType": "Classic",
-        "score": {
-          "wins": 0,
-          "losses": 2,
-          "draws": 0,
-          "total": 2,
-          "diff": -2,
-          "winRate": 0
-        },
-        "synced": false,
-        "profileHref": "/players/%E3%81%BC%E3%81%93%E3%82%89-%E3%83%AC-%E3%83%90%E3%83%B3%E3%83%8A-2252442802"
       }
     ],
     "tormentors": [
@@ -1064,6 +1115,24 @@
         "profileHref": "/players/%E3%82%A8%E3%83%AB-%E3%83%97%E3%82%B5%E3%82%A4-%E3%81%86%E3%81%9D%E3%81%B4%E3%83%AB%E3%82%A5-pc-3672801202"
       },
       {
+        "fighterId": "3935125931",
+        "name": "GUSUKA",
+        "characterId": 27,
+        "character": "Terry",
+        "inputTypeId": 1,
+        "inputType": "Modern",
+        "score": {
+          "wins": 0,
+          "losses": 1,
+          "draws": 0,
+          "total": 1,
+          "diff": -1,
+          "winRate": 0
+        },
+        "synced": false,
+        "profileHref": "/players/gusuka-3935125931"
+      },
+      {
         "fighterId": "1811281258",
         "name": "又断连了！",
         "characterId": 21,
@@ -1098,24 +1167,6 @@
         },
         "synced": true,
         "profileHref": "/players/unkonow-3857916400"
-      },
-      {
-        "fighterId": "2271913949",
-        "name": "いっちー",
-        "characterId": 27,
-        "character": "Terry",
-        "inputTypeId": 0,
-        "inputType": "Classic",
-        "score": {
-          "wins": 1,
-          "losses": 2,
-          "draws": 0,
-          "total": 3,
-          "diff": -1,
-          "winRate": 33.33333333333333
-        },
-        "synced": false,
-        "profileHref": "/players/%E3%81%84%E3%81%A3%E3%81%A1%E3%83%BC-2271913949"
       }
     ]
   },
@@ -1124,7 +1175,7 @@
     "localPoints": 0,
     "importedPoints": 0,
     "mergedPoints": 0,
-    "storedBattles": 82,
+    "storedBattles": 88,
     "sfbuff": {
       "pointCount": 0,
       "lastScrapedAt": null,
@@ -1165,9 +1216,283 @@
         "diff": 1,
         "winRate": 60
       }
+    },
+    {
+      "date": "2026-11-12",
+      "score": {
+        "wins": 5,
+        "losses": 1,
+        "draws": 0,
+        "total": 6,
+        "diff": 4,
+        "winRate": 83.33333333333334
+      }
     }
   ],
   "matches": [
+    {
+      "replayId": "TLQ7NLUX5",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E4%BA%8C%E9%83%8E-%E6%B1%A0%E8%A2%8B%E6%9D%B1%E5%8F%A3%E5%BA%97-TLQ7NLUX5",
+      "playedAt": "2026-11-12T13:27:56.000Z",
+      "battleType": "Casual",
+      "battleTypeId": 2,
+      "homeSide": 1,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3942698959",
+        "name": "ラーメン二郎　池袋東口店",
+        "character": "Arjun",
+        "characterId": 34,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": -1,
+        "profileHref": "/players/hachiware-3942698959",
+        "synced": true
+      },
+      "result": 1,
+      "resultLabel": "W",
+      "homeRounds": [
+        0,
+        7,
+        1
+      ],
+      "awayRounds": [
+        5,
+        0,
+        0
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "ETPDHR6BN",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E4%BA%8C%E9%83%8E-%E6%B1%A0%E8%A2%8B%E6%9D%B1%E5%8F%A3%E5%BA%97-ETPDHR6BN",
+      "playedAt": "2026-11-12T13:25:19.000Z",
+      "battleType": "Casual",
+      "battleTypeId": 2,
+      "homeSide": 1,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3942698959",
+        "name": "ラーメン二郎　池袋東口店",
+        "character": "Arjun",
+        "characterId": 34,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": -1,
+        "profileHref": "/players/hachiware-3942698959",
+        "synced": true
+      },
+      "result": 1,
+      "resultLabel": "W",
+      "homeRounds": [
+        1,
+        0,
+        1
+      ],
+      "awayRounds": [
+        0,
+        1,
+        0
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "DSERHUDX6",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E4%BA%8C%E9%83%8E-%E6%B1%A0%E8%A2%8B%E6%9D%B1%E5%8F%A3%E5%BA%97-DSERHUDX6",
+      "playedAt": "2026-11-12T13:22:30.000Z",
+      "battleType": "Casual",
+      "battleTypeId": 2,
+      "homeSide": 1,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3942698959",
+        "name": "ラーメン二郎　池袋東口店",
+        "character": "Arjun",
+        "characterId": 34,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": -1,
+        "profileHref": "/players/hachiware-3942698959",
+        "synced": true
+      },
+      "result": 1,
+      "resultLabel": "W",
+      "homeRounds": [
+        0,
+        1,
+        1
+      ],
+      "awayRounds": [
+        1,
+        0,
+        0
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "4YMW88N68",
+      "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E4%BA%8C%E9%83%8E-%E6%B1%A0%E8%A2%8B%E6%9D%B1%E5%8F%A3%E5%BA%97-4YMW88N68",
+      "playedAt": "2026-11-12T13:19:45.000Z",
+      "battleType": "Casual",
+      "battleTypeId": 2,
+      "homeSide": 1,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3942698959",
+        "name": "ラーメン二郎　池袋東口店",
+        "character": "Arjun",
+        "characterId": 34,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": -1,
+        "profileHref": "/players/hachiware-3942698959",
+        "synced": true
+      },
+      "result": 1,
+      "resultLabel": "W",
+      "homeRounds": [
+        1,
+        1
+      ],
+      "awayRounds": [
+        0,
+        0
+      ],
+      "mrDelta": null,
+      "replayCapture": {
+        "jobId": "f8d57e83-2550-4655-8293-6a253685570b",
+        "status": "failed",
+        "hasVideo": false,
+        "expiresAt": null
+      }
+    },
+    {
+      "replayId": "MKJYSKS9Y",
+      "replayHref": "/replays/gusuka-vs-%E3%81%8B%E3%81%B1%E3%82%81-MKJYSKS9Y",
+      "playedAt": "2026-11-12T13:16:59.000Z",
+      "battleType": "Casual",
+      "battleTypeId": 2,
+      "homeSide": 2,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "3935125931",
+        "name": "GUSUKA",
+        "character": "Terry",
+        "characterId": 27,
+        "inputTypeId": 1,
+        "inputType": "Modern",
+        "mr": 0,
+        "lp": -1,
+        "profileHref": "/players/gusuka-3935125931",
+        "synced": false
+      },
+      "result": -1,
+      "resultLabel": "L",
+      "homeRounds": [
+        0,
+        0
+      ],
+      "awayRounds": [
+        1,
+        1
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
+    {
+      "replayId": "JUFP88UNU",
+      "replayHref": "/replays/%E3%82%82%E3%81%8E%E3%81%8E-dopa-vs-%E3%81%8B%E3%81%B1%E3%82%81-JUFP88UNU",
+      "playedAt": "2026-11-12T13:14:13.000Z",
+      "battleType": "Casual",
+      "battleTypeId": 2,
+      "homeSide": 2,
+      "home": {
+        "fighterId": "1122738358",
+        "name": "かぱめ。",
+        "character": "Cammy",
+        "characterId": 9,
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "mr": 0,
+        "lp": 2286
+      },
+      "away": {
+        "fighterId": "1525828723",
+        "name": "もぎぎ_Dopa",
+        "character": "Luke",
+        "characterId": 2,
+        "inputTypeId": 1,
+        "inputType": "Modern",
+        "mr": 0,
+        "lp": -1,
+        "profileHref": "/players/%E3%82%82%E3%81%8E%E3%81%8E-dopa-1525828723",
+        "synced": false
+      },
+      "result": 1,
+      "resultLabel": "W",
+      "homeRounds": [
+        1,
+        1
+      ],
+      "awayRounds": [
+        0,
+        0
+      ],
+      "mrDelta": null,
+      "replayCapture": null
+    },
     {
       "replayId": "MKKPWQXKT",
       "replayHref": "/replays/%E3%81%8B%E3%81%B1%E3%82%81-vs-%E5%8F%B3%E8%86%9D%E3%81%AE%E8%A3%8F-MKKPWQXKT",
@@ -4675,8 +5000,9 @@
     }
   ],
   "capcom": {
-    "seasonId": 13,
+    "seasonId": 14,
     "seasons": [
+      14,
       13,
       12,
       11,
@@ -4713,10 +5039,10 @@
       "homeId": 85,
       "homeName": "Japan",
       "flagUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/national_frag/frag085.png",
-      "lastPlayAt": "2026-09-14T12:09:46.000Z",
-      "title": "Out-mash Their DP by One",
-      "titlePlateName": "459-e143e641a66ad8e6079daab2f899cbc1",
-      "titlePlateUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/title/459-e143e641a66ad8e6079daab2f899cbc1.png",
+      "lastPlayAt": "2026-11-12T12:36:29.000Z",
+      "title": "Berserker",
+      "titlePlateName": "68-43de3bebe8fafa5b9a23ccca3201f3",
+      "titlePlateUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/title/68-43de3bebe8fafa5b9a23ccca3201f3.png",
       "comment": "I'm a Beginner",
       "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_cammy.jpg",
       "mainCircle": {
@@ -4725,39 +5051,39 @@
       },
       "inputType": 0,
       "enjoyFightPoint": 31,
-      "enjoyTotalPoint": 85,
-      "enjoyUserPoint": 54
+      "enjoyTotalPoint": 88,
+      "enjoyUserPoint": 57
     },
     "playTime": [
       {
         "name": "Battle Hub",
-        "seconds": 1444130,
-        "hours": 401.1
+        "seconds": 1598952,
+        "hours": 444.2
       },
       {
         "name": "Practice",
-        "seconds": 681010,
-        "hours": 189.2
-      },
-      {
-        "name": "World Tour",
-        "seconds": 495222,
-        "hours": 137.6
+        "seconds": 705711,
+        "hours": 196
       },
       {
         "name": "Offline Matches",
-        "seconds": 305477,
-        "hours": 84.9
+        "seconds": 598528,
+        "hours": 166.3
+      },
+      {
+        "name": "World Tour",
+        "seconds": 509928,
+        "hours": 141.6
       },
       {
         "name": "Arcade",
-        "seconds": 133835,
-        "hours": 37.2
+        "seconds": 144636,
+        "hours": 40.2
       },
       {
         "name": "Avatar Room",
-        "seconds": 35300,
-        "hours": 9.8
+        "seconds": 45392,
+        "hours": 12.6
       },
       {
         "name": "Ranked Matches",
@@ -4766,8 +5092,8 @@
       },
       {
         "name": "Casual Matches",
-        "seconds": 3599,
-        "hours": 1
+        "seconds": 4422,
+        "hours": 1.2
       },
       {
         "name": "Special Matches",
@@ -4782,7 +5108,7 @@
     ],
     "battleStats": {
       "rankedGames": 61,
-      "casualGames": 28,
+      "casualGames": 34,
       "hubGames": 272,
       "customGames": 0,
       "habits": [
@@ -4795,7 +5121,7 @@
         {
           "key": "drive_parry",
           "label": "Drive Parry / game",
-          "value": 0.4,
+          "value": 0.3,
           "format": "rate"
         },
         {
@@ -4819,7 +5145,7 @@
         {
           "key": "received_punish_counter",
           "label": "Got PC'd / game",
-          "value": 0.6,
+          "value": 0.5,
           "format": "rate"
         },
         {
@@ -4830,20 +5156,20 @@
         },
         {
           "key": "throw_tech",
-          "label": "Throw techs / game",
-          "value": 0,
+          "label": "Throw escapes (techs) / game",
+          "value": 0.1,
           "format": "rate"
         },
         {
           "key": "throw_drive_parry",
-          "label": "Throw parries / game",
+          "label": "Thrown during parry / game",
           "value": 0.1,
           "format": "rate"
         },
         {
           "key": "received_throw_count",
           "label": "Got thrown / game",
-          "value": 2.4,
+          "value": 2.5,
           "format": "rate"
         },
         {
@@ -4861,19 +5187,19 @@
         {
           "key": "corner_time",
           "label": "Corner pressure time",
-          "value": 4.6,
+          "value": 5,
           "format": "rate"
         },
         {
           "key": "cornered_time",
           "label": "Time cornered",
-          "value": 7.5,
+          "value": 7.4,
           "format": "rate"
         },
         {
           "key": "gauge_rate_drive_rush_from_cancel",
           "label": "Drive Rush (cancel) share",
-          "value": 0.1981,
+          "value": 0.2172,
           "format": "rate"
         },
         {
@@ -4885,43 +5211,43 @@
         {
           "key": "gauge_rate_drive_arts",
           "label": "Drive Arts share",
-          "value": 0.3723,
+          "value": 0.3664,
           "format": "rate"
         },
         {
           "key": "gauge_rate_drive_impact",
           "label": "Drive Impact gauge share",
-          "value": 0.0278,
+          "value": 0.029,
           "format": "rate"
         },
         {
           "key": "gauge_rate_drive_guard",
           "label": "Drive Guard share",
-          "value": 0.0225,
+          "value": 0.0187,
           "format": "rate"
         },
         {
           "key": "gauge_rate_sa_lv1",
           "label": "SA1 usage share",
-          "value": 0.7647,
+          "value": 0.7615,
           "format": "rate"
         },
         {
           "key": "gauge_rate_sa_lv2",
           "label": "SA2 usage share",
-          "value": 0.0367,
+          "value": 0.0384,
           "format": "rate"
         },
         {
           "key": "gauge_rate_sa_lv3",
           "label": "SA3 usage share",
-          "value": 0.1544,
+          "value": 0.1461,
           "format": "rate"
         },
         {
           "key": "gauge_rate_ca",
           "label": "CA usage share",
-          "value": 0.0441,
+          "value": 0.0538,
           "format": "rate"
         }
       ]
@@ -4930,9 +5256,9 @@
       {
         "characterId": 9,
         "character": "Cammy",
-        "wins": 15,
-        "games": 85,
-        "winRate": 17.647058823529413
+        "wins": 5,
+        "games": 6,
+        "winRate": 83.33333333333334
       }
     ],
     "characterLeagues": [
@@ -4969,97 +5295,27 @@
           {
             "characterId": 253,
             "character": "Any",
-            "wins": 15,
-            "games": 85,
-            "winRate": 17.647058823529413
+            "wins": 5,
+            "games": 6,
+            "winRate": 83.33333333333334
           },
           {
-            "characterId": 31,
-            "character": "Alex",
-            "wins": 2,
-            "games": 23,
-            "winRate": 8.695652173913043
-          },
-          {
-            "characterId": 9,
-            "character": "Cammy",
-            "wins": 2,
-            "games": 20,
-            "winRate": 10
-          },
-          {
-            "characterId": 21,
-            "character": "Jamie",
-            "wins": 3,
-            "games": 14,
-            "winRate": 21.428571428571427
-          },
-          {
-            "characterId": 5,
-            "character": "Manon",
-            "wins": 2,
-            "games": 5,
-            "winRate": 40
-          },
-          {
-            "characterId": 22,
-            "character": "Akuma",
-            "wins": 3,
-            "games": 5,
-            "winRate": 60
-          },
-          {
-            "characterId": 6,
-            "character": "Zangief",
-            "wins": 0,
+            "characterId": 34,
+            "character": "Arjun",
+            "wins": 4,
             "games": 4,
-            "winRate": 0
+            "winRate": 100
+          },
+          {
+            "characterId": 2,
+            "character": "Luke",
+            "wins": 1,
+            "games": 1,
+            "winRate": 100
           },
           {
             "characterId": 27,
             "character": "Terry",
-            "wins": 1,
-            "games": 3,
-            "winRate": 33.33333333333333
-          },
-          {
-            "characterId": 1,
-            "character": "Ryu",
-            "wins": 0,
-            "games": 2,
-            "winRate": 0
-          },
-          {
-            "characterId": 7,
-            "character": "JP",
-            "wins": 0,
-            "games": 2,
-            "winRate": 0
-          },
-          {
-            "characterId": 14,
-            "character": "Rashid",
-            "wins": 2,
-            "games": 2,
-            "winRate": 100
-          },
-          {
-            "characterId": 28,
-            "character": "Mai",
-            "wins": 0,
-            "games": 2,
-            "winRate": 0
-          },
-          {
-            "characterId": 32,
-            "character": "Ingrid",
-            "wins": 0,
-            "games": 2,
-            "winRate": 0
-          },
-          {
-            "characterId": 33,
-            "character": "Yasmine",
             "wins": 0,
             "games": 1,
             "winRate": 0
@@ -5071,10 +5327,10 @@
       {
         "characterId": 9,
         "character": "Cammy",
-        "fightingGround": 25299,
-        "battleHub": 109134,
-        "worldTour": 49190,
-        "total": 183623
+        "fightingGround": 33922,
+        "battleHub": 122954,
+        "worldTour": 50860,
+        "total": 207736
       },
       {
         "characterId": 18,
@@ -5198,7 +5454,11 @@
       }
     ],
     "avatar": null,
-    "clubs": null
+    "clubs": null,
+    "historySync": {
+      "checkedAt": "2026-11-12T13:36:18.926Z",
+      "signature": "492c758f7d51b59d63c7406fbbcda40c460e5a824bb9e650cb28d6b4eca8f4f7"
+    }
   },
   "habitsCompare": {
     "characterId": 9,
@@ -5856,11 +6116,11 @@
       {
         "key": "drive_parry",
         "label": "Drive Parry",
-        "you": 0.4,
+        "you": 0.3,
         "eliteAvg": 1.4733333333333332,
         "eliteMin": 0,
         "eliteMax": 3.2,
-        "delta": -1.0733333333333333,
+        "delta": -1.1733333333333331,
         "verdict": "lower",
         "format": "rate"
       },
@@ -5900,11 +6160,11 @@
       {
         "key": "received_punish_counter",
         "label": "Got Punish Countered",
-        "you": 0.6,
+        "you": 0.5,
         "eliteAvg": 0.06000000000000002,
         "eliteMin": 0,
         "eliteMax": 0.1,
-        "delta": 0.5399999999999999,
+        "delta": 0.44,
         "verdict": "higher",
         "format": "rate"
       },
@@ -5922,11 +6182,11 @@
       {
         "key": "throw_tech",
         "label": "Throw techs",
-        "you": 0,
+        "you": 0.1,
         "eliteAvg": 0.3733333333333333,
         "eliteMin": 0,
         "eliteMax": 0.8,
-        "delta": -0.3733333333333333,
+        "delta": -0.2733333333333333,
         "verdict": "lower",
         "format": "rate"
       },
@@ -5944,12 +6204,12 @@
       {
         "key": "received_throw_count",
         "label": "Got thrown",
-        "you": 2.4,
+        "you": 2.5,
         "eliteAvg": 2.1166666666666667,
         "eliteMin": 1.5,
         "eliteMax": 3.3,
-        "delta": 0.2833333333333332,
-        "verdict": "similar",
+        "delta": 0.3833333333333333,
+        "verdict": "higher",
         "format": "rate"
       },
       {
@@ -5977,33 +6237,33 @@
       {
         "key": "corner_time",
         "label": "Corner pressure",
-        "you": 4.6,
+        "you": 5,
         "eliteAvg": 12.316666666666665,
         "eliteMin": 0,
         "eliteMax": 16.2,
-        "delta": -7.716666666666665,
+        "delta": -7.316666666666665,
         "verdict": "lower",
         "format": "rate"
       },
       {
         "key": "cornered_time",
         "label": "Time cornered",
-        "you": 7.5,
+        "you": 7.4,
         "eliteAvg": 9.05,
         "eliteMin": 5.9,
         "eliteMax": 27.1,
-        "delta": -1.5500000000000007,
+        "delta": -1.6500000000000004,
         "verdict": "lower",
         "format": "rate"
       },
       {
         "key": "gauge_rate_drive_rush_from_cancel",
         "label": "Drive Rush (cancel)",
-        "you": 0.1981,
+        "you": 0.2172,
         "eliteAvg": 0.4010099999999999,
         "eliteMin": 0,
         "eliteMax": 0.5874,
-        "delta": -0.20290999999999992,
+        "delta": -0.18380999999999992,
         "verdict": "lower",
         "format": "percent"
       },
@@ -6021,83 +6281,84 @@
       {
         "key": "gauge_rate_drive_arts",
         "label": "Drive Arts",
-        "you": 0.3723,
+        "you": 0.3664,
         "eliteAvg": 0.15385666666666667,
         "eliteMin": 0,
         "eliteMax": 0.2795,
-        "delta": 0.21844333333333335,
+        "delta": 0.21254333333333333,
         "verdict": "higher",
         "format": "percent"
       },
       {
         "key": "gauge_rate_drive_impact",
         "label": "Drive Impact gauge",
-        "you": 0.0278,
+        "you": 0.029,
         "eliteAvg": 0.012873333333333332,
         "eliteMin": 0,
         "eliteMax": 0.0458,
-        "delta": 0.014926666666666666,
+        "delta": 0.01612666666666667,
         "verdict": "higher",
         "format": "percent"
       },
       {
         "key": "gauge_rate_sa_lv1",
         "label": "SA1",
-        "you": 0.7647,
+        "you": 0.7615,
         "eliteAvg": 0.4429966666666667,
         "eliteMin": 0,
         "eliteMax": 0.6236,
-        "delta": 0.32170333333333334,
+        "delta": 0.31850333333333325,
         "verdict": "higher",
         "format": "percent"
       },
       {
         "key": "gauge_rate_sa_lv2",
         "label": "SA2",
-        "you": 0.0367,
+        "you": 0.0384,
         "eliteAvg": 0.15567666666666666,
         "eliteMin": 0,
         "eliteMax": 0.3245,
-        "delta": -0.11897666666666665,
+        "delta": -0.11727666666666667,
         "verdict": "lower",
         "format": "percent"
       },
       {
         "key": "gauge_rate_sa_lv3",
         "label": "SA3",
-        "you": 0.1544,
+        "you": 0.1461,
         "eliteAvg": 0.28147999999999995,
         "eliteMin": 0,
         "eliteMax": 0.5,
-        "delta": -0.12707999999999994,
+        "delta": -0.13537999999999994,
         "verdict": "lower",
         "format": "percent"
       },
       {
         "key": "gauge_rate_ca",
         "label": "CA",
-        "you": 0.0441,
+        "you": 0.0538,
         "eliteAvg": 0.08634666666666667,
         "eliteMin": 0,
         "eliteMax": 0.1511,
-        "delta": -0.04224666666666667,
+        "delta": -0.03254666666666667,
         "verdict": "lower",
         "format": "percent"
       },
       {
         "key": "gauge_rate_drive_guard",
         "label": "Drive Guard",
-        "you": 0.0225,
+        "you": 0.0187,
         "eliteAvg": 0.09749999999999996,
         "eliteMin": 0,
         "eliteMax": 0.1624,
-        "delta": -0.07499999999999996,
+        "delta": -0.07879999999999995,
         "verdict": "lower",
         "format": "percent"
       }
     ],
     "insights": [
-      "Higher got punish countered than top 30 Cammy avg (+0.54).",
+      "Higher got punish countered than top 30 Cammy avg (+0.44).",
+      "Higher got thrown than top 30 Cammy avg (+0.38).",
       "Lower got stunned than top 30 Cammy. Solid.",
       "Lower time cornered than top 30 Cammy. Solid.",
       "Lower drive guard than top 30 Cammy. Solid."
@@ -6107,8 +6368,8 @@
       "range": "all",
       "label": "Overall",
       "from": null,
-      "to": "2026-09-14T13:22:09.605Z",
-      "matches": 361,
+      "to": "2026-11-12T13:36:17.105Z",
+      "matches": 367,
       "minimumMatches": 20,
       "estimated": false
     }
