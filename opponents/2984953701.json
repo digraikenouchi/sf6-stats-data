@@ -1,0 +1,4248 @@
+{
+  "fighterId": "2984953701",
+  "name": "ELLEGARDEN　風の日",
+  "lastSeenAt": "2026-11-12T13:53:21.000Z",
+  "fetchedAt": "2026-11-13T06:00:53.828Z",
+  "synchronizedAt": "2026-09-09T07:32:44.205Z",
+  "stats": {
+    "generatedAt": "2026-11-13T06:00:53.638Z",
+    "matchDataUpdatedAt": "2026-11-13T03:57:44.055Z",
+    "fighter": {
+      "id": "2984953701",
+      "name": "ELLEGARDEN　風の日",
+      "profileHref": "/players/ellegarden-%E9%A2%A8%E3%81%AE%E6%97%A5-2984953701",
+      "mainCharacterId": 254,
+      "mainCharacter": "Random",
+      "mostPlayedCharacterId": 1,
+      "mostPlayedCharacter": "Ryu",
+      "favoriteCharacterId": 1,
+      "synchronizedAt": "2026-09-09T07:32:44.205Z",
+      "leagues": [
+        {
+          "characterId": 1,
+          "character": "Ryu",
+          "lp": 11587,
+          "mr": 0
+        },
+        {
+          "characterId": 2,
+          "character": "Luke",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 3,
+          "character": "Kimberly",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 4,
+          "character": "Chun-Li",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 5,
+          "character": "Manon",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 6,
+          "character": "Zangief",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 7,
+          "character": "JP",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 8,
+          "character": "Dhalsim",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 9,
+          "character": "Cammy",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 10,
+          "character": "Ken",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 11,
+          "character": "Dee Jay",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 12,
+          "character": "Lily",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 13,
+          "character": "A.K.I.",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 14,
+          "character": "Rashid",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 15,
+          "character": "Blanka",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 16,
+          "character": "Juri",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 17,
+          "character": "Marisa",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 18,
+          "character": "Guile",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 19,
+          "character": "Ed",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 20,
+          "character": "E. Honda",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 21,
+          "character": "Jamie",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 22,
+          "character": "Akuma",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 25,
+          "character": "Sagat",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 26,
+          "character": "M. Bison",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 27,
+          "character": "Terry",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 28,
+          "character": "Mai",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 29,
+          "character": "Elena",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 31,
+          "character": "Alex",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 254,
+          "character": "Random",
+          "lp": -1,
+          "mr": 0
+        }
+      ]
+    },
+    "summary": {
+      "wins": 11,
+      "losses": 32,
+      "draws": 0,
+      "total": 43,
+      "diff": -21,
+      "winRate": 25.581395348837212
+    },
+    "standings": null,
+    "matchCount": 43,
+    "matchups": [
+      {
+        "homeCharacterId": 1,
+        "homeCharacter": "Ryu",
+        "characterId": 1,
+        "character": "Ryu",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 2,
+          "losses": 17,
+          "draws": 0,
+          "total": 19,
+          "diff": -15,
+          "winRate": 10.526315789473683
+        },
+        "communityWinRate": null
+      },
+      {
+        "homeCharacterId": 1,
+        "homeCharacter": "Ryu",
+        "characterId": 33,
+        "character": "Yasmine",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 0,
+          "losses": 5,
+          "draws": 0,
+          "total": 5,
+          "diff": -5,
+          "winRate": 0
+        },
+        "communityWinRate": 48.4
+      },
+      {
+        "homeCharacterId": 254,
+        "homeCharacter": "Random",
+        "characterId": 31,
+        "character": "Alex",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 0,
+          "losses": 4,
+          "draws": 0,
+          "total": 4,
+          "diff": -4,
+          "winRate": 0
+        },
+        "communityWinRate": null
+      },
+      {
+        "homeCharacterId": 1,
+        "homeCharacter": "Ryu",
+        "characterId": 21,
+        "character": "Jamie",
+        "inputTypeId": 1,
+        "inputType": "Modern",
+        "score": {
+          "wins": 2,
+          "losses": 1,
+          "draws": 0,
+          "total": 3,
+          "diff": 1,
+          "winRate": 66.66666666666666
+        },
+        "communityWinRate": 49.3
+      },
+      {
+        "homeCharacterId": 1,
+        "homeCharacter": "Ryu",
+        "characterId": 34,
+        "character": "Arjun",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 0,
+          "losses": 2,
+          "draws": 0,
+          "total": 2,
+          "diff": -2,
+          "winRate": 0
+        },
+        "communityWinRate": 47.9
+      },
+      {
+        "homeCharacterId": 1,
+        "homeCharacter": "Ryu",
+        "characterId": 25,
+        "character": "Sagat",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 1,
+          "losses": 1,
+          "draws": 0,
+          "total": 2,
+          "diff": 0,
+          "winRate": 50
+        },
+        "communityWinRate": 49.8
+      },
+      {
+        "homeCharacterId": 254,
+        "homeCharacter": "Random",
+        "characterId": 1,
+        "character": "Ryu",
+        "inputTypeId": 1,
+        "inputType": "Modern",
+        "score": {
+          "wins": 1,
+          "losses": 1,
+          "draws": 0,
+          "total": 2,
+          "diff": 0,
+          "winRate": 50
+        },
+        "communityWinRate": null
+      },
+      {
+        "homeCharacterId": 1,
+        "homeCharacter": "Ryu",
+        "characterId": 22,
+        "character": "Akuma",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 1,
+          "losses": 1,
+          "draws": 0,
+          "total": 2,
+          "diff": 0,
+          "winRate": 50
+        },
+        "communityWinRate": 49.9
+      },
+      {
+        "homeCharacterId": 254,
+        "homeCharacter": "Random",
+        "characterId": 9,
+        "character": "Cammy",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0,
+          "total": 1,
+          "diff": 1,
+          "winRate": 100
+        },
+        "communityWinRate": null
+      },
+      {
+        "homeCharacterId": 1,
+        "homeCharacter": "Ryu",
+        "characterId": 11,
+        "character": "Dee Jay",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0,
+          "total": 1,
+          "diff": 1,
+          "winRate": 100
+        },
+        "communityWinRate": 49.4
+      },
+      {
+        "homeCharacterId": 1,
+        "homeCharacter": "Ryu",
+        "characterId": 12,
+        "character": "Lily",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0,
+          "total": 1,
+          "diff": 1,
+          "winRate": 100
+        },
+        "communityWinRate": 49.4
+      },
+      {
+        "homeCharacterId": 1,
+        "homeCharacter": "Ryu",
+        "characterId": 10,
+        "character": "Ken",
+        "inputTypeId": 1,
+        "inputType": "Modern",
+        "score": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0,
+          "total": 1,
+          "diff": 1,
+          "winRate": 100
+        },
+        "communityWinRate": 50.1
+      }
+    ],
+    "communityMatchupsMonth": "202610",
+    "playedCharacters": [
+      {
+        "characterId": 1,
+        "character": "Ryu",
+        "games": 36
+      },
+      {
+        "characterId": 254,
+        "character": "Random",
+        "games": 7
+      }
+    ],
+    "rivals": {
+      "favorites": [
+        {
+          "fighterId": "3289625859",
+          "name": "うめしそ＠たんぱく質不足",
+          "characterId": 1,
+          "character": "Ryu",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 1,
+            "losses": 14,
+            "draws": 0,
+            "total": 15,
+            "diff": -13,
+            "winRate": 6.666666666666667
+          },
+          "synced": true,
+          "profileHref": "/players/%E3%81%86%E3%82%81%E3%81%97%E3%81%9D-%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA%E4%B8%8D%E8%B6%B3-3289625859"
+        },
+        {
+          "fighterId": "2182861067",
+          "name": "ショートスリーパー",
+          "characterId": 1,
+          "character": "Ryu",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 1,
+            "losses": 3,
+            "draws": 0,
+            "total": 4,
+            "diff": -2,
+            "winRate": 25
+          },
+          "synced": true,
+          "profileHref": "/players/%E6%8F%9A%E3%81%92%E7%89%A9%E5%A4%A7%E5%A5%BD%E3%81%8D-2182861067"
+        },
+        {
+          "fighterId": "2535164500",
+          "name": "さんしょくだんご",
+          "characterId": 31,
+          "character": "Alex",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 0,
+            "losses": 4,
+            "draws": 0,
+            "total": 4,
+            "diff": -4,
+            "winRate": 0
+          },
+          "synced": false,
+          "profileHref": "/players/%E3%81%95%E3%82%93%E3%81%97%E3%82%87%E3%81%8F%E3%81%A0%E3%82%93%E3%81%94-2535164500"
+        },
+        {
+          "fighterId": "2682799583",
+          "name": "めーぷる",
+          "characterId": 21,
+          "character": "Jamie",
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "score": {
+            "wins": 2,
+            "losses": 1,
+            "draws": 0,
+            "total": 3,
+            "diff": 1,
+            "winRate": 66.66666666666666
+          },
+          "synced": false,
+          "profileHref": "/players/%E3%82%81%E3%83%BC%E3%81%B7%E3%82%8B-2682799583"
+        },
+        {
+          "fighterId": "1929446477",
+          "name": "ARAKI_T",
+          "characterId": 33,
+          "character": "Yasmine",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 0,
+            "losses": 3,
+            "draws": 0,
+            "total": 3,
+            "diff": -3,
+            "winRate": 0
+          },
+          "synced": false,
+          "profileHref": "/players/araki-t-1929446477"
+        },
+        {
+          "fighterId": "3443171786",
+          "name": "電子もくづ",
+          "characterId": 25,
+          "character": "Sagat",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 1,
+            "losses": 1,
+            "draws": 0,
+            "total": 2,
+            "diff": 0,
+            "winRate": 50
+          },
+          "synced": true,
+          "profileHref": "/players/%E9%9B%BB%E5%AD%90%E3%82%82%E3%81%8F%E3%81%A5-3443171786"
+        },
+        {
+          "fighterId": "4114882105",
+          "name": "だで.aka.西成",
+          "characterId": 1,
+          "character": "Ryu",
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "score": {
+            "wins": 1,
+            "losses": 1,
+            "draws": 0,
+            "total": 2,
+            "diff": 0,
+            "winRate": 50
+          },
+          "synced": false,
+          "profileHref": "/players/%E3%81%A0%E3%81%A7-aka-%E8%A5%BF%E6%88%90-4114882105"
+        },
+        {
+          "fighterId": "1449301579",
+          "name": "いわし；",
+          "characterId": 22,
+          "character": "Akuma",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 1,
+            "losses": 1,
+            "draws": 0,
+            "total": 2,
+            "diff": 0,
+            "winRate": 50
+          },
+          "synced": true,
+          "profileHref": "/players/%E3%81%84%E3%82%8F%E3%81%97-1449301579"
+        },
+        {
+          "fighterId": "2968006783",
+          "name": "るべしべ",
+          "characterId": 34,
+          "character": "Arjun",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 0,
+            "losses": 2,
+            "draws": 0,
+            "total": 2,
+            "diff": -2,
+            "winRate": 0
+          },
+          "synced": true,
+          "profileHref": "/players/%E3%82%8B%E3%81%B9%E3%81%97%E3%81%B9-2968006783"
+        },
+        {
+          "fighterId": "1705862098",
+          "name": "莎士比亞",
+          "characterId": 33,
+          "character": "Yasmine",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 0,
+            "losses": 2,
+            "draws": 0,
+            "total": 2,
+            "diff": -2,
+            "winRate": 0
+          },
+          "synced": true,
+          "profileHref": "/players/%E8%8E%8E%E5%A3%AB%E6%AF%94%E4%BA%9E-1705862098"
+        },
+        {
+          "fighterId": "1122738358",
+          "name": "かぱめ。",
+          "characterId": 9,
+          "character": "Cammy",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 1,
+            "losses": 0,
+            "draws": 0,
+            "total": 1,
+            "diff": 1,
+            "winRate": 100
+          },
+          "synced": true,
+          "profileHref": "/players/%E3%81%8B%E3%81%B1%E3%82%81-1122738358"
+        },
+        {
+          "fighterId": "1631829047",
+          "name": "へるつぇごびな",
+          "characterId": 11,
+          "character": "Dee Jay",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 1,
+            "losses": 0,
+            "draws": 0,
+            "total": 1,
+            "diff": 1,
+            "winRate": 100
+          },
+          "synced": true,
+          "profileHref": "/players/%E3%81%B8%E3%82%8B%E3%81%A4%E3%81%87%E3%81%94%E3%81%B3%E3%81%AA-1631829047"
+        },
+        {
+          "fighterId": "1228877784",
+          "name": "rolotoast",
+          "characterId": 12,
+          "character": "Lily",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 1,
+            "losses": 0,
+            "draws": 0,
+            "total": 1,
+            "diff": 1,
+            "winRate": 100
+          },
+          "synced": false,
+          "profileHref": "/players/rolotoast-1228877784"
+        },
+        {
+          "fighterId": "4279371110",
+          "name": "WASAPEN",
+          "characterId": 10,
+          "character": "Ken",
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "score": {
+            "wins": 1,
+            "losses": 0,
+            "draws": 0,
+            "total": 1,
+            "diff": 1,
+            "winRate": 100
+          },
+          "synced": true,
+          "profileHref": "/players/wasapen-4279371110"
+        }
+      ],
+      "victims": [
+        {
+          "fighterId": "1122738358",
+          "name": "かぱめ。",
+          "characterId": 9,
+          "character": "Cammy",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 1,
+            "losses": 0,
+            "draws": 0,
+            "total": 1,
+            "diff": 1,
+            "winRate": 100
+          },
+          "synced": true,
+          "profileHref": "/players/%E3%81%8B%E3%81%B1%E3%82%81-1122738358"
+        },
+        {
+          "fighterId": "1631829047",
+          "name": "へるつぇごびな",
+          "characterId": 11,
+          "character": "Dee Jay",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 1,
+            "losses": 0,
+            "draws": 0,
+            "total": 1,
+            "diff": 1,
+            "winRate": 100
+          },
+          "synced": true,
+          "profileHref": "/players/%E3%81%B8%E3%82%8B%E3%81%A4%E3%81%87%E3%81%94%E3%81%B3%E3%81%AA-1631829047"
+        },
+        {
+          "fighterId": "1228877784",
+          "name": "rolotoast",
+          "characterId": 12,
+          "character": "Lily",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 1,
+            "losses": 0,
+            "draws": 0,
+            "total": 1,
+            "diff": 1,
+            "winRate": 100
+          },
+          "synced": false,
+          "profileHref": "/players/rolotoast-1228877784"
+        },
+        {
+          "fighterId": "4279371110",
+          "name": "WASAPEN",
+          "characterId": 10,
+          "character": "Ken",
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "score": {
+            "wins": 1,
+            "losses": 0,
+            "draws": 0,
+            "total": 1,
+            "diff": 1,
+            "winRate": 100
+          },
+          "synced": true,
+          "profileHref": "/players/wasapen-4279371110"
+        },
+        {
+          "fighterId": "2682799583",
+          "name": "めーぷる",
+          "characterId": 21,
+          "character": "Jamie",
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "score": {
+            "wins": 2,
+            "losses": 1,
+            "draws": 0,
+            "total": 3,
+            "diff": 1,
+            "winRate": 66.66666666666666
+          },
+          "synced": false,
+          "profileHref": "/players/%E3%82%81%E3%83%BC%E3%81%B7%E3%82%8B-2682799583"
+        },
+        {
+          "fighterId": "3443171786",
+          "name": "電子もくづ",
+          "characterId": 25,
+          "character": "Sagat",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 1,
+            "losses": 1,
+            "draws": 0,
+            "total": 2,
+            "diff": 0,
+            "winRate": 50
+          },
+          "synced": true,
+          "profileHref": "/players/%E9%9B%BB%E5%AD%90%E3%82%82%E3%81%8F%E3%81%A5-3443171786"
+        },
+        {
+          "fighterId": "4114882105",
+          "name": "だで.aka.西成",
+          "characterId": 1,
+          "character": "Ryu",
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "score": {
+            "wins": 1,
+            "losses": 1,
+            "draws": 0,
+            "total": 2,
+            "diff": 0,
+            "winRate": 50
+          },
+          "synced": false,
+          "profileHref": "/players/%E3%81%A0%E3%81%A7-aka-%E8%A5%BF%E6%88%90-4114882105"
+        },
+        {
+          "fighterId": "1449301579",
+          "name": "いわし；",
+          "characterId": 22,
+          "character": "Akuma",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 1,
+            "losses": 1,
+            "draws": 0,
+            "total": 2,
+            "diff": 0,
+            "winRate": 50
+          },
+          "synced": true,
+          "profileHref": "/players/%E3%81%84%E3%82%8F%E3%81%97-1449301579"
+        },
+        {
+          "fighterId": "2968006783",
+          "name": "るべしべ",
+          "characterId": 34,
+          "character": "Arjun",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 0,
+            "losses": 2,
+            "draws": 0,
+            "total": 2,
+            "diff": -2,
+            "winRate": 0
+          },
+          "synced": true,
+          "profileHref": "/players/%E3%82%8B%E3%81%B9%E3%81%97%E3%81%B9-2968006783"
+        },
+        {
+          "fighterId": "1705862098",
+          "name": "莎士比亞",
+          "characterId": 33,
+          "character": "Yasmine",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 0,
+            "losses": 2,
+            "draws": 0,
+            "total": 2,
+            "diff": -2,
+            "winRate": 0
+          },
+          "synced": true,
+          "profileHref": "/players/%E8%8E%8E%E5%A3%AB%E6%AF%94%E4%BA%9E-1705862098"
+        },
+        {
+          "fighterId": "2182861067",
+          "name": "ショートスリーパー",
+          "characterId": 1,
+          "character": "Ryu",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 1,
+            "losses": 3,
+            "draws": 0,
+            "total": 4,
+            "diff": -2,
+            "winRate": 25
+          },
+          "synced": true,
+          "profileHref": "/players/%E6%8F%9A%E3%81%92%E7%89%A9%E5%A4%A7%E5%A5%BD%E3%81%8D-2182861067"
+        },
+        {
+          "fighterId": "1929446477",
+          "name": "ARAKI_T",
+          "characterId": 33,
+          "character": "Yasmine",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 0,
+            "losses": 3,
+            "draws": 0,
+            "total": 3,
+            "diff": -3,
+            "winRate": 0
+          },
+          "synced": false,
+          "profileHref": "/players/araki-t-1929446477"
+        },
+        {
+          "fighterId": "2535164500",
+          "name": "さんしょくだんご",
+          "characterId": 31,
+          "character": "Alex",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 0,
+            "losses": 4,
+            "draws": 0,
+            "total": 4,
+            "diff": -4,
+            "winRate": 0
+          },
+          "synced": false,
+          "profileHref": "/players/%E3%81%95%E3%82%93%E3%81%97%E3%82%87%E3%81%8F%E3%81%A0%E3%82%93%E3%81%94-2535164500"
+        },
+        {
+          "fighterId": "3289625859",
+          "name": "うめしそ＠たんぱく質不足",
+          "characterId": 1,
+          "character": "Ryu",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 1,
+            "losses": 14,
+            "draws": 0,
+            "total": 15,
+            "diff": -13,
+            "winRate": 6.666666666666667
+          },
+          "synced": true,
+          "profileHref": "/players/%E3%81%86%E3%82%81%E3%81%97%E3%81%9D-%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA%E4%B8%8D%E8%B6%B3-3289625859"
+        }
+      ],
+      "tormentors": [
+        {
+          "fighterId": "3289625859",
+          "name": "うめしそ＠たんぱく質不足",
+          "characterId": 1,
+          "character": "Ryu",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 1,
+            "losses": 14,
+            "draws": 0,
+            "total": 15,
+            "diff": -13,
+            "winRate": 6.666666666666667
+          },
+          "synced": true,
+          "profileHref": "/players/%E3%81%86%E3%82%81%E3%81%97%E3%81%9D-%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA%E4%B8%8D%E8%B6%B3-3289625859"
+        },
+        {
+          "fighterId": "2535164500",
+          "name": "さんしょくだんご",
+          "characterId": 31,
+          "character": "Alex",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 0,
+            "losses": 4,
+            "draws": 0,
+            "total": 4,
+            "diff": -4,
+            "winRate": 0
+          },
+          "synced": false,
+          "profileHref": "/players/%E3%81%95%E3%82%93%E3%81%97%E3%82%87%E3%81%8F%E3%81%A0%E3%82%93%E3%81%94-2535164500"
+        },
+        {
+          "fighterId": "1929446477",
+          "name": "ARAKI_T",
+          "characterId": 33,
+          "character": "Yasmine",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 0,
+            "losses": 3,
+            "draws": 0,
+            "total": 3,
+            "diff": -3,
+            "winRate": 0
+          },
+          "synced": false,
+          "profileHref": "/players/araki-t-1929446477"
+        },
+        {
+          "fighterId": "2968006783",
+          "name": "るべしべ",
+          "characterId": 34,
+          "character": "Arjun",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 0,
+            "losses": 2,
+            "draws": 0,
+            "total": 2,
+            "diff": -2,
+            "winRate": 0
+          },
+          "synced": true,
+          "profileHref": "/players/%E3%82%8B%E3%81%B9%E3%81%97%E3%81%B9-2968006783"
+        },
+        {
+          "fighterId": "1705862098",
+          "name": "莎士比亞",
+          "characterId": 33,
+          "character": "Yasmine",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 0,
+            "losses": 2,
+            "draws": 0,
+            "total": 2,
+            "diff": -2,
+            "winRate": 0
+          },
+          "synced": true,
+          "profileHref": "/players/%E8%8E%8E%E5%A3%AB%E6%AF%94%E4%BA%9E-1705862098"
+        },
+        {
+          "fighterId": "2182861067",
+          "name": "ショートスリーパー",
+          "characterId": 1,
+          "character": "Ryu",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 1,
+            "losses": 3,
+            "draws": 0,
+            "total": 4,
+            "diff": -2,
+            "winRate": 25
+          },
+          "synced": true,
+          "profileHref": "/players/%E6%8F%9A%E3%81%92%E7%89%A9%E5%A4%A7%E5%A5%BD%E3%81%8D-2182861067"
+        },
+        {
+          "fighterId": "3443171786",
+          "name": "電子もくづ",
+          "characterId": 25,
+          "character": "Sagat",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 1,
+            "losses": 1,
+            "draws": 0,
+            "total": 2,
+            "diff": 0,
+            "winRate": 50
+          },
+          "synced": true,
+          "profileHref": "/players/%E9%9B%BB%E5%AD%90%E3%82%82%E3%81%8F%E3%81%A5-3443171786"
+        },
+        {
+          "fighterId": "4114882105",
+          "name": "だで.aka.西成",
+          "characterId": 1,
+          "character": "Ryu",
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "score": {
+            "wins": 1,
+            "losses": 1,
+            "draws": 0,
+            "total": 2,
+            "diff": 0,
+            "winRate": 50
+          },
+          "synced": false,
+          "profileHref": "/players/%E3%81%A0%E3%81%A7-aka-%E8%A5%BF%E6%88%90-4114882105"
+        },
+        {
+          "fighterId": "1449301579",
+          "name": "いわし；",
+          "characterId": 22,
+          "character": "Akuma",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 1,
+            "losses": 1,
+            "draws": 0,
+            "total": 2,
+            "diff": 0,
+            "winRate": 50
+          },
+          "synced": true,
+          "profileHref": "/players/%E3%81%84%E3%82%8F%E3%81%97-1449301579"
+        },
+        {
+          "fighterId": "1122738358",
+          "name": "かぱめ。",
+          "characterId": 9,
+          "character": "Cammy",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 1,
+            "losses": 0,
+            "draws": 0,
+            "total": 1,
+            "diff": 1,
+            "winRate": 100
+          },
+          "synced": true,
+          "profileHref": "/players/%E3%81%8B%E3%81%B1%E3%82%81-1122738358"
+        },
+        {
+          "fighterId": "1631829047",
+          "name": "へるつぇごびな",
+          "characterId": 11,
+          "character": "Dee Jay",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 1,
+            "losses": 0,
+            "draws": 0,
+            "total": 1,
+            "diff": 1,
+            "winRate": 100
+          },
+          "synced": true,
+          "profileHref": "/players/%E3%81%B8%E3%82%8B%E3%81%A4%E3%81%87%E3%81%94%E3%81%B3%E3%81%AA-1631829047"
+        },
+        {
+          "fighterId": "1228877784",
+          "name": "rolotoast",
+          "characterId": 12,
+          "character": "Lily",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 1,
+            "losses": 0,
+            "draws": 0,
+            "total": 1,
+            "diff": 1,
+            "winRate": 100
+          },
+          "synced": false,
+          "profileHref": "/players/rolotoast-1228877784"
+        },
+        {
+          "fighterId": "4279371110",
+          "name": "WASAPEN",
+          "characterId": 10,
+          "character": "Ken",
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "score": {
+            "wins": 1,
+            "losses": 0,
+            "draws": 0,
+            "total": 1,
+            "diff": 1,
+            "winRate": 100
+          },
+          "synced": true,
+          "profileHref": "/players/wasapen-4279371110"
+        },
+        {
+          "fighterId": "2682799583",
+          "name": "めーぷる",
+          "characterId": 21,
+          "character": "Jamie",
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "score": {
+            "wins": 2,
+            "losses": 1,
+            "draws": 0,
+            "total": 3,
+            "diff": 1,
+            "winRate": 66.66666666666666
+          },
+          "synced": false,
+          "profileHref": "/players/%E3%82%81%E3%83%BC%E3%81%B7%E3%82%8B-2682799583"
+        }
+      ]
+    },
+    "rankedHistory": [],
+    "rankedHistoryMeta": {
+      "localPoints": 0,
+      "importedPoints": 0,
+      "mergedPoints": 0,
+      "storedBattles": 43,
+      "sfbuff": {
+        "pointCount": 0,
+        "lastScrapedAt": null,
+        "fresh": false,
+        "cooldownDays": 7
+      }
+    },
+    "daily": [
+      {
+        "date": "2026-09-07",
+        "score": {
+          "wins": 7,
+          "losses": 13,
+          "draws": 0,
+          "total": 20,
+          "diff": -6,
+          "winRate": 35
+        }
+      },
+      {
+        "date": "2026-09-11",
+        "score": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0,
+          "total": 1,
+          "diff": 1,
+          "winRate": 100
+        }
+      },
+      {
+        "date": "2026-09-15",
+        "score": {
+          "wins": 2,
+          "losses": 17,
+          "draws": 0,
+          "total": 19,
+          "diff": -15,
+          "winRate": 10.526315789473683
+        }
+      },
+      {
+        "date": "2026-10-14",
+        "score": {
+          "wins": 0,
+          "losses": 2,
+          "draws": 0,
+          "total": 2,
+          "diff": -2,
+          "winRate": 0
+        }
+      },
+      {
+        "date": "2026-11-12",
+        "score": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0,
+          "total": 1,
+          "diff": 1,
+          "winRate": 100
+        }
+      }
+    ],
+    "matches": [
+      {
+        "replayId": "WJLJDS34Y",
+        "replayHref": "/replays/ellegarden-%E9%A2%A8%E3%81%AE%E6%97%A5-vs-%E3%81%8B%E3%81%B1%E3%82%81-WJLJDS34Y",
+        "playedAt": "2026-11-12T13:53:21.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "ELLEGARDEN　風の日",
+          "character": "Random",
+          "characterId": 254,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 13043
+        },
+        "away": {
+          "fighterId": "1122738358",
+          "name": "かぱめ。",
+          "character": "Cammy",
+          "characterId": 9,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 2286,
+          "profileHref": "/players/%E3%81%8B%E3%81%B1%E3%82%81-1122738358",
+          "synced": true
+        },
+        "result": 1,
+        "resultLabel": "W",
+        "homeRounds": [
+          1,
+          0,
+          1
+        ],
+        "awayRounds": [
+          0,
+          1,
+          0
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "H76EHQ4Q8",
+        "replayHref": "/replays/rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-vs-%E3%82%8B%E3%81%B9%E3%81%97%E3%81%B9-H76EHQ4Q8",
+        "playedAt": "2026-10-14T17:25:27.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 11023
+        },
+        "away": {
+          "fighterId": "2968006783",
+          "name": "るべしべ",
+          "character": "Arjun",
+          "characterId": 34,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": -1,
+          "profileHref": "/players/%E3%82%8B%E3%81%B9%E3%81%97%E3%81%B9-2968006783",
+          "synced": true
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          0,
+          0
+        ],
+        "awayRounds": [
+          1,
+          8
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "U7EV87BT8",
+        "replayHref": "/replays/rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-vs-%E3%82%8B%E3%81%B9%E3%81%97%E3%81%B9-U7EV87BT8",
+        "playedAt": "2026-10-14T17:24:26.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 11023
+        },
+        "away": {
+          "fighterId": "2968006783",
+          "name": "るべしべ",
+          "character": "Arjun",
+          "characterId": 34,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": -1,
+          "profileHref": "/players/%E3%82%8B%E3%81%B9%E3%81%97%E3%81%B9-2968006783",
+          "synced": true
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          0,
+          0
+        ],
+        "awayRounds": [
+          1,
+          1
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "QB8Q9UBGT",
+        "replayHref": "/replays/rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-vs-%E8%8E%8E%E5%A3%AB%E6%AF%94%E4%BA%9E-QB8Q9UBGT",
+        "playedAt": "2026-09-15T18:17:38.000Z",
+        "battleType": "Ranked",
+        "battleTypeId": 1,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 11315
+        },
+        "away": {
+          "fighterId": "1705862098",
+          "name": "莎士比亞",
+          "character": "Yasmine",
+          "characterId": 33,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 11720,
+          "profileHref": "/players/%E8%8E%8E%E5%A3%AB%E6%AF%94%E4%BA%9E-1705862098",
+          "synced": true
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          1,
+          0,
+          0
+        ],
+        "awayRounds": [
+          0,
+          1,
+          1
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "BFAQ3WM3Q",
+        "replayHref": "/replays/rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-vs-%E8%8E%8E%E5%A3%AB%E6%AF%94%E4%BA%9E-BFAQ3WM3Q",
+        "playedAt": "2026-09-15T18:15:11.000Z",
+        "battleType": "Ranked",
+        "battleTypeId": 1,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 11355
+        },
+        "away": {
+          "fighterId": "1705862098",
+          "name": "莎士比亞",
+          "character": "Yasmine",
+          "characterId": 33,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 11670,
+          "profileHref": "/players/%E8%8E%8E%E5%A3%AB%E6%AF%94%E4%BA%9E-1705862098",
+          "synced": true
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          0,
+          0
+        ],
+        "awayRounds": [
+          1,
+          5
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "P6BGWUKAJ",
+        "replayHref": "/replays/rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-vs-%E3%81%86%E3%82%81%E3%81%97%E3%81%9D-%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA%E4%B8%8D%E8%B6%B3-P6BGWUKAJ",
+        "playedAt": "2026-09-15T16:48:10.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 11722
+        },
+        "away": {
+          "fighterId": "3289625859",
+          "name": "うめしそ＠たんぱく質不足",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 16836,
+          "profileHref": "/players/%E3%81%86%E3%82%81%E3%81%97%E3%81%9D-%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA%E4%B8%8D%E8%B6%B3-3289625859",
+          "synced": true
+        },
+        "result": 1,
+        "resultLabel": "W",
+        "homeRounds": [
+          1,
+          0,
+          6
+        ],
+        "awayRounds": [
+          0,
+          8,
+          0
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "MFNN6VL3Y",
+        "replayHref": "/replays/rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-vs-%E3%81%86%E3%82%81%E3%81%97%E3%81%9D-%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA%E4%B8%8D%E8%B6%B3-MFNN6VL3Y",
+        "playedAt": "2026-09-15T16:46:00.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 11722
+        },
+        "away": {
+          "fighterId": "3289625859",
+          "name": "うめしそ＠たんぱく質不足",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 16836,
+          "profileHref": "/players/%E3%81%86%E3%82%81%E3%81%97%E3%81%9D-%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA%E4%B8%8D%E8%B6%B3-3289625859",
+          "synced": true
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          0,
+          1,
+          0
+        ],
+        "awayRounds": [
+          5,
+          0,
+          1
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "WWSHHDNHL",
+        "replayHref": "/replays/rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-vs-%E3%81%86%E3%82%81%E3%81%97%E3%81%9D-%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA%E4%B8%8D%E8%B6%B3-WWSHHDNHL",
+        "playedAt": "2026-09-15T16:43:11.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 11722
+        },
+        "away": {
+          "fighterId": "3289625859",
+          "name": "うめしそ＠たんぱく質不足",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 16836,
+          "profileHref": "/players/%E3%81%86%E3%82%81%E3%81%97%E3%81%9D-%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA%E4%B8%8D%E8%B6%B3-3289625859",
+          "synced": true
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          0,
+          0
+        ],
+        "awayRounds": [
+          5,
+          1
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "VM5WHR9NF",
+        "replayHref": "/replays/rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-vs-%E3%81%86%E3%82%81%E3%81%97%E3%81%9D-%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA%E4%B8%8D%E8%B6%B3-VM5WHR9NF",
+        "playedAt": "2026-09-15T16:41:42.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 11722
+        },
+        "away": {
+          "fighterId": "3289625859",
+          "name": "うめしそ＠たんぱく質不足",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 16836,
+          "profileHref": "/players/%E3%81%86%E3%82%81%E3%81%97%E3%81%9D-%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA%E4%B8%8D%E8%B6%B3-3289625859",
+          "synced": true
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          1,
+          0,
+          0
+        ],
+        "awayRounds": [
+          0,
+          1,
+          1
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "GG57PFN67",
+        "replayHref": "/replays/rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-vs-%E3%81%86%E3%82%81%E3%81%97%E3%81%9D-%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA%E4%B8%8D%E8%B6%B3-GG57PFN67",
+        "playedAt": "2026-09-15T16:38:33.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 11722
+        },
+        "away": {
+          "fighterId": "3289625859",
+          "name": "うめしそ＠たんぱく質不足",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 16836,
+          "profileHref": "/players/%E3%81%86%E3%82%81%E3%81%97%E3%81%9D-%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA%E4%B8%8D%E8%B6%B3-3289625859",
+          "synced": true
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          0,
+          0
+        ],
+        "awayRounds": [
+          1,
+          5
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "GSFFWHF7P",
+        "replayHref": "/replays/rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-vs-%E3%81%86%E3%82%81%E3%81%97%E3%81%9D-%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA%E4%B8%8D%E8%B6%B3-GSFFWHF7P",
+        "playedAt": "2026-09-15T16:37:34.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 11722
+        },
+        "away": {
+          "fighterId": "3289625859",
+          "name": "うめしそ＠たんぱく質不足",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 16836,
+          "profileHref": "/players/%E3%81%86%E3%82%81%E3%81%97%E3%81%9D-%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA%E4%B8%8D%E8%B6%B3-3289625859",
+          "synced": true
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          0,
+          0
+        ],
+        "awayRounds": [
+          1,
+          1
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "KTWMLQT8A",
+        "replayHref": "/replays/rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-vs-%E3%81%86%E3%82%81%E3%81%97%E3%81%9D-%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA%E4%B8%8D%E8%B6%B3-KTWMLQT8A",
+        "playedAt": "2026-09-15T16:35:47.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 11722
+        },
+        "away": {
+          "fighterId": "3289625859",
+          "name": "うめしそ＠たんぱく質不足",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 16836,
+          "profileHref": "/players/%E3%81%86%E3%82%81%E3%81%97%E3%81%9D-%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA%E4%B8%8D%E8%B6%B3-3289625859",
+          "synced": true
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          0,
+          0
+        ],
+        "awayRounds": [
+          5,
+          5
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "U6X7PKDKL",
+        "replayHref": "/replays/rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-vs-%E3%81%86%E3%82%81%E3%81%97%E3%81%9D-%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA%E4%B8%8D%E8%B6%B3-U6X7PKDKL",
+        "playedAt": "2026-09-15T16:34:55.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 11722
+        },
+        "away": {
+          "fighterId": "3289625859",
+          "name": "うめしそ＠たんぱく質不足",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 16836,
+          "profileHref": "/players/%E3%81%86%E3%82%81%E3%81%97%E3%81%9D-%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA%E4%B8%8D%E8%B6%B3-3289625859",
+          "synced": true
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          1,
+          0,
+          0
+        ],
+        "awayRounds": [
+          0,
+          5,
+          1
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "U8LQ7HEA9",
+        "replayHref": "/replays/rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-vs-%E3%81%86%E3%82%81%E3%81%97%E3%81%9D-%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA%E4%B8%8D%E8%B6%B3-U8LQ7HEA9",
+        "playedAt": "2026-09-15T16:31:59.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 11722
+        },
+        "away": {
+          "fighterId": "3289625859",
+          "name": "うめしそ＠たんぱく質不足",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 16836,
+          "profileHref": "/players/%E3%81%86%E3%82%81%E3%81%97%E3%81%9D-%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA%E4%B8%8D%E8%B6%B3-3289625859",
+          "synced": true
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          5,
+          0,
+          0
+        ],
+        "awayRounds": [
+          0,
+          1,
+          1
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "7PQQ8QQSR",
+        "replayHref": "/replays/rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-vs-%E3%81%86%E3%82%81%E3%81%97%E3%81%9D-%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA%E4%B8%8D%E8%B6%B3-7PQQ8QQSR",
+        "playedAt": "2026-09-15T16:28:34.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 11722
+        },
+        "away": {
+          "fighterId": "3289625859",
+          "name": "うめしそ＠たんぱく質不足",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 16836,
+          "profileHref": "/players/%E3%81%86%E3%82%81%E3%81%97%E3%81%9D-%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA%E4%B8%8D%E8%B6%B3-3289625859",
+          "synced": true
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          0,
+          0
+        ],
+        "awayRounds": [
+          5,
+          1
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "WJQ48HQ4F",
+        "replayHref": "/replays/rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-vs-%E3%81%86%E3%82%81%E3%81%97%E3%81%9D-%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA%E4%B8%8D%E8%B6%B3-WJQ48HQ4F",
+        "playedAt": "2026-09-15T16:25:54.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 11722
+        },
+        "away": {
+          "fighterId": "3289625859",
+          "name": "うめしそ＠たんぱく質不足",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 16836,
+          "profileHref": "/players/%E3%81%86%E3%82%81%E3%81%97%E3%81%9D-%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA%E4%B8%8D%E8%B6%B3-3289625859",
+          "synced": true
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          0,
+          0
+        ],
+        "awayRounds": [
+          1,
+          5
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "E9L6VXM3Y",
+        "replayHref": "/replays/rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-vs-%E3%81%86%E3%82%81%E3%81%97%E3%81%9D-%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA%E4%B8%8D%E8%B6%B3-E9L6VXM3Y",
+        "playedAt": "2026-09-15T16:24:19.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 11722
+        },
+        "away": {
+          "fighterId": "3289625859",
+          "name": "うめしそ＠たんぱく質不足",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 16836,
+          "profileHref": "/players/%E3%81%86%E3%82%81%E3%81%97%E3%81%9D-%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA%E4%B8%8D%E8%B6%B3-3289625859",
+          "synced": true
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          0,
+          0
+        ],
+        "awayRounds": [
+          1,
+          1
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "X9P9YTY9U",
+        "replayHref": "/replays/rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-vs-%E3%81%86%E3%82%81%E3%81%97%E3%81%9D-%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA%E4%B8%8D%E8%B6%B3-X9P9YTY9U",
+        "playedAt": "2026-09-15T16:22:13.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 11722
+        },
+        "away": {
+          "fighterId": "3289625859",
+          "name": "うめしそ＠たんぱく質不足",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 16836,
+          "profileHref": "/players/%E3%81%86%E3%82%81%E3%81%97%E3%81%9D-%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA%E4%B8%8D%E8%B6%B3-3289625859",
+          "synced": true
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          0,
+          0
+        ],
+        "awayRounds": [
+          1,
+          6
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "C7W9E7XEJ",
+        "replayHref": "/replays/rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-vs-%E3%81%86%E3%82%81%E3%81%97%E3%81%9D-%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA%E4%B8%8D%E8%B6%B3-C7W9E7XEJ",
+        "playedAt": "2026-09-15T16:20:16.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 11722
+        },
+        "away": {
+          "fighterId": "3289625859",
+          "name": "うめしそ＠たんぱく質不足",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 16836,
+          "profileHref": "/players/%E3%81%86%E3%82%81%E3%81%97%E3%81%9D-%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA%E4%B8%8D%E8%B6%B3-3289625859",
+          "synced": true
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          0,
+          0
+        ],
+        "awayRounds": [
+          1,
+          1
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "SVYS3PGY9",
+        "replayHref": "/replays/rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-vs-%E3%81%86%E3%82%81%E3%81%97%E3%81%9D-%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA%E4%B8%8D%E8%B6%B3-SVYS3PGY9",
+        "playedAt": "2026-09-15T16:18:17.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 11722
+        },
+        "away": {
+          "fighterId": "3289625859",
+          "name": "うめしそ＠たんぱく質不足",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 16836,
+          "profileHref": "/players/%E3%81%86%E3%82%81%E3%81%97%E3%81%9D-%E3%81%9F%E3%82%93%E3%81%B1%E3%81%8F%E8%B3%AA%E4%B8%8D%E8%B6%B3-3289625859",
+          "synced": true
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          0,
+          1,
+          0
+        ],
+        "awayRounds": [
+          1,
+          0,
+          5
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "9JTQQFJU7",
+        "replayHref": "/replays/%E9%9B%BB%E5%AD%90%E3%82%82%E3%81%8F%E3%81%A5-vs-rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-9JTQQFJU7",
+        "playedAt": "2026-09-15T16:08:43.000Z",
+        "battleType": "Ranked",
+        "battleTypeId": 1,
+        "homeSide": 2,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 11577
+        },
+        "away": {
+          "fighterId": "3443171786",
+          "name": "電子もくづ",
+          "character": "Sagat",
+          "characterId": 25,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 11865,
+          "profileHref": "/players/%E9%9B%BB%E5%AD%90%E3%82%82%E3%81%8F%E3%81%A5-3443171786",
+          "synced": true
+        },
+        "result": 1,
+        "resultLabel": "W",
+        "homeRounds": [
+          5,
+          0,
+          6
+        ],
+        "awayRounds": [
+          0,
+          1,
+          0
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "YJYA5WDFW",
+        "replayHref": "/replays/%E9%9B%BB%E5%AD%90%E3%82%82%E3%81%8F%E3%81%A5-vs-rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-YJYA5WDFW",
+        "playedAt": "2026-09-15T16:06:26.000Z",
+        "battleType": "Ranked",
+        "battleTypeId": 1,
+        "homeSide": 2,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 11617
+        },
+        "away": {
+          "fighterId": "3443171786",
+          "name": "電子もくづ",
+          "character": "Sagat",
+          "characterId": 25,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 11810,
+          "profileHref": "/players/%E9%9B%BB%E5%AD%90%E3%82%82%E3%81%8F%E3%81%A5-3443171786",
+          "synced": true
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          0,
+          0
+        ],
+        "awayRounds": [
+          1,
+          1
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "E7B8L9N7U",
+        "replayHref": "/replays/rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-vs-%E3%81%B8%E3%82%8B%E3%81%A4%E3%81%87%E3%81%94%E3%81%B3%E3%81%AA-E7B8L9N7U",
+        "playedAt": "2026-09-11T11:55:26.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 11617
+        },
+        "away": {
+          "fighterId": "1631829047",
+          "name": "へるつぇごびな",
+          "character": "Dee Jay",
+          "characterId": 11,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": -1,
+          "profileHref": "/players/%E3%81%B8%E3%82%8B%E3%81%A4%E3%81%87%E3%81%94%E3%81%B3%E3%81%AA-1631829047",
+          "synced": true
+        },
+        "result": 1,
+        "resultLabel": "W",
+        "homeRounds": [
+          1,
+          0,
+          1
+        ],
+        "awayRounds": [
+          0,
+          1,
+          0
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "CPDC9QVPM",
+        "replayHref": "/replays/rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-vs-%E3%82%81%E3%83%BC%E3%81%B7%E3%82%8B-CPDC9QVPM",
+        "playedAt": "2026-09-07T18:30:03.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 11587
+        },
+        "away": {
+          "fighterId": "2682799583",
+          "name": "めーぷる",
+          "character": "Jamie",
+          "characterId": 21,
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "mr": 0,
+          "lp": -1,
+          "profileHref": "/players/%E3%82%81%E3%83%BC%E3%81%B7%E3%82%8B-2682799583",
+          "synced": false
+        },
+        "result": 1,
+        "resultLabel": "W",
+        "homeRounds": [
+          1,
+          0,
+          1
+        ],
+        "awayRounds": [
+          0,
+          5,
+          0
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "VTRA93VUD",
+        "replayHref": "/replays/rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-vs-araki-t-VTRA93VUD",
+        "playedAt": "2026-09-07T18:20:42.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 11587
+        },
+        "away": {
+          "fighterId": "1929446477",
+          "name": "ARAKI_T",
+          "character": "Yasmine",
+          "characterId": 33,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 18785,
+          "profileHref": "/players/araki-t-1929446477",
+          "synced": false
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          1,
+          0,
+          0
+        ],
+        "awayRounds": [
+          0,
+          1,
+          6
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "YSH4FDGAM",
+        "replayHref": "/replays/rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-vs-araki-t-YSH4FDGAM",
+        "playedAt": "2026-09-07T18:18:23.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 11587
+        },
+        "away": {
+          "fighterId": "1929446477",
+          "name": "ARAKI_T",
+          "character": "Yasmine",
+          "characterId": 33,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 18785,
+          "profileHref": "/players/araki-t-1929446477",
+          "synced": false
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          0,
+          1,
+          0
+        ],
+        "awayRounds": [
+          8,
+          0,
+          1
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "K9JAKEB79",
+        "replayHref": "/replays/rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-vs-araki-t-K9JAKEB79",
+        "playedAt": "2026-09-07T18:15:41.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 11587
+        },
+        "away": {
+          "fighterId": "1929446477",
+          "name": "ARAKI_T",
+          "character": "Yasmine",
+          "characterId": 33,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 18785,
+          "profileHref": "/players/araki-t-1929446477",
+          "synced": false
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          0,
+          0
+        ],
+        "awayRounds": [
+          1,
+          1
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "AMCY4BM3F",
+        "replayHref": "/replays/rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-vs-rolotoast-AMCY4BM3F",
+        "playedAt": "2026-09-07T18:09:36.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 11587
+        },
+        "away": {
+          "fighterId": "1228877784",
+          "name": "rolotoast",
+          "character": "Lily",
+          "characterId": 12,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 1120,
+          "profileHref": "/players/rolotoast-1228877784",
+          "synced": false
+        },
+        "result": 1,
+        "resultLabel": "W",
+        "homeRounds": [
+          1,
+          1
+        ],
+        "awayRounds": [
+          0,
+          0
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "GAQTVMSDY",
+        "replayHref": "/replays/rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-vs-%E3%82%81%E3%83%BC%E3%81%B7%E3%82%8B-GAQTVMSDY",
+        "playedAt": "2026-09-07T18:04:39.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 11587
+        },
+        "away": {
+          "fighterId": "2682799583",
+          "name": "めーぷる",
+          "character": "Jamie",
+          "characterId": 21,
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "mr": 0,
+          "lp": -1,
+          "profileHref": "/players/%E3%82%81%E3%83%BC%E3%81%B7%E3%82%8B-2682799583",
+          "synced": false
+        },
+        "result": 1,
+        "resultLabel": "W",
+        "homeRounds": [
+          1,
+          1
+        ],
+        "awayRounds": [
+          0,
+          0
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "SFCKK6GLR",
+        "replayHref": "/replays/rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-vs-%E3%82%81%E3%83%BC%E3%81%B7%E3%82%8B-SFCKK6GLR",
+        "playedAt": "2026-09-07T18:02:31.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 11587
+        },
+        "away": {
+          "fighterId": "2682799583",
+          "name": "めーぷる",
+          "character": "Jamie",
+          "characterId": 21,
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "mr": 0,
+          "lp": -1,
+          "profileHref": "/players/%E3%82%81%E3%83%BC%E3%81%B7%E3%82%8B-2682799583",
+          "synced": false
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          0,
+          1,
+          0
+        ],
+        "awayRounds": [
+          1,
+          0,
+          1
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "SUGARYVCT",
+        "replayHref": "/replays/%E3%81%95%E3%82%93%E3%81%97%E3%82%87%E3%81%8F%E3%81%A0%E3%82%93%E3%81%94-vs-rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-SUGARYVCT",
+        "playedAt": "2026-09-07T17:58:14.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 2,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Random",
+          "characterId": 254,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 13043
+        },
+        "away": {
+          "fighterId": "2535164500",
+          "name": "さんしょくだんご",
+          "character": "Alex",
+          "characterId": 31,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": -1,
+          "profileHref": "/players/%E3%81%95%E3%82%93%E3%81%97%E3%82%87%E3%81%8F%E3%81%A0%E3%82%93%E3%81%94-2535164500",
+          "synced": false
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          0,
+          0
+        ],
+        "awayRounds": [
+          1,
+          6
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "JNA4KYNKY",
+        "replayHref": "/replays/%E3%81%95%E3%82%93%E3%81%97%E3%82%87%E3%81%8F%E3%81%A0%E3%82%93%E3%81%94-vs-rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-JNA4KYNKY",
+        "playedAt": "2026-09-07T17:56:49.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 2,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Random",
+          "characterId": 254,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 13043
+        },
+        "away": {
+          "fighterId": "2535164500",
+          "name": "さんしょくだんご",
+          "character": "Alex",
+          "characterId": 31,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": -1,
+          "profileHref": "/players/%E3%81%95%E3%82%93%E3%81%97%E3%82%87%E3%81%8F%E3%81%A0%E3%82%93%E3%81%94-2535164500",
+          "synced": false
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          0,
+          0
+        ],
+        "awayRounds": [
+          5,
+          1
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "S6NCN3DA4",
+        "replayHref": "/replays/%E3%81%95%E3%82%93%E3%81%97%E3%82%87%E3%81%8F%E3%81%A0%E3%82%93%E3%81%94-vs-rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-S6NCN3DA4",
+        "playedAt": "2026-09-07T17:54:58.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 2,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Random",
+          "characterId": 254,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 13043
+        },
+        "away": {
+          "fighterId": "2535164500",
+          "name": "さんしょくだんご",
+          "character": "Alex",
+          "characterId": 31,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": -1,
+          "profileHref": "/players/%E3%81%95%E3%82%93%E3%81%97%E3%82%87%E3%81%8F%E3%81%A0%E3%82%93%E3%81%94-2535164500",
+          "synced": false
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          0,
+          0
+        ],
+        "awayRounds": [
+          1,
+          6
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "C6FD5UXJT",
+        "replayHref": "/replays/%E3%81%95%E3%82%93%E3%81%97%E3%82%87%E3%81%8F%E3%81%A0%E3%82%93%E3%81%94-vs-rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-C6FD5UXJT",
+        "playedAt": "2026-09-07T17:52:53.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 2,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Random",
+          "characterId": 254,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 13043
+        },
+        "away": {
+          "fighterId": "2535164500",
+          "name": "さんしょくだんご",
+          "character": "Alex",
+          "characterId": 31,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": -1,
+          "profileHref": "/players/%E3%81%95%E3%82%93%E3%81%97%E3%82%87%E3%81%8F%E3%81%A0%E3%82%93%E3%81%94-2535164500",
+          "synced": false
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          0,
+          0
+        ],
+        "awayRounds": [
+          1,
+          1
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "HERYRCCDR",
+        "replayHref": "/replays/rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-vs-%E3%81%A0%E3%81%A7-aka-%E8%A5%BF%E6%88%90-HERYRCCDR",
+        "playedAt": "2026-09-07T17:45:47.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Random",
+          "characterId": 254,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 13043
+        },
+        "away": {
+          "fighterId": "4114882105",
+          "name": "だで.aka.西成",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "mr": 0,
+          "lp": 19026,
+          "profileHref": "/players/%E3%81%A0%E3%81%A7-aka-%E8%A5%BF%E6%88%90-4114882105",
+          "synced": false
+        },
+        "result": 1,
+        "resultLabel": "W",
+        "homeRounds": [
+          0,
+          1,
+          1
+        ],
+        "awayRounds": [
+          1,
+          0,
+          0
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "JPVRHH47K",
+        "replayHref": "/replays/rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-vs-%E3%81%A0%E3%81%A7-aka-%E8%A5%BF%E6%88%90-JPVRHH47K",
+        "playedAt": "2026-09-07T17:43:26.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Random",
+          "characterId": 254,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 13043
+        },
+        "away": {
+          "fighterId": "4114882105",
+          "name": "だで.aka.西成",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "mr": 0,
+          "lp": 19026,
+          "profileHref": "/players/%E3%81%A0%E3%81%A7-aka-%E8%A5%BF%E6%88%90-4114882105",
+          "synced": false
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          0,
+          1,
+          0
+        ],
+        "awayRounds": [
+          6,
+          0,
+          1
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "WTXQK7WKN",
+        "replayHref": "/replays/rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-vs-%E3%81%84%E3%82%8F%E3%81%97-WTXQK7WKN",
+        "playedAt": "2026-09-07T17:34:34.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 11587
+        },
+        "away": {
+          "fighterId": "1449301579",
+          "name": "いわし；",
+          "character": "Akuma",
+          "characterId": 22,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": -1,
+          "profileHref": "/players/%E3%81%84%E3%82%8F%E3%81%97-1449301579",
+          "synced": true
+        },
+        "result": 1,
+        "resultLabel": "W",
+        "homeRounds": [
+          1,
+          5
+        ],
+        "awayRounds": [
+          0,
+          0
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "BJN5EARW6",
+        "replayHref": "/replays/rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-vs-%E3%81%84%E3%82%8F%E3%81%97-BJN5EARW6",
+        "playedAt": "2026-09-07T17:32:35.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 11587
+        },
+        "away": {
+          "fighterId": "1449301579",
+          "name": "いわし；",
+          "character": "Akuma",
+          "characterId": 22,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": -1,
+          "profileHref": "/players/%E3%81%84%E3%82%8F%E3%81%97-1449301579",
+          "synced": true
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          0,
+          1,
+          0
+        ],
+        "awayRounds": [
+          1,
+          0,
+          1
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "LES73RFXJ",
+        "replayHref": "/replays/rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-vs-wasapen-LES73RFXJ",
+        "playedAt": "2026-09-07T17:27:30.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 11587
+        },
+        "away": {
+          "fighterId": "4279371110",
+          "name": "WASAPEN",
+          "character": "Ken",
+          "characterId": 10,
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "mr": 0,
+          "lp": -1,
+          "profileHref": "/players/wasapen-4279371110",
+          "synced": true
+        },
+        "result": 1,
+        "resultLabel": "W",
+        "homeRounds": [
+          1,
+          1
+        ],
+        "awayRounds": [
+          0,
+          0
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "MTEPW8TYN",
+        "replayHref": "/replays/rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-vs-%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%91%E3%83%BC-MTEPW8TYN",
+        "playedAt": "2026-09-07T16:39:34.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 11587
+        },
+        "away": {
+          "fighterId": "2182861067",
+          "name": "ショートスリーパー",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 7971,
+          "profileHref": "/players/%E6%8F%9A%E3%81%92%E7%89%A9%E5%A4%A7%E5%A5%BD%E3%81%8D-2182861067",
+          "synced": true
+        },
+        "result": 1,
+        "resultLabel": "W",
+        "homeRounds": [
+          5,
+          1
+        ],
+        "awayRounds": [
+          0,
+          0
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "FP3UJDQG4",
+        "replayHref": "/replays/%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%91%E3%83%BC-vs-rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-FP3UJDQG4",
+        "playedAt": "2026-09-07T16:13:35.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 2,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 11587
+        },
+        "away": {
+          "fighterId": "2182861067",
+          "name": "ショートスリーパー",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 7971,
+          "profileHref": "/players/%E6%8F%9A%E3%81%92%E7%89%A9%E5%A4%A7%E5%A5%BD%E3%81%8D-2182861067",
+          "synced": true
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          0,
+          1,
+          0
+        ],
+        "awayRounds": [
+          5,
+          0,
+          7
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "DWN6WA9AW",
+        "replayHref": "/replays/%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%91%E3%83%BC-vs-rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-DWN6WA9AW",
+        "playedAt": "2026-09-07T16:11:14.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 2,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 11587
+        },
+        "away": {
+          "fighterId": "2182861067",
+          "name": "ショートスリーパー",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 7971,
+          "profileHref": "/players/%E6%8F%9A%E3%81%92%E7%89%A9%E5%A4%A7%E5%A5%BD%E3%81%8D-2182861067",
+          "synced": true
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          0,
+          0
+        ],
+        "awayRounds": [
+          1,
+          1
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "7TRAFNYBQ",
+        "replayHref": "/replays/%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%B9%E3%83%AA%E3%83%BC%E3%83%91%E3%83%BC-vs-rize-%E3%82%AB%E3%83%9F%E3%83%8A%E3%83%AA-7TRAFNYBQ",
+        "playedAt": "2026-09-07T16:09:46.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 2,
+        "home": {
+          "fighterId": "2984953701",
+          "name": "RIZE  カミナリ",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 11587
+        },
+        "away": {
+          "fighterId": "2182861067",
+          "name": "ショートスリーパー",
+          "character": "Ryu",
+          "characterId": 1,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 7971,
+          "profileHref": "/players/%E6%8F%9A%E3%81%92%E7%89%A9%E5%A4%A7%E5%A5%BD%E3%81%8D-2182861067",
+          "synced": true
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          0,
+          1,
+          0
+        ],
+        "awayRounds": [
+          1,
+          0,
+          1
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      }
+    ],
+    "capcom": {
+      "seasonId": 13,
+      "seasons": [
+        13,
+        12,
+        11,
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "banner": {
+        "name": "RIZE  カミナリ",
+        "shortId": "2984953701",
+        "platform": "CrossPlatform",
+        "platformTool": "cross",
+        "platformIconUrl": "https://www.streetfighter.com/6/buckler/assets/images/common/icon_cross.png",
+        "favoriteCharacterId": 1,
+        "favoriteCharacter": "Ryu",
+        "mostPlayedCharacterId": 1,
+        "mostPlayedCharacter": "Ryu",
+        "mainCharacterId": 1,
+        "mainCharacter": "Ryu",
+        "mr": 0,
+        "lp": 11587,
+        "leagueRank": 24,
+        "masterLeague": 0,
+        "mrRanking": 0,
+        "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank24_s.png",
+        "homeId": 138,
+        "homeName": "South Korea",
+        "flagUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/national_frag/frag138.png",
+        "lastPlayAt": "2026-09-08T17:20:32.000Z",
+        "title": "Newcomer",
+        "titlePlateName": "31-45ea5a76dcd1a3745bd07e57c380c8",
+        "titlePlateUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/title/31-45ea5a76dcd1a3745bd07e57c380c8.png",
+        "comment": "None",
+        "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_ryu.jpg",
+        "mainCircle": {
+          "id": "5017d49318454bb4a152d344d59e79f3",
+          "name": "GAMEnantoka"
+        },
+        "inputType": 0,
+        "enjoyFightPoint": 2389,
+        "enjoyTotalPoint": 2610,
+        "enjoyUserPoint": 221
+      },
+      "playTime": [
+        {
+          "name": "Practice",
+          "seconds": 7239638,
+          "hours": 2011
+        },
+        {
+          "name": "Casual Matches",
+          "seconds": 2228233,
+          "hours": 619
+        },
+        {
+          "name": "Battle Hub",
+          "seconds": 386470,
+          "hours": 107.4
+        },
+        {
+          "name": "Ranked Matches",
+          "seconds": 316276,
+          "hours": 87.9
+        },
+        {
+          "name": "Custom Room Matches",
+          "seconds": 155781,
+          "hours": 43.3
+        },
+        {
+          "name": "Offline Matches",
+          "seconds": 99123,
+          "hours": 27.5
+        },
+        {
+          "name": "World Tour",
+          "seconds": 80282,
+          "hours": 22.3
+        },
+        {
+          "name": "Arcade",
+          "seconds": 11676,
+          "hours": 3.2
+        },
+        {
+          "name": "Special Matches",
+          "seconds": 486,
+          "hours": 0.1
+        },
+        {
+          "name": "Avatar Room",
+          "seconds": 334,
+          "hours": 0.1
+        }
+      ],
+      "battleStats": {
+        "rankedGames": 2015,
+        "casualGames": 14780,
+        "hubGames": 215,
+        "customGames": 488,
+        "habits": [
+          {
+            "key": "drive_impact",
+            "label": "Drive Impact / game",
+            "value": 0.2,
+            "format": "rate"
+          },
+          {
+            "key": "drive_parry",
+            "label": "Drive Parry / game",
+            "value": 1.6,
+            "format": "rate"
+          },
+          {
+            "key": "just_parry",
+            "label": "Perfect Parry / game",
+            "value": 0.1,
+            "format": "rate"
+          },
+          {
+            "key": "drive_reversal",
+            "label": "Drive Reversal / game",
+            "value": 0.7,
+            "format": "rate"
+          },
+          {
+            "key": "punish_counter",
+            "label": "Punish Counter / game",
+            "value": 0.1,
+            "format": "rate"
+          },
+          {
+            "key": "received_punish_counter",
+            "label": "Got PC'd / game",
+            "value": 0.4,
+            "format": "rate"
+          },
+          {
+            "key": "throw_count",
+            "label": "Throws / game",
+            "value": 3.9,
+            "format": "rate"
+          },
+          {
+            "key": "throw_tech",
+            "label": "Throw techs / game",
+            "value": 0.4,
+            "format": "rate"
+          },
+          {
+            "key": "throw_drive_parry",
+            "label": "Throw parries / game",
+            "value": 0.1,
+            "format": "rate"
+          },
+          {
+            "key": "received_throw_count",
+            "label": "Got thrown / game",
+            "value": 2.7,
+            "format": "rate"
+          },
+          {
+            "key": "stun",
+            "label": "Stuns / game",
+            "value": 0,
+            "format": "rate"
+          },
+          {
+            "key": "received_stun",
+            "label": "Got stunned / game",
+            "value": 0,
+            "format": "rate"
+          },
+          {
+            "key": "corner_time",
+            "label": "Corner pressure time",
+            "value": 2.9,
+            "format": "rate"
+          },
+          {
+            "key": "cornered_time",
+            "label": "Time cornered",
+            "value": 5.4,
+            "format": "rate"
+          },
+          {
+            "key": "gauge_rate_drive_rush_from_cancel",
+            "label": "Drive Rush (cancel) share",
+            "value": 0.3816,
+            "format": "rate"
+          },
+          {
+            "key": "gauge_rate_drive_rush_from_parry",
+            "label": "Drive Rush (parry) share",
+            "value": 0.0089,
+            "format": "rate"
+          },
+          {
+            "key": "gauge_rate_drive_arts",
+            "label": "Drive Arts share",
+            "value": 0.2033,
+            "format": "rate"
+          },
+          {
+            "key": "gauge_rate_drive_impact",
+            "label": "Drive Impact gauge share",
+            "value": 0.0227,
+            "format": "rate"
+          },
+          {
+            "key": "gauge_rate_drive_guard",
+            "label": "Drive Guard share",
+            "value": 0.0732,
+            "format": "rate"
+          },
+          {
+            "key": "gauge_rate_sa_lv1",
+            "label": "SA1 usage share",
+            "value": 0.5614,
+            "format": "rate"
+          },
+          {
+            "key": "gauge_rate_sa_lv2",
+            "label": "SA2 usage share",
+            "value": 0.0701,
+            "format": "rate"
+          },
+          {
+            "key": "gauge_rate_sa_lv3",
+            "label": "SA3 usage share",
+            "value": 0.2105,
+            "format": "rate"
+          },
+          {
+            "key": "gauge_rate_ca",
+            "label": "CA usage share",
+            "value": 0.1578,
+            "format": "rate"
+          }
+        ]
+      },
+      "characterWinRates": [
+        {
+          "characterId": 1,
+          "character": "Ryu",
+          "wins": 92,
+          "games": 286,
+          "winRate": 32.16783216783217
+        },
+        {
+          "characterId": 20,
+          "character": "Edmond Honda",
+          "wins": 3,
+          "games": 3,
+          "winRate": 100
+        },
+        {
+          "characterId": 8,
+          "character": "Dhalsim",
+          "wins": 2,
+          "games": 2,
+          "winRate": 100
+        }
+      ],
+      "characterLeagues": [
+        {
+          "characterId": 1,
+          "character": "Ryu",
+          "lp": 11587,
+          "mr": null,
+          "leagueRank": 24,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank24_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_ryu_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_ryu.jpg"
+        },
+        {
+          "characterId": 2,
+          "character": "Luke",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_luke_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_luke.jpg"
+        },
+        {
+          "characterId": 3,
+          "character": "Kimberly",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_kimberly_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_kimberly.jpg"
+        },
+        {
+          "characterId": 4,
+          "character": "Chun-Li",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_chunli_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_chunli.jpg"
+        },
+        {
+          "characterId": 5,
+          "character": "Manon",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_manon_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_manon.jpg"
+        },
+        {
+          "characterId": 6,
+          "character": "Zangief",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_zangief_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_zangief.jpg"
+        },
+        {
+          "characterId": 7,
+          "character": "JP",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_jp_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_jp.jpg"
+        },
+        {
+          "characterId": 8,
+          "character": "Dhalsim",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_dhalsim_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_dhalsim.jpg"
+        },
+        {
+          "characterId": 9,
+          "character": "Cammy",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_cammy_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_cammy.jpg"
+        },
+        {
+          "characterId": 10,
+          "character": "Ken",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_ken_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_ken.jpg"
+        },
+        {
+          "characterId": 11,
+          "character": "Dee Jay",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_deejay_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_deejay.jpg"
+        },
+        {
+          "characterId": 12,
+          "character": "Lily",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_lily_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_lily.jpg"
+        },
+        {
+          "characterId": 13,
+          "character": "A.K.I.",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_aki_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_aki.jpg"
+        },
+        {
+          "characterId": 14,
+          "character": "Rashid",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_rashid_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_rashid.jpg"
+        },
+        {
+          "characterId": 15,
+          "character": "Blanka",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_blanka_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_blanka.jpg"
+        },
+        {
+          "characterId": 16,
+          "character": "Juri",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_juri_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_juri.jpg"
+        },
+        {
+          "characterId": 17,
+          "character": "Marisa",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_marisa_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_marisa.jpg"
+        },
+        {
+          "characterId": 18,
+          "character": "Guile",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_guile_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_guile.jpg"
+        },
+        {
+          "characterId": 19,
+          "character": "Ed",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_ed_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_ed.jpg"
+        },
+        {
+          "characterId": 20,
+          "character": "Edmond Honda",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_honda_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_honda.jpg"
+        },
+        {
+          "characterId": 21,
+          "character": "Jamie",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_jamie_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_jamie.jpg"
+        },
+        {
+          "characterId": 22,
+          "character": "Akuma",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_gouki_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_gouki.jpg"
+        },
+        {
+          "characterId": 25,
+          "character": "Sagat",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_sagat_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_sagat.jpg"
+        },
+        {
+          "characterId": 26,
+          "character": "M. Bison",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_vega_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_vega.jpg"
+        },
+        {
+          "characterId": 27,
+          "character": "Terry",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_terry_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_terry.jpg"
+        },
+        {
+          "characterId": 28,
+          "character": "Mai",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_mai_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_mai.jpg"
+        },
+        {
+          "characterId": 29,
+          "character": "Elena",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_elena_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_elena.jpg"
+        },
+        {
+          "characterId": 31,
+          "character": "Alex",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_alex_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_alex.jpg"
+        }
+      ],
+      "officialMatchups": [
+        {
+          "characterId": 1,
+          "character": "Ryu",
+          "vs": [
+            {
+              "characterId": 253,
+              "character": "Any",
+              "wins": 92,
+              "games": 286,
+              "winRate": 32.16783216783217
+            },
+            {
+              "characterId": 10,
+              "character": "Ken",
+              "wins": 8,
+              "games": 42,
+              "winRate": 19.047619047619047
+            },
+            {
+              "characterId": 21,
+              "character": "Jamie",
+              "wins": 12,
+              "games": 24,
+              "winRate": 50
+            },
+            {
+              "characterId": 33,
+              "character": "Yasmine",
+              "wins": 9,
+              "games": 24,
+              "winRate": 37.5
+            },
+            {
+              "characterId": 22,
+              "character": "Akuma",
+              "wins": 7,
+              "games": 20,
+              "winRate": 35
+            },
+            {
+              "characterId": 27,
+              "character": "Terry",
+              "wins": 2,
+              "games": 17,
+              "winRate": 11.76470588235294
+            },
+            {
+              "characterId": 6,
+              "character": "Zangief",
+              "wins": 2,
+              "games": 16,
+              "winRate": 12.5
+            },
+            {
+              "characterId": 9,
+              "character": "Cammy",
+              "wins": 9,
+              "games": 14,
+              "winRate": 64.28571428571429
+            },
+            {
+              "characterId": 28,
+              "character": "Mai",
+              "wins": 2,
+              "games": 14,
+              "winRate": 14.285714285714285
+            },
+            {
+              "characterId": 1,
+              "character": "Ryu",
+              "wins": 5,
+              "games": 13,
+              "winRate": 38.46153846153847
+            },
+            {
+              "characterId": 2,
+              "character": "Luke",
+              "wins": 2,
+              "games": 10,
+              "winRate": 20
+            },
+            {
+              "characterId": 11,
+              "character": "Dee Jay",
+              "wins": 2,
+              "games": 9,
+              "winRate": 22.22222222222222
+            },
+            {
+              "characterId": 16,
+              "character": "Juri",
+              "wins": 5,
+              "games": 8,
+              "winRate": 62.5
+            },
+            {
+              "characterId": 17,
+              "character": "Marisa",
+              "wins": 0,
+              "games": 8,
+              "winRate": 0
+            },
+            {
+              "characterId": 29,
+              "character": "Elena",
+              "wins": 0,
+              "games": 8,
+              "winRate": 0
+            },
+            {
+              "characterId": 31,
+              "character": "Alex",
+              "wins": 3,
+              "games": 8,
+              "winRate": 37.5
+            },
+            {
+              "characterId": 13,
+              "character": "A.K.I.",
+              "wins": 4,
+              "games": 7,
+              "winRate": 57.14285714285714
+            },
+            {
+              "characterId": 19,
+              "character": "Ed",
+              "wins": 2,
+              "games": 7,
+              "winRate": 28.57142857142857
+            },
+            {
+              "characterId": 30,
+              "character": "C. Viper",
+              "wins": 3,
+              "games": 7,
+              "winRate": 42.857142857142854
+            },
+            {
+              "characterId": 254,
+              "character": "Random",
+              "wins": 2,
+              "games": 6,
+              "winRate": 33.33333333333333
+            },
+            {
+              "characterId": 7,
+              "character": "JP",
+              "wins": 2,
+              "games": 5,
+              "winRate": 40
+            },
+            {
+              "characterId": 12,
+              "character": "Lily",
+              "wins": 3,
+              "games": 5,
+              "winRate": 60
+            },
+            {
+              "characterId": 32,
+              "character": "Ingrid",
+              "wins": 2,
+              "games": 4,
+              "winRate": 50
+            },
+            {
+              "characterId": 4,
+              "character": "Chun-Li",
+              "wins": 2,
+              "games": 2,
+              "winRate": 100
+            },
+            {
+              "characterId": 5,
+              "character": "Manon",
+              "wins": 1,
+              "games": 2,
+              "winRate": 50
+            },
+            {
+              "characterId": 8,
+              "character": "Dhalsim",
+              "wins": 1,
+              "games": 2,
+              "winRate": 50
+            },
+            {
+              "characterId": 14,
+              "character": "Rashid",
+              "wins": 0,
+              "games": 2,
+              "winRate": 0
+            },
+            {
+              "characterId": 18,
+              "character": "Guile",
+              "wins": 1,
+              "games": 1,
+              "winRate": 100
+            },
+            {
+              "characterId": 26,
+              "character": "M. Bison",
+              "wins": 1,
+              "games": 1,
+              "winRate": 100
+            }
+          ]
+        },
+        {
+          "characterId": 8,
+          "character": "Dhalsim",
+          "vs": [
+            {
+              "characterId": 253,
+              "character": "Any",
+              "wins": 2,
+              "games": 2,
+              "winRate": 100
+            },
+            {
+              "characterId": 18,
+              "character": "Guile",
+              "wins": 1,
+              "games": 1,
+              "winRate": 100
+            },
+            {
+              "characterId": 22,
+              "character": "Akuma",
+              "wins": 1,
+              "games": 1,
+              "winRate": 100
+            }
+          ]
+        },
+        {
+          "characterId": 20,
+          "character": "Edmond Honda",
+          "vs": [
+            {
+              "characterId": 253,
+              "character": "Any",
+              "wins": 3,
+              "games": 3,
+              "winRate": 100
+            },
+            {
+              "characterId": 1,
+              "character": "Ryu",
+              "wins": 1,
+              "games": 1,
+              "winRate": 100
+            },
+            {
+              "characterId": 2,
+              "character": "Luke",
+              "wins": 1,
+              "games": 1,
+              "winRate": 100
+            },
+            {
+              "characterId": 25,
+              "character": "Sagat",
+              "wins": 1,
+              "games": 1,
+              "winRate": 100
+            }
+          ]
+        }
+      ],
+      "playPoints": [
+        {
+          "characterId": 1,
+          "character": "Ryu",
+          "fightingGround": 99116,
+          "battleHub": 6630,
+          "worldTour": 0,
+          "total": 105746
+        },
+        {
+          "characterId": 18,
+          "character": "Guile",
+          "fightingGround": 97495,
+          "battleHub": 3330,
+          "worldTour": 0,
+          "total": 100825
+        },
+        {
+          "characterId": 2,
+          "character": "Luke",
+          "fightingGround": 65937,
+          "battleHub": 6400,
+          "worldTour": 3109,
+          "total": 75446
+        },
+        {
+          "characterId": 8,
+          "character": "Dhalsim",
+          "fightingGround": 46720,
+          "battleHub": 2253,
+          "worldTour": 0,
+          "total": 48973
+        },
+        {
+          "characterId": 22,
+          "character": "Akuma",
+          "fightingGround": 42402,
+          "battleHub": 2680,
+          "worldTour": 0,
+          "total": 45082
+        },
+        {
+          "characterId": 20,
+          "character": "Edmond Honda",
+          "fightingGround": 36998,
+          "battleHub": 2580,
+          "worldTour": 0,
+          "total": 39578
+        },
+        {
+          "characterId": 10,
+          "character": "Ken",
+          "fightingGround": 38426,
+          "battleHub": 640,
+          "worldTour": 0,
+          "total": 39066
+        },
+        {
+          "characterId": 26,
+          "character": "M. Bison",
+          "fightingGround": 30413,
+          "battleHub": 2825,
+          "worldTour": 0,
+          "total": 33238
+        },
+        {
+          "characterId": 27,
+          "character": "Terry",
+          "fightingGround": 27290,
+          "battleHub": 1710,
+          "worldTour": 0,
+          "total": 29000
+        },
+        {
+          "characterId": 4,
+          "character": "Chun-Li",
+          "fightingGround": 21456,
+          "battleHub": 830,
+          "worldTour": 400,
+          "total": 22686
+        },
+        {
+          "characterId": 19,
+          "character": "Ed",
+          "fightingGround": 21226,
+          "battleHub": 1210,
+          "worldTour": 0,
+          "total": 22436
+        },
+        {
+          "characterId": 6,
+          "character": "Zangief",
+          "fightingGround": 20279,
+          "battleHub": 480,
+          "worldTour": 0,
+          "total": 20759
+        },
+        {
+          "characterId": 11,
+          "character": "Dee Jay",
+          "fightingGround": 19134,
+          "battleHub": 1460,
+          "worldTour": 0,
+          "total": 20594
+        },
+        {
+          "characterId": 9,
+          "character": "Cammy",
+          "fightingGround": 19023,
+          "battleHub": 270,
+          "worldTour": 0,
+          "total": 19293
+        },
+        {
+          "characterId": 13,
+          "character": "A.K.I.",
+          "fightingGround": 17839,
+          "battleHub": 1380,
+          "worldTour": 0,
+          "total": 19219
+        },
+        {
+          "characterId": 16,
+          "character": "Juri",
+          "fightingGround": 15434,
+          "battleHub": 1020,
+          "worldTour": 0,
+          "total": 16454
+        },
+        {
+          "characterId": 17,
+          "character": "Marisa",
+          "fightingGround": 15981,
+          "battleHub": 470,
+          "worldTour": 0,
+          "total": 16451
+        },
+        {
+          "characterId": 14,
+          "character": "Rashid",
+          "fightingGround": 15618,
+          "battleHub": 30,
+          "worldTour": 0,
+          "total": 15648
+        },
+        {
+          "characterId": 28,
+          "character": "Mai",
+          "fightingGround": 11941,
+          "battleHub": 960,
+          "worldTour": 0,
+          "total": 12901
+        },
+        {
+          "characterId": 15,
+          "character": "Blanka",
+          "fightingGround": 12748,
+          "battleHub": 22,
+          "worldTour": 0,
+          "total": 12770
+        },
+        {
+          "characterId": 12,
+          "character": "Lily",
+          "fightingGround": 11586,
+          "battleHub": 90,
+          "worldTour": 0,
+          "total": 11676
+        },
+        {
+          "characterId": 21,
+          "character": "Jamie",
+          "fightingGround": 11377,
+          "battleHub": 0,
+          "worldTour": 0,
+          "total": 11377
+        },
+        {
+          "characterId": 25,
+          "character": "Sagat",
+          "fightingGround": 9355,
+          "battleHub": 1260,
+          "worldTour": 0,
+          "total": 10615
+        },
+        {
+          "characterId": 7,
+          "character": "JP",
+          "fightingGround": 10428,
+          "battleHub": 30,
+          "worldTour": 0,
+          "total": 10458
+        },
+        {
+          "characterId": 5,
+          "character": "Manon",
+          "fightingGround": 9962,
+          "battleHub": 80,
+          "worldTour": 0,
+          "total": 10042
+        },
+        {
+          "characterId": 29,
+          "character": "Elena",
+          "fightingGround": 7563,
+          "battleHub": 1840,
+          "worldTour": 0,
+          "total": 9403
+        },
+        {
+          "characterId": 3,
+          "character": "Kimberly",
+          "fightingGround": 9073,
+          "battleHub": 30,
+          "worldTour": 0,
+          "total": 9103
+        },
+        {
+          "characterId": 30,
+          "character": "C. Viper",
+          "fightingGround": 4390,
+          "battleHub": 0,
+          "worldTour": 0,
+          "total": 4390
+        },
+        {
+          "characterId": 31,
+          "character": "Alex",
+          "fightingGround": 1320,
+          "battleHub": 0,
+          "worldTour": 0,
+          "total": 1320
+        },
+        {
+          "characterId": 32,
+          "character": "Ingrid",
+          "fightingGround": 720,
+          "battleHub": 0,
+          "worldTour": 0,
+          "total": 720
+        },
+        {
+          "characterId": 33,
+          "character": "Yasmine",
+          "fightingGround": 221,
+          "battleHub": 0,
+          "worldTour": 0,
+          "total": 221
+        }
+      ],
+      "avatar": null,
+      "clubs": null
+    },
+    "habitsCompare": null,
+    "habitsComparedAt": null,
+    "habitsCompareSource": "pending"
+  }
+}
