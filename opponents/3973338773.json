@@ -1,0 +1,2498 @@
+{
+  "fighterId": "3973338773",
+  "name": "monochro",
+  "lastSeenAt": "2026-11-12T13:58:26.000Z",
+  "fetchedAt": "2026-11-13T06:00:48.850Z",
+  "synchronizedAt": "2026-11-13T05:40:59.464Z",
+  "stats": {
+    "generatedAt": "2026-11-13T06:00:48.753Z",
+    "matchDataUpdatedAt": "2026-11-13T05:41:01.353Z",
+    "fighter": {
+      "id": "3973338773",
+      "name": "monochro",
+      "profileHref": "/players/monochro-3973338773",
+      "mainCharacterId": 15,
+      "mainCharacter": "Blanka",
+      "mostPlayedCharacterId": 15,
+      "mostPlayedCharacter": "Blanka",
+      "favoriteCharacterId": 15,
+      "synchronizedAt": "2026-11-13T05:40:59.464Z",
+      "leagues": [
+        {
+          "characterId": 14,
+          "character": "Rashid",
+          "lp": -1,
+          "mr": 0
+        },
+        {
+          "characterId": 15,
+          "character": "Blanka",
+          "lp": -1,
+          "mr": 0
+        }
+      ]
+    },
+    "summary": {
+      "wins": 4,
+      "losses": 6,
+      "draws": 0,
+      "total": 10,
+      "diff": -2,
+      "winRate": 40
+    },
+    "standings": null,
+    "matchCount": 10,
+    "matchups": [
+      {
+        "homeCharacterId": 15,
+        "homeCharacter": "Blanka",
+        "characterId": 32,
+        "character": "Ingrid",
+        "inputTypeId": 1,
+        "inputType": "Modern",
+        "score": {
+          "wins": 1,
+          "losses": 1,
+          "draws": 0,
+          "total": 2,
+          "diff": 0,
+          "winRate": 50
+        },
+        "communityWinRate": 53
+      },
+      {
+        "homeCharacterId": 15,
+        "homeCharacter": "Blanka",
+        "characterId": 13,
+        "character": "A.K.I.",
+        "inputTypeId": 1,
+        "inputType": "Modern",
+        "score": {
+          "wins": 0,
+          "losses": 2,
+          "draws": 0,
+          "total": 2,
+          "diff": -2,
+          "winRate": 0
+        },
+        "communityWinRate": 50.3
+      },
+      {
+        "homeCharacterId": 15,
+        "homeCharacter": "Blanka",
+        "characterId": 22,
+        "character": "Akuma",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0,
+          "total": 1,
+          "diff": 1,
+          "winRate": 100
+        },
+        "communityWinRate": 50.5
+      },
+      {
+        "homeCharacterId": 15,
+        "homeCharacter": "Blanka",
+        "characterId": 11,
+        "character": "Dee Jay",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 0,
+          "losses": 1,
+          "draws": 0,
+          "total": 1,
+          "diff": -1,
+          "winRate": 0
+        },
+        "communityWinRate": 47.2
+      },
+      {
+        "homeCharacterId": 15,
+        "homeCharacter": "Blanka",
+        "characterId": 6,
+        "character": "Zangief",
+        "inputTypeId": 1,
+        "inputType": "Modern",
+        "score": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0,
+          "total": 1,
+          "diff": 1,
+          "winRate": 100
+        },
+        "communityWinRate": 53.2
+      },
+      {
+        "homeCharacterId": 15,
+        "homeCharacter": "Blanka",
+        "characterId": 10,
+        "character": "Ken",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 0,
+          "losses": 1,
+          "draws": 0,
+          "total": 1,
+          "diff": -1,
+          "winRate": 0
+        },
+        "communityWinRate": 48.7
+      },
+      {
+        "homeCharacterId": 15,
+        "homeCharacter": "Blanka",
+        "characterId": 33,
+        "character": "Yasmine",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0,
+          "total": 1,
+          "diff": 1,
+          "winRate": 100
+        },
+        "communityWinRate": 50.6
+      },
+      {
+        "homeCharacterId": 15,
+        "homeCharacter": "Blanka",
+        "characterId": 9,
+        "character": "Cammy",
+        "inputTypeId": 0,
+        "inputType": "Classic",
+        "score": {
+          "wins": 0,
+          "losses": 1,
+          "draws": 0,
+          "total": 1,
+          "diff": -1,
+          "winRate": 0
+        },
+        "communityWinRate": 55.3
+      }
+    ],
+    "communityMatchupsMonth": "202610",
+    "playedCharacters": [
+      {
+        "characterId": 15,
+        "character": "Blanka",
+        "games": 10
+      }
+    ],
+    "rivals": {
+      "favorites": [
+        {
+          "fighterId": "1250853249",
+          "name": "LEASE",
+          "characterId": 32,
+          "character": "Ingrid",
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "score": {
+            "wins": 1,
+            "losses": 1,
+            "draws": 0,
+            "total": 2,
+            "diff": 0,
+            "winRate": 50
+          },
+          "synced": true,
+          "profileHref": "/players/lease-1250853249"
+        },
+        {
+          "fighterId": "2286321842",
+          "name": "SoiRq",
+          "characterId": 13,
+          "character": "A.K.I.",
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "score": {
+            "wins": 0,
+            "losses": 2,
+            "draws": 0,
+            "total": 2,
+            "diff": -2,
+            "winRate": 0
+          },
+          "synced": false,
+          "profileHref": "/players/soirq-2286321842"
+        },
+        {
+          "fighterId": "2504697367",
+          "name": "Taoyh_jb6",
+          "characterId": 22,
+          "character": "Akuma",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 1,
+            "losses": 0,
+            "draws": 0,
+            "total": 1,
+            "diff": 1,
+            "winRate": 100
+          },
+          "synced": false,
+          "profileHref": "/players/taoyh-jb6-2504697367"
+        },
+        {
+          "fighterId": "1146471936",
+          "name": "防空大王",
+          "characterId": 6,
+          "character": "Zangief",
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "score": {
+            "wins": 1,
+            "losses": 0,
+            "draws": 0,
+            "total": 1,
+            "diff": 1,
+            "winRate": 100
+          },
+          "synced": false,
+          "profileHref": "/players/%E9%98%B2%E7%A9%BA%E5%A4%A7%E7%8E%8B-1146471936"
+        },
+        {
+          "fighterId": "3096394231",
+          "name": "G.mitsukuni",
+          "characterId": 33,
+          "character": "Yasmine",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 1,
+            "losses": 0,
+            "draws": 0,
+            "total": 1,
+            "diff": 1,
+            "winRate": 100
+          },
+          "synced": false,
+          "profileHref": "/players/g-mitsukuni-3096394231"
+        },
+        {
+          "fighterId": "3615368497",
+          "name": "puranes_",
+          "characterId": 11,
+          "character": "Dee Jay",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 0,
+            "losses": 1,
+            "draws": 0,
+            "total": 1,
+            "diff": -1,
+            "winRate": 0
+          },
+          "synced": false,
+          "profileHref": "/players/puranes-3615368497"
+        },
+        {
+          "fighterId": "2735463171",
+          "name": "デーコンモア",
+          "characterId": 10,
+          "character": "Ken",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 0,
+            "losses": 1,
+            "draws": 0,
+            "total": 1,
+            "diff": -1,
+            "winRate": 0
+          },
+          "synced": true,
+          "profileHref": "/players/%E3%81%8B%E3%81%A4%E3%82%92%E6%98%86%E5%B8%83-2735463171"
+        },
+        {
+          "fighterId": "1122738358",
+          "name": "かぱめ。",
+          "characterId": 9,
+          "character": "Cammy",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 0,
+            "losses": 1,
+            "draws": 0,
+            "total": 1,
+            "diff": -1,
+            "winRate": 0
+          },
+          "synced": true,
+          "profileHref": "/players/%E3%81%8B%E3%81%B1%E3%82%81-1122738358"
+        }
+      ],
+      "victims": [
+        {
+          "fighterId": "2504697367",
+          "name": "Taoyh_jb6",
+          "characterId": 22,
+          "character": "Akuma",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 1,
+            "losses": 0,
+            "draws": 0,
+            "total": 1,
+            "diff": 1,
+            "winRate": 100
+          },
+          "synced": false,
+          "profileHref": "/players/taoyh-jb6-2504697367"
+        },
+        {
+          "fighterId": "1146471936",
+          "name": "防空大王",
+          "characterId": 6,
+          "character": "Zangief",
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "score": {
+            "wins": 1,
+            "losses": 0,
+            "draws": 0,
+            "total": 1,
+            "diff": 1,
+            "winRate": 100
+          },
+          "synced": false,
+          "profileHref": "/players/%E9%98%B2%E7%A9%BA%E5%A4%A7%E7%8E%8B-1146471936"
+        },
+        {
+          "fighterId": "3096394231",
+          "name": "G.mitsukuni",
+          "characterId": 33,
+          "character": "Yasmine",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 1,
+            "losses": 0,
+            "draws": 0,
+            "total": 1,
+            "diff": 1,
+            "winRate": 100
+          },
+          "synced": false,
+          "profileHref": "/players/g-mitsukuni-3096394231"
+        },
+        {
+          "fighterId": "1250853249",
+          "name": "LEASE",
+          "characterId": 32,
+          "character": "Ingrid",
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "score": {
+            "wins": 1,
+            "losses": 1,
+            "draws": 0,
+            "total": 2,
+            "diff": 0,
+            "winRate": 50
+          },
+          "synced": true,
+          "profileHref": "/players/lease-1250853249"
+        },
+        {
+          "fighterId": "3615368497",
+          "name": "puranes_",
+          "characterId": 11,
+          "character": "Dee Jay",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 0,
+            "losses": 1,
+            "draws": 0,
+            "total": 1,
+            "diff": -1,
+            "winRate": 0
+          },
+          "synced": false,
+          "profileHref": "/players/puranes-3615368497"
+        },
+        {
+          "fighterId": "2735463171",
+          "name": "デーコンモア",
+          "characterId": 10,
+          "character": "Ken",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 0,
+            "losses": 1,
+            "draws": 0,
+            "total": 1,
+            "diff": -1,
+            "winRate": 0
+          },
+          "synced": true,
+          "profileHref": "/players/%E3%81%8B%E3%81%A4%E3%82%92%E6%98%86%E5%B8%83-2735463171"
+        },
+        {
+          "fighterId": "1122738358",
+          "name": "かぱめ。",
+          "characterId": 9,
+          "character": "Cammy",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 0,
+            "losses": 1,
+            "draws": 0,
+            "total": 1,
+            "diff": -1,
+            "winRate": 0
+          },
+          "synced": true,
+          "profileHref": "/players/%E3%81%8B%E3%81%B1%E3%82%81-1122738358"
+        },
+        {
+          "fighterId": "2286321842",
+          "name": "SoiRq",
+          "characterId": 13,
+          "character": "A.K.I.",
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "score": {
+            "wins": 0,
+            "losses": 2,
+            "draws": 0,
+            "total": 2,
+            "diff": -2,
+            "winRate": 0
+          },
+          "synced": false,
+          "profileHref": "/players/soirq-2286321842"
+        }
+      ],
+      "tormentors": [
+        {
+          "fighterId": "2286321842",
+          "name": "SoiRq",
+          "characterId": 13,
+          "character": "A.K.I.",
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "score": {
+            "wins": 0,
+            "losses": 2,
+            "draws": 0,
+            "total": 2,
+            "diff": -2,
+            "winRate": 0
+          },
+          "synced": false,
+          "profileHref": "/players/soirq-2286321842"
+        },
+        {
+          "fighterId": "3615368497",
+          "name": "puranes_",
+          "characterId": 11,
+          "character": "Dee Jay",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 0,
+            "losses": 1,
+            "draws": 0,
+            "total": 1,
+            "diff": -1,
+            "winRate": 0
+          },
+          "synced": false,
+          "profileHref": "/players/puranes-3615368497"
+        },
+        {
+          "fighterId": "2735463171",
+          "name": "デーコンモア",
+          "characterId": 10,
+          "character": "Ken",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 0,
+            "losses": 1,
+            "draws": 0,
+            "total": 1,
+            "diff": -1,
+            "winRate": 0
+          },
+          "synced": true,
+          "profileHref": "/players/%E3%81%8B%E3%81%A4%E3%82%92%E6%98%86%E5%B8%83-2735463171"
+        },
+        {
+          "fighterId": "1122738358",
+          "name": "かぱめ。",
+          "characterId": 9,
+          "character": "Cammy",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 0,
+            "losses": 1,
+            "draws": 0,
+            "total": 1,
+            "diff": -1,
+            "winRate": 0
+          },
+          "synced": true,
+          "profileHref": "/players/%E3%81%8B%E3%81%B1%E3%82%81-1122738358"
+        },
+        {
+          "fighterId": "1250853249",
+          "name": "LEASE",
+          "characterId": 32,
+          "character": "Ingrid",
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "score": {
+            "wins": 1,
+            "losses": 1,
+            "draws": 0,
+            "total": 2,
+            "diff": 0,
+            "winRate": 50
+          },
+          "synced": true,
+          "profileHref": "/players/lease-1250853249"
+        },
+        {
+          "fighterId": "2504697367",
+          "name": "Taoyh_jb6",
+          "characterId": 22,
+          "character": "Akuma",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 1,
+            "losses": 0,
+            "draws": 0,
+            "total": 1,
+            "diff": 1,
+            "winRate": 100
+          },
+          "synced": false,
+          "profileHref": "/players/taoyh-jb6-2504697367"
+        },
+        {
+          "fighterId": "1146471936",
+          "name": "防空大王",
+          "characterId": 6,
+          "character": "Zangief",
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "score": {
+            "wins": 1,
+            "losses": 0,
+            "draws": 0,
+            "total": 1,
+            "diff": 1,
+            "winRate": 100
+          },
+          "synced": false,
+          "profileHref": "/players/%E9%98%B2%E7%A9%BA%E5%A4%A7%E7%8E%8B-1146471936"
+        },
+        {
+          "fighterId": "3096394231",
+          "name": "G.mitsukuni",
+          "characterId": 33,
+          "character": "Yasmine",
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "score": {
+            "wins": 1,
+            "losses": 0,
+            "draws": 0,
+            "total": 1,
+            "diff": 1,
+            "winRate": 100
+          },
+          "synced": false,
+          "profileHref": "/players/g-mitsukuni-3096394231"
+        }
+      ]
+    },
+    "rankedHistory": [],
+    "rankedHistoryMeta": {
+      "localPoints": 0,
+      "importedPoints": 0,
+      "mergedPoints": 0,
+      "storedBattles": 10,
+      "sfbuff": {
+        "pointCount": 0,
+        "lastScrapedAt": null,
+        "fresh": false,
+        "cooldownDays": 7
+      }
+    },
+    "daily": [
+      {
+        "date": "2026-11-12",
+        "score": {
+          "wins": 3,
+          "losses": 6,
+          "draws": 0,
+          "total": 9,
+          "diff": -3,
+          "winRate": 33.33333333333333
+        }
+      },
+      {
+        "date": "2026-11-13",
+        "score": {
+          "wins": 1,
+          "losses": 0,
+          "draws": 0,
+          "total": 1,
+          "diff": 1,
+          "winRate": 100
+        }
+      }
+    ],
+    "matches": [
+      {
+        "replayId": "Q6RTCXWBT",
+        "replayHref": "/replays/taoyh-jb6-vs-monochro-Q6RTCXWBT",
+        "playedAt": "2026-11-13T00:05:34.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 2,
+        "home": {
+          "fighterId": "3973338773",
+          "name": "monochro",
+          "character": "Blanka",
+          "characterId": 15,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": -1
+        },
+        "away": {
+          "fighterId": "2504697367",
+          "name": "Taoyh_jb6",
+          "character": "Akuma",
+          "characterId": 22,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 9000,
+          "profileHref": "/players/taoyh-jb6-2504697367",
+          "synced": false
+        },
+        "result": 1,
+        "resultLabel": "W",
+        "homeRounds": [
+          1,
+          1
+        ],
+        "awayRounds": [
+          0,
+          0
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "6TXMC9QVC",
+        "replayHref": "/replays/monochro-vs-lease-6TXMC9QVC",
+        "playedAt": "2026-11-12T15:02:02.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "3973338773",
+          "name": "monochro",
+          "character": "Blanka",
+          "characterId": 15,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": -1
+        },
+        "away": {
+          "fighterId": "1250853249",
+          "name": "LEASE",
+          "character": "Ingrid",
+          "characterId": 32,
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "mr": 0,
+          "lp": 16998,
+          "profileHref": "/players/lease-1250853249",
+          "synced": true
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          0,
+          0
+        ],
+        "awayRounds": [
+          1,
+          1
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "CL38GRK35",
+        "replayHref": "/replays/monochro-vs-lease-CL38GRK35",
+        "playedAt": "2026-11-12T14:59:50.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "3973338773",
+          "name": "monochro",
+          "character": "Blanka",
+          "characterId": 15,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": -1
+        },
+        "away": {
+          "fighterId": "1250853249",
+          "name": "LEASE",
+          "character": "Ingrid",
+          "characterId": 32,
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "mr": 0,
+          "lp": 16998,
+          "profileHref": "/players/lease-1250853249",
+          "synced": true
+        },
+        "result": 1,
+        "resultLabel": "W",
+        "homeRounds": [
+          0,
+          1,
+          1
+        ],
+        "awayRounds": [
+          5,
+          0,
+          0
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "6GFGJRJVJ",
+        "replayHref": "/replays/puranes-vs-monochro-6GFGJRJVJ",
+        "playedAt": "2026-11-12T14:56:46.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 2,
+        "home": {
+          "fighterId": "3973338773",
+          "name": "monochro",
+          "character": "Blanka",
+          "characterId": 15,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": -1
+        },
+        "away": {
+          "fighterId": "3615368497",
+          "name": "puranes_",
+          "character": "Dee Jay",
+          "characterId": 11,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 18280,
+          "profileHref": "/players/puranes-3615368497",
+          "synced": false
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          0,
+          0
+        ],
+        "awayRounds": [
+          5,
+          1
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "9P4MB79F9",
+        "replayHref": "/replays/monochro-vs-%E9%98%B2%E7%A9%BA%E5%A4%A7%E7%8E%8B-9P4MB79F9",
+        "playedAt": "2026-11-12T14:53:48.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "3973338773",
+          "name": "monochro",
+          "character": "Blanka",
+          "characterId": 15,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": -1
+        },
+        "away": {
+          "fighterId": "1146471936",
+          "name": "防空大王",
+          "character": "Zangief",
+          "characterId": 6,
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "mr": 0,
+          "lp": 354,
+          "profileHref": "/players/%E9%98%B2%E7%A9%BA%E5%A4%A7%E7%8E%8B-1146471936",
+          "synced": false
+        },
+        "result": 1,
+        "resultLabel": "W",
+        "homeRounds": [
+          1,
+          1
+        ],
+        "awayRounds": [
+          0,
+          0
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "VWWUABSCU",
+        "replayHref": "/replays/monochro-vs-%E3%83%87%E3%83%BC%E3%82%B3%E3%83%B3%E3%83%A2%E3%82%A2-VWWUABSCU",
+        "playedAt": "2026-11-12T14:51:25.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "3973338773",
+          "name": "monochro",
+          "character": "Blanka",
+          "characterId": 15,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": -1
+        },
+        "away": {
+          "fighterId": "2735463171",
+          "name": "デーコンモア",
+          "character": "Ken",
+          "characterId": 10,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 10764,
+          "profileHref": "/players/%E3%81%8B%E3%81%A4%E3%82%92%E6%98%86%E5%B8%83-2735463171",
+          "synced": true
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          1,
+          0,
+          0
+        ],
+        "awayRounds": [
+          0,
+          6,
+          1
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "33QS498DB",
+        "replayHref": "/replays/monochro-vs-soirq-33QS498DB",
+        "playedAt": "2026-11-12T14:08:27.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "3973338773",
+          "name": "monochro",
+          "character": "Blanka",
+          "characterId": 15,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": -1
+        },
+        "away": {
+          "fighterId": "2286321842",
+          "name": "SoiRq",
+          "character": "A.K.I.",
+          "characterId": 13,
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "mr": 0,
+          "lp": 9944,
+          "profileHref": "/players/soirq-2286321842",
+          "synced": false
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          1,
+          0,
+          0
+        ],
+        "awayRounds": [
+          0,
+          1,
+          1
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "GSTYHUJTE",
+        "replayHref": "/replays/monochro-vs-soirq-GSTYHUJTE",
+        "playedAt": "2026-11-12T14:06:09.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "3973338773",
+          "name": "monochro",
+          "character": "Blanka",
+          "characterId": 15,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": -1
+        },
+        "away": {
+          "fighterId": "2286321842",
+          "name": "SoiRq",
+          "character": "A.K.I.",
+          "characterId": 13,
+          "inputTypeId": 1,
+          "inputType": "Modern",
+          "mr": 0,
+          "lp": 9944,
+          "profileHref": "/players/soirq-2286321842",
+          "synced": false
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          1,
+          0,
+          0
+        ],
+        "awayRounds": [
+          0,
+          1,
+          1
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "Q6ADG6ATD",
+        "replayHref": "/replays/g-mitsukuni-vs-monochro-Q6ADG6ATD",
+        "playedAt": "2026-11-12T14:00:50.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 2,
+        "home": {
+          "fighterId": "3973338773",
+          "name": "monochro",
+          "character": "Blanka",
+          "characterId": 15,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": -1
+        },
+        "away": {
+          "fighterId": "3096394231",
+          "name": "G.mitsukuni",
+          "character": "Yasmine",
+          "characterId": 33,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 13813,
+          "profileHref": "/players/g-mitsukuni-3096394231",
+          "synced": false
+        },
+        "result": 1,
+        "resultLabel": "W",
+        "homeRounds": [
+          1,
+          8
+        ],
+        "awayRounds": [
+          0,
+          0
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      },
+      {
+        "replayId": "VKYLP49FQ",
+        "replayHref": "/replays/monochro-vs-%E3%81%8B%E3%81%B1%E3%82%81-VKYLP49FQ",
+        "playedAt": "2026-11-12T13:58:26.000Z",
+        "battleType": "Casual",
+        "battleTypeId": 2,
+        "homeSide": 1,
+        "home": {
+          "fighterId": "3973338773",
+          "name": "monochro",
+          "character": "Blanka",
+          "characterId": 15,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": -1
+        },
+        "away": {
+          "fighterId": "1122738358",
+          "name": "かぱめ。",
+          "character": "Cammy",
+          "characterId": 9,
+          "inputTypeId": 0,
+          "inputType": "Classic",
+          "mr": 0,
+          "lp": 2286,
+          "profileHref": "/players/%E3%81%8B%E3%81%B1%E3%82%81-1122738358",
+          "synced": true
+        },
+        "result": -1,
+        "resultLabel": "L",
+        "homeRounds": [
+          0,
+          0
+        ],
+        "awayRounds": [
+          1,
+          1
+        ],
+        "mrDelta": null,
+        "replayCapture": null
+      }
+    ],
+    "capcom": {
+      "seasonId": 14,
+      "seasons": [
+        14,
+        13,
+        12,
+        11,
+        10,
+        9,
+        8,
+        7,
+        6,
+        5,
+        4,
+        3,
+        2,
+        1,
+        0
+      ],
+      "banner": {
+        "name": "monochro",
+        "shortId": "3973338773",
+        "platform": "CrossPlatform",
+        "platformTool": "cross",
+        "platformIconUrl": "https://www.streetfighter.com/6/buckler/assets/images/common/icon_cross.png",
+        "favoriteCharacterId": 15,
+        "favoriteCharacter": "Blanka",
+        "mostPlayedCharacterId": 15,
+        "mostPlayedCharacter": "Blanka",
+        "mainCharacterId": 15,
+        "mainCharacter": "Blanka",
+        "mr": 0,
+        "lp": -1,
+        "leagueRank": 39,
+        "masterLeague": 0,
+        "mrRanking": 0,
+        "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+        "homeId": 85,
+        "homeName": "Japan",
+        "flagUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/national_frag/frag085.png",
+        "lastPlayAt": "2026-11-13T00:08:39.000Z",
+        "title": "Let's Do This",
+        "titlePlateName": "122-8bb65d811510d0e60b605476864239",
+        "titlePlateUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/title/122-8bb65d811510d0e60b605476864239.png",
+        "comment": "None",
+        "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_blanka.jpg",
+        "mainCircle": null,
+        "inputType": 0,
+        "enjoyFightPoint": 2,
+        "enjoyTotalPoint": 3,
+        "enjoyUserPoint": 1
+      },
+      "playTime": [
+        {
+          "name": "Practice",
+          "seconds": 34046,
+          "hours": 9.5
+        },
+        {
+          "name": "Casual Matches",
+          "seconds": 23190,
+          "hours": 6.4
+        },
+        {
+          "name": "Battle Hub",
+          "seconds": 1898,
+          "hours": 0.5
+        },
+        {
+          "name": "World Tour",
+          "seconds": 1309,
+          "hours": 0.4
+        },
+        {
+          "name": "Avatar Room",
+          "seconds": 423,
+          "hours": 0.1
+        }
+      ],
+      "battleStats": {
+        "rankedGames": 0,
+        "casualGames": 179,
+        "hubGames": 0,
+        "customGames": 0,
+        "habits": [
+          {
+            "key": "drive_impact",
+            "label": "Drive Impact / game",
+            "value": 0.4,
+            "format": "rate"
+          },
+          {
+            "key": "drive_parry",
+            "label": "Drive Parry / game",
+            "value": 0.4,
+            "format": "rate"
+          },
+          {
+            "key": "just_parry",
+            "label": "Perfect Parry / game",
+            "value": 0,
+            "format": "rate"
+          },
+          {
+            "key": "drive_reversal",
+            "label": "Drive Reversal / game",
+            "value": 0,
+            "format": "rate"
+          },
+          {
+            "key": "punish_counter",
+            "label": "Punish Counter / game",
+            "value": 0.3,
+            "format": "rate"
+          },
+          {
+            "key": "received_punish_counter",
+            "label": "Got PC'd / game",
+            "value": 0.9,
+            "format": "rate"
+          },
+          {
+            "key": "throw_count",
+            "label": "Throws / game",
+            "value": 3.8,
+            "format": "rate"
+          },
+          {
+            "key": "throw_tech",
+            "label": "Throw escapes (techs) / game",
+            "value": 0.5,
+            "format": "rate"
+          },
+          {
+            "key": "throw_drive_parry",
+            "label": "Thrown during parry / game",
+            "value": 0,
+            "format": "rate"
+          },
+          {
+            "key": "received_throw_count",
+            "label": "Got thrown / game",
+            "value": 2.3,
+            "format": "rate"
+          },
+          {
+            "key": "stun",
+            "label": "Stuns / game",
+            "value": 0,
+            "format": "rate"
+          },
+          {
+            "key": "received_stun",
+            "label": "Got stunned / game",
+            "value": 0,
+            "format": "rate"
+          },
+          {
+            "key": "corner_time",
+            "label": "Corner pressure time",
+            "value": 2.3,
+            "format": "rate"
+          },
+          {
+            "key": "cornered_time",
+            "label": "Time cornered",
+            "value": 8.1,
+            "format": "rate"
+          },
+          {
+            "key": "gauge_rate_drive_rush_from_cancel",
+            "label": "Drive Rush (cancel) share",
+            "value": 0.0776,
+            "format": "rate"
+          },
+          {
+            "key": "gauge_rate_drive_rush_from_parry",
+            "label": "Drive Rush (parry) share",
+            "value": 0.0223,
+            "format": "rate"
+          },
+          {
+            "key": "gauge_rate_drive_arts",
+            "label": "Drive Arts share",
+            "value": 0.2603,
+            "format": "rate"
+          },
+          {
+            "key": "gauge_rate_drive_impact",
+            "label": "Drive Impact gauge share",
+            "value": 0.0615,
+            "format": "rate"
+          },
+          {
+            "key": "gauge_rate_drive_guard",
+            "label": "Drive Guard share",
+            "value": 0.062,
+            "format": "rate"
+          },
+          {
+            "key": "gauge_rate_sa_lv1",
+            "label": "SA1 usage share",
+            "value": 0.4545,
+            "format": "rate"
+          },
+          {
+            "key": "gauge_rate_sa_lv2",
+            "label": "SA2 usage share",
+            "value": 0.3636,
+            "format": "rate"
+          },
+          {
+            "key": "gauge_rate_sa_lv3",
+            "label": "SA3 usage share",
+            "value": 0.0909,
+            "format": "rate"
+          },
+          {
+            "key": "gauge_rate_ca",
+            "label": "CA usage share",
+            "value": 0.0909,
+            "format": "rate"
+          }
+        ]
+      },
+      "characterWinRates": [
+        {
+          "characterId": 15,
+          "character": "Blanka",
+          "wins": 57,
+          "games": 128,
+          "winRate": 44.53125
+        }
+      ],
+      "characterLeagues": [
+        {
+          "characterId": 14,
+          "character": "Rashid",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_rashid_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_rashid.jpg"
+        },
+        {
+          "characterId": 15,
+          "character": "Blanka",
+          "lp": null,
+          "mr": null,
+          "leagueRank": 39,
+          "masterLeague": 0,
+          "mrRanking": 0,
+          "rankBadgeUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/rank/rank39_s.png",
+          "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_blanka_l.png",
+          "cardUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/card_blanka.jpg"
+        }
+      ],
+      "officialMatchups": [
+        {
+          "characterId": 15,
+          "character": "Blanka",
+          "vs": [
+            {
+              "characterId": 253,
+              "character": "Any",
+              "wins": 57,
+              "games": 128,
+              "winRate": 44.53125
+            },
+            {
+              "characterId": 1,
+              "character": "Ryu",
+              "wins": 6,
+              "games": 13,
+              "winRate": 46.15384615384615
+            },
+            {
+              "characterId": 10,
+              "character": "Ken",
+              "wins": 4,
+              "games": 13,
+              "winRate": 30.76923076923077
+            },
+            {
+              "characterId": 14,
+              "character": "Rashid",
+              "wins": 11,
+              "games": 11,
+              "winRate": 100
+            },
+            {
+              "characterId": 21,
+              "character": "Jamie",
+              "wins": 7,
+              "games": 9,
+              "winRate": 77.77777777777779
+            },
+            {
+              "characterId": 5,
+              "character": "Manon",
+              "wins": 1,
+              "games": 8,
+              "winRate": 12.5
+            },
+            {
+              "characterId": 22,
+              "character": "Akuma",
+              "wins": 2,
+              "games": 8,
+              "winRate": 25
+            },
+            {
+              "characterId": 6,
+              "character": "Zangief",
+              "wins": 1,
+              "games": 7,
+              "winRate": 14.285714285714285
+            },
+            {
+              "characterId": 9,
+              "character": "Cammy",
+              "wins": 2,
+              "games": 6,
+              "winRate": 33.33333333333333
+            },
+            {
+              "characterId": 20,
+              "character": "Edmond Honda",
+              "wins": 2,
+              "games": 6,
+              "winRate": 33.33333333333333
+            },
+            {
+              "characterId": 16,
+              "character": "Juri",
+              "wins": 1,
+              "games": 5,
+              "winRate": 20
+            },
+            {
+              "characterId": 19,
+              "character": "Ed",
+              "wins": 0,
+              "games": 5,
+              "winRate": 0
+            },
+            {
+              "characterId": 7,
+              "character": "JP",
+              "wins": 2,
+              "games": 4,
+              "winRate": 50
+            },
+            {
+              "characterId": 11,
+              "character": "Dee Jay",
+              "wins": 1,
+              "games": 4,
+              "winRate": 25
+            },
+            {
+              "characterId": 31,
+              "character": "Alex",
+              "wins": 3,
+              "games": 4,
+              "winRate": 75
+            },
+            {
+              "characterId": 254,
+              "character": "Random",
+              "wins": 4,
+              "games": 4,
+              "winRate": 100
+            },
+            {
+              "characterId": 33,
+              "character": "Yasmine",
+              "wins": 3,
+              "games": 4,
+              "winRate": 75
+            },
+            {
+              "characterId": 13,
+              "character": "A.K.I.",
+              "wins": 0,
+              "games": 3,
+              "winRate": 0
+            },
+            {
+              "characterId": 26,
+              "character": "M. Bison",
+              "wins": 2,
+              "games": 3,
+              "winRate": 66.66666666666666
+            },
+            {
+              "characterId": 28,
+              "character": "Mai",
+              "wins": 2,
+              "games": 3,
+              "winRate": 66.66666666666666
+            },
+            {
+              "characterId": 12,
+              "character": "Lily",
+              "wins": 1,
+              "games": 2,
+              "winRate": 50
+            },
+            {
+              "characterId": 30,
+              "character": "C. Viper",
+              "wins": 0,
+              "games": 2,
+              "winRate": 0
+            },
+            {
+              "characterId": 32,
+              "character": "Ingrid",
+              "wins": 1,
+              "games": 2,
+              "winRate": 50
+            },
+            {
+              "characterId": 15,
+              "character": "Blanka",
+              "wins": 1,
+              "games": 1,
+              "winRate": 100
+            },
+            {
+              "characterId": 18,
+              "character": "Guile",
+              "wins": 0,
+              "games": 1,
+              "winRate": 0
+            }
+          ]
+        }
+      ],
+      "playPoints": [
+        {
+          "characterId": 15,
+          "character": "Blanka",
+          "fightingGround": 6584,
+          "battleHub": 0,
+          "worldTour": 0,
+          "total": 6584
+        },
+        {
+          "characterId": 9,
+          "character": "Cammy",
+          "fightingGround": 160,
+          "battleHub": 0,
+          "worldTour": 0,
+          "total": 160
+        },
+        {
+          "characterId": 14,
+          "character": "Rashid",
+          "fightingGround": 135,
+          "battleHub": 0,
+          "worldTour": 0,
+          "total": 135
+        },
+        {
+          "characterId": 2,
+          "character": "Luke",
+          "fightingGround": 0,
+          "battleHub": 0,
+          "worldTour": 20,
+          "total": 20
+        }
+      ],
+      "avatar": null,
+      "clubs": null,
+      "historySync": {
+        "checkedAt": "2026-11-13T05:41:01.402Z",
+        "signature": "33c03df653b6be0a7ecda00770fb3aefb9dbc096354e0d381d1672cf7d3dea86"
+      }
+    },
+    "habitsCompare": {
+      "characterId": 15,
+      "character": "Blanka",
+      "portraitUrl": "https://www.streetfighter.com/6/buckler/assets/images/material/character/character_blanka_l.png",
+      "you": {
+        "shortId": "3973338773",
+        "name": "monochro",
+        "rankedGames": 0
+      },
+      "elite": [
+        {
+          "shortId": "1666271660",
+          "name": "ACQUA",
+          "mr": 2026,
+          "lp": 852315,
+          "characterId": 15,
+          "habits": [
+            {
+              "key": "drive_impact",
+              "label": "Drive Impact / game",
+              "value": 0.1
+            },
+            {
+              "key": "drive_parry",
+              "label": "Drive Parry / game",
+              "value": 1.5
+            },
+            {
+              "key": "just_parry",
+              "label": "Perfect Parry / game",
+              "value": 0.6
+            },
+            {
+              "key": "drive_reversal",
+              "label": "Drive Reversal / game",
+              "value": 0.1
+            },
+            {
+              "key": "punish_counter",
+              "label": "Punish Counter / game",
+              "value": 0.1
+            },
+            {
+              "key": "received_punish_counter",
+              "label": "Got PC'd / game",
+              "value": 0.1
+            },
+            {
+              "key": "throw_count",
+              "label": "Throws / game",
+              "value": 3
+            },
+            {
+              "key": "throw_tech",
+              "label": "Throw escapes (techs) / game",
+              "value": 0.4
+            },
+            {
+              "key": "throw_drive_parry",
+              "label": "Thrown during parry / game",
+              "value": 0.4
+            },
+            {
+              "key": "received_throw_count",
+              "label": "Got thrown / game",
+              "value": 2
+            },
+            {
+              "key": "stun",
+              "label": "Stuns / game",
+              "value": 0.1
+            },
+            {
+              "key": "received_stun",
+              "label": "Got stunned / game",
+              "value": 0
+            },
+            {
+              "key": "corner_time",
+              "label": "Corner pressure time",
+              "value": 14.4
+            },
+            {
+              "key": "cornered_time",
+              "label": "Time cornered",
+              "value": 8.1
+            },
+            {
+              "key": "gauge_rate_drive_rush_from_cancel",
+              "label": "Drive Rush (cancel) share",
+              "value": 0.2825
+            },
+            {
+              "key": "gauge_rate_drive_rush_from_parry",
+              "label": "Drive Rush (parry) share",
+              "value": 0.082
+            },
+            {
+              "key": "gauge_rate_drive_arts",
+              "label": "Drive Arts share",
+              "value": 0.247
+            },
+            {
+              "key": "gauge_rate_drive_impact",
+              "label": "Drive Impact gauge share",
+              "value": 0.0111
+            },
+            {
+              "key": "gauge_rate_drive_guard",
+              "label": "Drive Guard share",
+              "value": 0.1307
+            },
+            {
+              "key": "gauge_rate_sa_lv1",
+              "label": "SA1 usage share",
+              "value": 0.2649
+            },
+            {
+              "key": "gauge_rate_sa_lv2",
+              "label": "SA2 usage share",
+              "value": 0.6068
+            },
+            {
+              "key": "gauge_rate_sa_lv3",
+              "label": "SA3 usage share",
+              "value": 0.094
+            },
+            {
+              "key": "gauge_rate_ca",
+              "label": "CA usage share",
+              "value": 0.0341
+            }
+          ],
+          "rankedGames": 29375,
+          "profileHref": "/players/acqua-1666271660"
+        },
+        {
+          "shortId": "1576585852",
+          "name": "シゲマツ",
+          "mr": 2003,
+          "lp": 1000114,
+          "characterId": 15,
+          "habits": [
+            {
+              "key": "drive_impact",
+              "label": "Drive Impact / game",
+              "value": 0.3
+            },
+            {
+              "key": "drive_parry",
+              "label": "Drive Parry / game",
+              "value": 2.1
+            },
+            {
+              "key": "just_parry",
+              "label": "Perfect Parry / game",
+              "value": 0.5
+            },
+            {
+              "key": "drive_reversal",
+              "label": "Drive Reversal / game",
+              "value": 0.7
+            },
+            {
+              "key": "punish_counter",
+              "label": "Punish Counter / game",
+              "value": 0.2
+            },
+            {
+              "key": "received_punish_counter",
+              "label": "Got PC'd / game",
+              "value": 0.1
+            },
+            {
+              "key": "throw_count",
+              "label": "Throws / game",
+              "value": 2.8
+            },
+            {
+              "key": "throw_tech",
+              "label": "Throw escapes (techs) / game",
+              "value": 0.3
+            },
+            {
+              "key": "throw_drive_parry",
+              "label": "Thrown during parry / game",
+              "value": 0.3
+            },
+            {
+              "key": "received_throw_count",
+              "label": "Got thrown / game",
+              "value": 1.6
+            },
+            {
+              "key": "stun",
+              "label": "Stuns / game",
+              "value": 0.1
+            },
+            {
+              "key": "received_stun",
+              "label": "Got stunned / game",
+              "value": 0.1
+            },
+            {
+              "key": "corner_time",
+              "label": "Corner pressure time",
+              "value": 14.7
+            },
+            {
+              "key": "cornered_time",
+              "label": "Time cornered",
+              "value": 8.6
+            },
+            {
+              "key": "gauge_rate_drive_rush_from_cancel",
+              "label": "Drive Rush (cancel) share",
+              "value": 0.2704
+            },
+            {
+              "key": "gauge_rate_drive_rush_from_parry",
+              "label": "Drive Rush (parry) share",
+              "value": 0.0614
+            },
+            {
+              "key": "gauge_rate_drive_arts",
+              "label": "Drive Arts share",
+              "value": 0.2611
+            },
+            {
+              "key": "gauge_rate_drive_impact",
+              "label": "Drive Impact gauge share",
+              "value": 0.0217
+            },
+            {
+              "key": "gauge_rate_drive_guard",
+              "label": "Drive Guard share",
+              "value": 0.1187
+            },
+            {
+              "key": "gauge_rate_sa_lv1",
+              "label": "SA1 usage share",
+              "value": 0.2585
+            },
+            {
+              "key": "gauge_rate_sa_lv2",
+              "label": "SA2 usage share",
+              "value": 0.7074
+            },
+            {
+              "key": "gauge_rate_sa_lv3",
+              "label": "SA3 usage share",
+              "value": 0.0272
+            },
+            {
+              "key": "gauge_rate_ca",
+              "label": "CA usage share",
+              "value": 0.0068
+            }
+          ],
+          "rankedGames": 37336,
+          "profileHref": "/players/%E3%82%B7%E3%82%B2%E3%83%9E%E3%83%84-1576585852"
+        },
+        {
+          "shortId": "2742666761",
+          "name": "キクラゲ",
+          "mr": 1954,
+          "lp": 906399,
+          "characterId": 15,
+          "habits": [
+            {
+              "key": "drive_impact",
+              "label": "Drive Impact / game",
+              "value": 0.3
+            },
+            {
+              "key": "drive_parry",
+              "label": "Drive Parry / game",
+              "value": 1.6
+            },
+            {
+              "key": "just_parry",
+              "label": "Perfect Parry / game",
+              "value": 0.5
+            },
+            {
+              "key": "drive_reversal",
+              "label": "Drive Reversal / game",
+              "value": 0.5
+            },
+            {
+              "key": "punish_counter",
+              "label": "Punish Counter / game",
+              "value": 0.2
+            },
+            {
+              "key": "received_punish_counter",
+              "label": "Got PC'd / game",
+              "value": 0
+            },
+            {
+              "key": "throw_count",
+              "label": "Throws / game",
+              "value": 2.3
+            },
+            {
+              "key": "throw_tech",
+              "label": "Throw escapes (techs) / game",
+              "value": 0.2
+            },
+            {
+              "key": "throw_drive_parry",
+              "label": "Thrown during parry / game",
+              "value": 0.3
+            },
+            {
+              "key": "received_throw_count",
+              "label": "Got thrown / game",
+              "value": 1.9
+            },
+            {
+              "key": "stun",
+              "label": "Stuns / game",
+              "value": 0.1
+            },
+            {
+              "key": "received_stun",
+              "label": "Got stunned / game",
+              "value": 0
+            },
+            {
+              "key": "corner_time",
+              "label": "Corner pressure time",
+              "value": 11.4
+            },
+            {
+              "key": "cornered_time",
+              "label": "Time cornered",
+              "value": 8.7
+            },
+            {
+              "key": "gauge_rate_drive_rush_from_cancel",
+              "label": "Drive Rush (cancel) share",
+              "value": 0.3045
+            },
+            {
+              "key": "gauge_rate_drive_rush_from_parry",
+              "label": "Drive Rush (parry) share",
+              "value": 0.077
+            },
+            {
+              "key": "gauge_rate_drive_arts",
+              "label": "Drive Arts share",
+              "value": 0.1969
+            },
+            {
+              "key": "gauge_rate_drive_impact",
+              "label": "Drive Impact gauge share",
+              "value": 0.0171
+            },
+            {
+              "key": "gauge_rate_drive_guard",
+              "label": "Drive Guard share",
+              "value": 0.1346
+            },
+            {
+              "key": "gauge_rate_sa_lv1",
+              "label": "SA1 usage share",
+              "value": 0.3801
+            },
+            {
+              "key": "gauge_rate_sa_lv2",
+              "label": "SA2 usage share",
+              "value": 0.4132
+            },
+            {
+              "key": "gauge_rate_sa_lv3",
+              "label": "SA3 usage share",
+              "value": 0.157
+            },
+            {
+              "key": "gauge_rate_ca",
+              "label": "CA usage share",
+              "value": 0.0495
+            }
+          ],
+          "rankedGames": 24185,
+          "profileHref": "/players/%E3%82%AD%E3%82%AF%E3%83%A9%E3%82%B2-2742666761"
+        },
+        {
+          "shortId": "3913795402",
+          "name": "NISHIKIN",
+          "mr": 1946,
+          "lp": 960111,
+          "characterId": 15,
+          "habits": [
+            {
+              "key": "drive_impact",
+              "label": "Drive Impact / game",
+              "value": 0.3
+            },
+            {
+              "key": "drive_parry",
+              "label": "Drive Parry / game",
+              "value": 0.7
+            },
+            {
+              "key": "just_parry",
+              "label": "Perfect Parry / game",
+              "value": 0.2
+            },
+            {
+              "key": "drive_reversal",
+              "label": "Drive Reversal / game",
+              "value": 0.4
+            },
+            {
+              "key": "punish_counter",
+              "label": "Punish Counter / game",
+              "value": 0.1
+            },
+            {
+              "key": "received_punish_counter",
+              "label": "Got PC'd / game",
+              "value": 0.3
+            },
+            {
+              "key": "throw_count",
+              "label": "Throws / game",
+              "value": 2.6
+            },
+            {
+              "key": "throw_tech",
+              "label": "Throw escapes (techs) / game",
+              "value": 0.2
+            },
+            {
+              "key": "throw_drive_parry",
+              "label": "Thrown during parry / game",
+              "value": 0.2
+            },
+            {
+              "key": "received_throw_count",
+              "label": "Got thrown / game",
+              "value": 1.5
+            },
+            {
+              "key": "stun",
+              "label": "Stuns / game",
+              "value": 0.1
+            },
+            {
+              "key": "received_stun",
+              "label": "Got stunned / game",
+              "value": 0.1
+            },
+            {
+              "key": "corner_time",
+              "label": "Corner pressure time",
+              "value": 10.3
+            },
+            {
+              "key": "cornered_time",
+              "label": "Time cornered",
+              "value": 9.8
+            },
+            {
+              "key": "gauge_rate_drive_rush_from_cancel",
+              "label": "Drive Rush (cancel) share",
+              "value": 0.3212
+            },
+            {
+              "key": "gauge_rate_drive_rush_from_parry",
+              "label": "Drive Rush (parry) share",
+              "value": 0.0539
+            },
+            {
+              "key": "gauge_rate_drive_arts",
+              "label": "Drive Arts share",
+              "value": 0.2681
+            },
+            {
+              "key": "gauge_rate_drive_impact",
+              "label": "Drive Impact gauge share",
+              "value": 0.0282
+            },
+            {
+              "key": "gauge_rate_drive_guard",
+              "label": "Drive Guard share",
+              "value": 0.0809
+            },
+            {
+              "key": "gauge_rate_sa_lv1",
+              "label": "SA1 usage share",
+              "value": 0.2442
+            },
+            {
+              "key": "gauge_rate_sa_lv2",
+              "label": "SA2 usage share",
+              "value": 0.5801
+            },
+            {
+              "key": "gauge_rate_sa_lv3",
+              "label": "SA3 usage share",
+              "value": 0.1526
+            },
+            {
+              "key": "gauge_rate_ca",
+              "label": "CA usage share",
+              "value": 0.0229
+            }
+          ],
+          "rankedGames": 34107,
+          "profileHref": "/players/nishikin-3913795402"
+        },
+        {
+          "shortId": "1409702096",
+          "name": "fantia社長",
+          "mr": 1945,
+          "lp": 519417,
+          "characterId": 15,
+          "habits": [
+            {
+              "key": "drive_impact",
+              "label": "Drive Impact / game",
+              "value": 0.2
+            },
+            {
+              "key": "drive_parry",
+              "label": "Drive Parry / game",
+              "value": 1.8
+            },
+            {
+              "key": "just_parry",
+              "label": "Perfect Parry / game",
+              "value": 0.8
+            },
+            {
+              "key": "drive_reversal",
+              "label": "Drive Reversal / game",
+              "value": 0.5
+            },
+            {
+              "key": "punish_counter",
+              "label": "Punish Counter / game",
+              "value": 0.1
+            },
+            {
+              "key": "received_punish_counter",
+              "label": "Got PC'd / game",
+              "value": 0.1
+            },
+            {
+              "key": "throw_count",
+              "label": "Throws / game",
+              "value": 2.4
+            },
+            {
+              "key": "throw_tech",
+              "label": "Throw escapes (techs) / game",
+              "value": 0.4
+            },
+            {
+              "key": "throw_drive_parry",
+              "label": "Thrown during parry / game",
+              "value": 0.2
+            },
+            {
+              "key": "received_throw_count",
+              "label": "Got thrown / game",
+              "value": 2.2
+            },
+            {
+              "key": "stun",
+              "label": "Stuns / game",
+              "value": 0.1
+            },
+            {
+              "key": "received_stun",
+              "label": "Got stunned / game",
+              "value": 0
+            },
+            {
+              "key": "corner_time",
+              "label": "Corner pressure time",
+              "value": 13.6
+            },
+            {
+              "key": "cornered_time",
+              "label": "Time cornered",
+              "value": 10.8
+            },
+            {
+              "key": "gauge_rate_drive_rush_from_cancel",
+              "label": "Drive Rush (cancel) share",
+              "value": 0.3629
+            },
+            {
+              "key": "gauge_rate_drive_rush_from_parry",
+              "label": "Drive Rush (parry) share",
+              "value": 0.0658
+            },
+            {
+              "key": "gauge_rate_drive_arts",
+              "label": "Drive Arts share",
+              "value": 0.1434
+            },
+            {
+              "key": "gauge_rate_drive_impact",
+              "label": "Drive Impact gauge share",
+              "value": 0.0147
+            },
+            {
+              "key": "gauge_rate_drive_guard",
+              "label": "Drive Guard share",
+              "value": 0.1318
+            },
+            {
+              "key": "gauge_rate_sa_lv1",
+              "label": "SA1 usage share",
+              "value": 0.2277
+            },
+            {
+              "key": "gauge_rate_sa_lv2",
+              "label": "SA2 usage share",
+              "value": 0.3069
+            },
+            {
+              "key": "gauge_rate_sa_lv3",
+              "label": "SA3 usage share",
+              "value": 0.3663
+            },
+            {
+              "key": "gauge_rate_ca",
+              "label": "CA usage share",
+              "value": 0.099
+            }
+          ],
+          "rankedGames": 7933,
+          "profileHref": "/players/fantia%E7%A4%BE%E9%95%B7-1409702096"
+        }
+      ],
+      "rows": [
+        {
+          "key": "drive_impact",
+          "label": "Drive Impact",
+          "you": 0.4,
+          "eliteAvg": 0.25,
+          "eliteMin": 0.1,
+          "eliteMax": 0.8,
+          "delta": 0.15000000000000002,
+          "verdict": "higher",
+          "format": "rate"
+        },
+        {
+          "key": "drive_parry",
+          "label": "Drive Parry",
+          "you": 0.4,
+          "eliteAvg": 1.9000000000000001,
+          "eliteMin": 0.7,
+          "eliteMax": 3.8,
+          "delta": -1.5,
+          "verdict": "lower",
+          "format": "rate"
+        },
+        {
+          "key": "just_parry",
+          "label": "Perfect Parry",
+          "you": 0,
+          "eliteAvg": 0.5833333333333335,
+          "eliteMin": 0.2,
+          "eliteMax": 1.5,
+          "delta": -0.5833333333333335,
+          "verdict": "lower",
+          "format": "rate"
+        },
+        {
+          "key": "drive_reversal",
+          "label": "Drive Reversal",
+          "you": 0,
+          "eliteAvg": 0.32333333333333325,
+          "eliteMin": 0,
+          "eliteMax": 0.9,
+          "delta": -0.32333333333333325,
+          "verdict": "lower",
+          "format": "rate"
+        },
+        {
+          "key": "punish_counter",
+          "label": "Punish Counters landed",
+          "you": 0.3,
+          "eliteAvg": 0.11333333333333338,
+          "eliteMin": 0,
+          "eliteMax": 0.2,
+          "delta": 0.1866666666666666,
+          "verdict": "higher",
+          "format": "rate"
+        },
+        {
+          "key": "received_punish_counter",
+          "label": "Got Punish Countered",
+          "you": 0.9,
+          "eliteAvg": 0.1066666666666667,
+          "eliteMin": 0,
+          "eliteMax": 0.4,
+          "delta": 0.7933333333333333,
+          "verdict": "higher",
+          "format": "rate"
+        },
+        {
+          "key": "throw_count",
+          "label": "Throws",
+          "you": 3.8,
+          "eliteAvg": 2.6533333333333333,
+          "eliteMin": 1.7,
+          "eliteMax": 3.8,
+          "delta": 1.1466666666666665,
+          "verdict": "higher",
+          "format": "rate"
+        },
+        {
+          "key": "throw_tech",
+          "label": "Throw escapes (techs)",
+          "you": 0.5,
+          "eliteAvg": 0.3,
+          "eliteMin": 0,
+          "eliteMax": 0.6,
+          "delta": 0.2,
+          "verdict": "higher",
+          "format": "rate"
+        },
+        {
+          "key": "throw_drive_parry",
+          "label": "Thrown during parry",
+          "you": 0,
+          "eliteAvg": 0.3800000000000001,
+          "eliteMin": 0.2,
+          "eliteMax": 0.9,
+          "delta": -0.3800000000000001,
+          "verdict": "lower",
+          "format": "rate"
+        },
+        {
+          "key": "received_throw_count",
+          "label": "Got thrown",
+          "you": 2.3,
+          "eliteAvg": 1.8499999999999999,
+          "eliteMin": 1.3,
+          "eliteMax": 2.9,
+          "delta": 0.44999999999999996,
+          "verdict": "higher",
+          "format": "rate"
+        },
+        {
+          "key": "stun",
+          "label": "Stuns landed",
+          "you": 0,
+          "eliteAvg": 0.10666666666666672,
+          "eliteMin": 0,
+          "eliteMax": 0.2,
+          "delta": -0.10666666666666672,
+          "verdict": "lower",
+          "format": "rate"
+        },
+        {
+          "key": "received_stun",
+          "label": "Got stunned",
+          "you": 0,
+          "eliteAvg": 0.06000000000000002,
+          "eliteMin": 0,
+          "eliteMax": 0.2,
+          "delta": -0.06000000000000002,
+          "verdict": "lower",
+          "format": "rate"
+        },
+        {
+          "key": "corner_time",
+          "label": "Corner pressure",
+          "you": 2.3,
+          "eliteAvg": 13.159999999999997,
+          "eliteMin": 9.4,
+          "eliteMax": 16.6,
+          "delta": -10.859999999999996,
+          "verdict": "lower",
+          "format": "rate"
+        },
+        {
+          "key": "cornered_time",
+          "label": "Time cornered",
+          "you": 8.1,
+          "eliteAvg": 8.733333333333333,
+          "eliteMin": 4.5,
+          "eliteMax": 11.1,
+          "delta": -0.6333333333333329,
+          "verdict": "similar",
+          "format": "rate"
+        },
+        {
+          "key": "gauge_rate_drive_rush_from_cancel",
+          "label": "Drive Rush (cancel)",
+          "you": 0.0776,
+          "eliteAvg": 0.27960999999999997,
+          "eliteMin": 0.1272,
+          "eliteMax": 0.4021,
+          "delta": -0.20200999999999997,
+          "verdict": "lower",
+          "format": "percent"
+        },
+        {
+          "key": "gauge_rate_drive_rush_from_parry",
+          "label": "Drive Rush (parry)",
+          "you": 0.0223,
+          "eliteAvg": 0.07054333333333333,
+          "eliteMin": 0.0215,
+          "eliteMax": 0.1089,
+          "delta": -0.04824333333333333,
+          "verdict": "lower",
+          "format": "percent"
+        },
+        {
+          "key": "gauge_rate_drive_arts",
+          "label": "Drive Arts",
+          "you": 0.2603,
+          "eliteAvg": 0.2526066666666667,
+          "eliteMin": 0.1323,
+          "eliteMax": 0.345,
+          "delta": 0.007693333333333274,
+          "verdict": "similar",
+          "format": "percent"
+        },
+        {
+          "key": "gauge_rate_drive_impact",
+          "label": "Drive Impact gauge",
+          "you": 0.0615,
+          "eliteAvg": 0.02082,
+          "eliteMin": 0.0082,
+          "eliteMax": 0.0488,
+          "delta": 0.040679999999999994,
+          "verdict": "higher",
+          "format": "percent"
+        },
+        {
+          "key": "gauge_rate_sa_lv1",
+          "label": "SA1",
+          "you": 0.4545,
+          "eliteAvg": 0.2661233333333333,
+          "eliteMin": 0.1034,
+          "eliteMax": 0.5185,
+          "delta": 0.1883766666666667,
+          "verdict": "higher",
+          "format": "percent"
+        },
+        {
+          "key": "gauge_rate_sa_lv2",
+          "label": "SA2",
+          "you": 0.3636,
+          "eliteAvg": 0.5687300000000001,
+          "eliteMin": 0.2592,
+          "eliteMax": 0.8689,
+          "delta": -0.2051300000000001,
+          "verdict": "lower",
+          "format": "percent"
+        },
+        {
+          "key": "gauge_rate_sa_lv3",
+          "label": "SA3",
+          "you": 0.0909,
+          "eliteAvg": 0.12817333333333336,
+          "eliteMin": 0.0152,
+          "eliteMax": 0.3663,
+          "delta": -0.03727333333333337,
+          "verdict": "lower",
+          "format": "percent"
+        },
+        {
+          "key": "gauge_rate_ca",
+          "label": "CA",
+          "you": 0.0909,
+          "eliteAvg": 0.03679666666666667,
+          "eliteMin": 0,
+          "eliteMax": 0.099,
+          "delta": 0.05410333333333332,
+          "verdict": "higher",
+          "format": "percent"
+        },
+        {
+          "key": "gauge_rate_drive_guard",
+          "label": "Drive Guard",
+          "you": 0.062,
+          "eliteAvg": 0.13032333333333335,
+          "eliteMin": 0.0545,
+          "eliteMax": 0.2109,
+          "delta": -0.06832333333333335,
+          "verdict": "lower",
+          "format": "percent"
+        }
+      ],
+      "insights": [
+        "Higher got punish countered than top 30 Blanka avg (+0.79).",
+        "Higher got thrown than top 30 Blanka avg (+0.45).",
+        "Lower got stunned than top 30 Blanka. Solid.",
+        "Lower drive guard than top 30 Blanka. Solid."
+      ],
+      "sampleSize": 30,
+      "timeframe": {
+        "range": "all",
+        "label": "Overall",
+        "from": null,
+        "to": "2026-11-13T05:40:59.464Z",
+        "matches": 179,
+        "minimumMatches": 20,
+        "estimated": false
+      }
+    },
+    "habitsComparedAt": "2026-11-11T09:29:05.364Z",
+    "habitsCompareSource": "shared"
+  }
+}
